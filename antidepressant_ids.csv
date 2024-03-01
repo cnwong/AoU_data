@@ -1,0 +1,607 @@
+﻿concept_id,atc_class,route,name,full_name
+1366737,antidep,Nasal,esketamine,{2 (0.2 ML) (esketamine 140 MG/ML Nasal Spray [Spravato]) } Pack [Spravato 56 MG Dose Kit]
+1366736,antidep,Nasal,esketamine,{2 (0.2 ML) (esketamine 140 MG/ML Nasal Spray) } Pack
+1366735,antidep,Nasal,esketamine,{3 (0.2 ML) (esketamine 140 MG/ML Nasal Spray [Spravato]) } Pack [Spravato 84 MG Dose Kit]
+1366734,antidep,Nasal,esketamine,{3 (0.2 ML) (esketamine 140 MG/ML Nasal Spray) } Pack
+19133789,antidep,PO,milnacipran,{5 (milnacipran hydrochloride 12.5 MG Oral Tablet [Savella]) / 8 (milnacipran hydrochloride 25 MG Oral Tablet [Savella]) / 42 (milnacipran hydrochloride 50 MG Oral Tablet [Savella]) } Pack [Savella 4-Week Titration]
+19133788,antidep,PO,milnacipran,{5 (milnacipran hydrochloride 12.5 MG Oral Tablet) / 8 (milnacipran hydrochloride 25 MG Oral Tablet) / 42 (milnacipran hydrochloride 50 MG Oral Tablet) } Pack
+46234549,antidep,PO,vilazodone,{7 (vilazodone hydrochloride 10 MG Oral Tablet [Viibryd]) / 23 (vilazodone hydrochloride 20 MG Oral Tablet [Viibryd]) } Pack [Viibryd Starter Pack 10/20 30 Day Pack]
+40235110,antidep,PO,vilazodone,{7 (vilazodone hydrochloride 10 MG Oral Tablet [Viibryd]) / 7 (vilazodone hydrochloride 20 MG Oral Tablet [Viibryd]) / 16 (vilazodone hydrochloride 40 MG Oral Tablet [Viibryd]) } Pack [Viibryd 10/20/40 30 Day Pack]
+46234545,antidep,PO,vilazodone,{7 (vilazodone hydrochloride 10 MG Oral Tablet) / 23 (vilazodone hydrochloride 20 MG Oral Tablet) } Pack
+40235111,antidep,PO,vilazodone,{7 (vilazodone hydrochloride 10 MG Oral Tablet) / 7 (vilazodone hydrochloride 20 MG Oral Tablet) / 16 (vilazodone hydrochloride 40 MG Oral Tablet) } Pack
+40221856,antidep,PO,bupropion,12 HR bupropion hydrochloride 100 MG Extended Release Oral Tablet
+40221857,antidep,PO,bupropion,12 HR bupropion hydrochloride 100 MG Extended Release Oral Tablet [Budeprion]
+40221858,antidep,PO,bupropion,12 HR bupropion hydrochloride 100 MG Extended Release Oral Tablet [Wellbutrin]
+40221859,antidep,PO,bupropion,12 HR bupropion hydrochloride 150 MG Extended Release Oral Tablet
+40221860,antidep,PO,bupropion,12 HR bupropion hydrochloride 150 MG Extended Release Oral Tablet [Budeprion]
+40221862,antidep,PO,bupropion,12 HR bupropion hydrochloride 150 MG Extended Release Oral Tablet [Wellbutrin]
+40221864,antidep,PO,bupropion,12 HR bupropion hydrochloride 200 MG Extended Release Oral Tablet
+40221866,antidep,PO,bupropion,12 HR bupropion hydrochloride 200 MG Extended Release Oral Tablet [Wellbutrin]
+45774486,antidep,PO,bupropion,12 HR bupropion hydrochloride 90 MG / naltrexone hydrochloride 8 MG Extended Release Oral Tablet
+45774490,antidep,PO,bupropion,12 HR bupropion hydrochloride 90 MG / naltrexone hydrochloride 8 MG Extended Release Oral Tablet [Contrave]
+40221877,antidep,PO,bupropion,24 HR bupropion hydrobromide 174 MG Extended Release Oral Tablet
+40221878,antidep,PO,bupropion,24 HR bupropion hydrobromide 174 MG Extended Release Oral Tablet [Aplenzin]
+40221879,antidep,PO,bupropion,24 HR bupropion hydrobromide 348 MG Extended Release Oral Tablet
+40221880,antidep,PO,bupropion,24 HR bupropion hydrobromide 348 MG Extended Release Oral Tablet [Aplenzin]
+40221881,antidep,PO,bupropion,24 HR bupropion hydrobromide 522 MG Extended Release Oral Tablet
+40221882,antidep,PO,bupropion,24 HR bupropion hydrobromide 522 MG Extended Release Oral Tablet [Aplenzin]
+40221871,antidep,PO,bupropion,24 HR bupropion hydrochloride 150 MG Extended Release Oral Tablet
+40221872,antidep,PO,bupropion,24 HR bupropion hydrochloride 150 MG Extended Release Oral Tablet [Budeprion]
+40221873,antidep,PO,bupropion,24 HR bupropion hydrochloride 150 MG Extended Release Oral Tablet [Wellbutrin]
+40221874,antidep,PO,bupropion,24 HR bupropion hydrochloride 300 MG Extended Release Oral Tablet
+40221875,antidep,PO,bupropion,24 HR bupropion hydrochloride 300 MG Extended Release Oral Tablet [Budeprion]
+40221876,antidep,PO,bupropion,24 HR bupropion hydrochloride 300 MG Extended Release Oral Tablet [Wellbutrin]
+42707259,antidep,PO,bupropion,24 HR bupropion hydrochloride 450 MG Extended Release Oral Tablet
+42707260,antidep,PO,bupropion,24 HR bupropion hydrochloride 450 MG Extended Release Oral Tablet [Forfivo]
+19129664,antidep,PO,desvenlafaxine,24 HR desvenlafaxine 100 MG Extended Release Oral Tablet
+43559999,antidep,PO,desvenlafaxine,24 HR desvenlafaxine 100 MG Extended Release Oral Tablet [Khedezla]
+19129681,antidep,PO,desvenlafaxine,24 HR desvenlafaxine 50 MG Extended Release Oral Tablet
+43560000,antidep,PO,desvenlafaxine,24 HR desvenlafaxine 50 MG Extended Release Oral Tablet [Khedezla]
+1593107,antidep,PO,desvenlafaxine,24 HR desvenlafaxine succinate 100 MG Extended Release Oral Tablet
+19129666,antidep,PO,desvenlafaxine,24 HR desvenlafaxine succinate 100 MG Extended Release Oral Tablet [Pristiq]
+46221214,antidep,PO,desvenlafaxine,24 HR desvenlafaxine succinate 25 MG Extended Release Oral Tablet
+46221216,antidep,PO,desvenlafaxine,24 HR desvenlafaxine succinate 25 MG Extended Release Oral Tablet [Pristiq]
+1593112,antidep,PO,desvenlafaxine,24 HR desvenlafaxine succinate 50 MG Extended Release Oral Tablet
+19129683,antidep,PO,desvenlafaxine,24 HR desvenlafaxine succinate 50 MG Extended Release Oral Tablet [Pristiq]
+40173459,antidep,PO,fluvoxamine,24 HR fluvoxamine maleate 100 MG Extended Release Oral Capsule
+40173465,antidep,PO,fluvoxamine,24 HR fluvoxamine maleate 100 MG Extended Release Oral Capsule [Luvox]
+40173466,antidep,PO,fluvoxamine,24 HR fluvoxamine maleate 150 MG Extended Release Oral Capsule
+40173467,antidep,PO,fluvoxamine,24 HR fluvoxamine maleate 150 MG Extended Release Oral Capsule [Luvox]
+35604757,antidep,PO,paroxetine,24 HR paroxetine hydrochloride 12.5 MG Extended Release Oral Tablet
+35604758,antidep,PO,paroxetine,24 HR paroxetine hydrochloride 12.5 MG Extended Release Oral Tablet [Paxil]
+35604759,antidep,PO,paroxetine,24 HR paroxetine hydrochloride 25 MG Extended Release Oral Tablet
+35604760,antidep,PO,paroxetine,24 HR paroxetine hydrochloride 25 MG Extended Release Oral Tablet [Paxil]
+35604761,antidep,PO,paroxetine,24 HR paroxetine hydrochloride 37.5 MG Extended Release Oral Tablet
+35604762,antidep,PO,paroxetine,24 HR paroxetine hydrochloride 37.5 MG Extended Release Oral Tablet [Paxil]
+40171493,antidep,PO,trazodone,24 HR trazodone hydrochloride 150 MG Extended Release Oral Tablet
+40171494,antidep,PO,trazodone,24 HR trazodone hydrochloride 150 MG Extended Release Oral Tablet [Oleptro]
+40171495,antidep,PO,trazodone,24 HR trazodone hydrochloride 300 MG Extended Release Oral Tablet
+40171496,antidep,PO,trazodone,24 HR trazodone hydrochloride 300 MG Extended Release Oral Tablet [Oleptro]
+743717,antidep,PO,venlafaxine,24 HR venlafaxine 150 MG Extended Release Oral Capsule
+743794,antidep,PO,venlafaxine,24 HR venlafaxine 150 MG Extended Release Oral Capsule [Effexor]
+19132560,antidep,PO,venlafaxine,24 HR venlafaxine 150 MG Extended Release Oral Tablet
+19132561,antidep,PO,venlafaxine,24 HR venlafaxine 225 MG Extended Release Oral Tablet
+743719,antidep,PO,venlafaxine,24 HR venlafaxine 37.5 MG Extended Release Oral Capsule
+743795,antidep,PO,venlafaxine,24 HR venlafaxine 37.5 MG Extended Release Oral Capsule [Effexor]
+19132562,antidep,PO,venlafaxine,24 HR venlafaxine 37.5 MG Extended Release Oral Tablet
+743721,antidep,PO,venlafaxine,24 HR venlafaxine 75 MG Extended Release Oral Capsule
+743793,antidep,PO,venlafaxine,24 HR venlafaxine 75 MG Extended Release Oral Capsule [Effexor]
+19132563,antidep,PO,venlafaxine,24 HR venlafaxine 75 MG Extended Release Oral Tablet
+710062,antidep,PO,amitriptyline,amitriptyline
+710185,antidep,PO,amitriptyline,amitriptyline 10 MG
+19109686,antidep,PO,amitriptyline,amitriptyline 120 MG
+710263,antidep,PO,amitriptyline,amitriptyline 15 MG
+19087006,antidep,PO,amitriptyline,amitriptyline 2 MG/ML
+589159,antidep,PO,amitriptyline,Amitriptyline 20 MG/ML
+19085723,antidep,PO,amitriptyline,amitriptyline 25 MG
+19109687,antidep,PO,amitriptyline,amitriptyline 30 MG
+19110100,antidep,PO,amitriptyline,amitriptyline 60 MG
+710183,antidep,PO,amitriptyline,amitriptyline 75 MG
+19117641,antidep,PO,amitriptyline,amitriptyline 75 MG [Elavil]
+19109688,antidep,PO,amitriptyline,amitriptyline 90 MG
+40162675,antidep,PO,amitriptyline,amitriptyline hydrochloride 10 MG [Elavil]
+40162658,antidep,PO,amitriptyline,amitriptyline hydrochloride 10 MG / perphenazine 2 MG Oral Tablet
+40162661,antidep,PO,amitriptyline,amitriptyline hydrochloride 10 MG / perphenazine 2 MG Oral Tablet [Triavil]
+40162665,antidep,PO,amitriptyline,amitriptyline hydrochloride 10 MG / perphenazine 4 MG Oral Tablet
+40162672,antidep,PO,amitriptyline,amitriptyline hydrochloride 10 MG Oral Tablet
+40162673,antidep,PO,amitriptyline,amitriptyline hydrochloride 10 MG Oral Tablet [Elavil]
+40162674,antidep,PO,amitriptyline,amitriptyline hydrochloride 10 MG Oral Tablet [Endep]
+40162679,antidep,IM/IV,amitriptyline,amitriptyline hydrochloride 10 MG/ML Injectable Solution [Elavil]
+40162682,antidep,PO,amitriptyline,amitriptyline hydrochloride 100 MG
+40162683,antidep,PO,amitriptyline,amitriptyline hydrochloride 100 MG Oral Tablet
+40162684,antidep,PO,amitriptyline,amitriptyline hydrochloride 100 MG Oral Tablet [Elavil]
+40162685,antidep,PO,amitriptyline,amitriptyline hydrochloride 100 MG Oral Tablet [Endep]
+40162688,antidep,PO,amitriptyline,amitriptyline hydrochloride 12.5 MG
+40162691,antidep,PO,amitriptyline,amitriptyline hydrochloride 12.5 MG / chlordiazepoxide 5 MG Oral Tablet
+40162692,antidep,PO,amitriptyline,amitriptyline hydrochloride 12.5 MG / chlordiazepoxide 5 MG Oral Tablet [Limbitrol]
+40162694,antidep,PO,amitriptyline,amitriptyline hydrochloride 150 MG
+40162695,antidep,PO,amitriptyline,amitriptyline hydrochloride 150 MG Oral Tablet
+40162697,antidep,PO,amitriptyline,amitriptyline hydrochloride 150 MG Oral Tablet [Endep]
+40162720,antidep,PO,amitriptyline,amitriptyline hydrochloride 25 MG [Elavil]
+40162701,antidep,PO,amitriptyline,amitriptyline hydrochloride 25 MG / chlordiazepoxide 10 MG Oral Tablet
+40162704,antidep,PO,amitriptyline,amitriptyline hydrochloride 25 MG / perphenazine 2 MG Oral Tablet
+40162707,antidep,PO,amitriptyline,amitriptyline hydrochloride 25 MG / perphenazine 2 MG Oral Tablet [Triavil]
+40162711,antidep,PO,amitriptyline,amitriptyline hydrochloride 25 MG / perphenazine 4 MG Oral Tablet
+40162717,antidep,PO,amitriptyline,amitriptyline hydrochloride 25 MG Oral Tablet
+19025664,antidep,PO,amitriptyline,amitriptyline hydrochloride 25 MG Oral Tablet [Domical]
+40162718,antidep,PO,amitriptyline,amitriptyline hydrochloride 25 MG Oral Tablet [Elavil]
+40162719,antidep,PO,amitriptyline,amitriptyline hydrochloride 25 MG Oral Tablet [Endep]
+40162722,antidep,PO,amitriptyline,amitriptyline hydrochloride 5 MG/ML
+40162724,antidep,PO,amitriptyline,amitriptyline hydrochloride 50 MG
+40162733,antidep,PO,amitriptyline,amitriptyline hydrochloride 50 MG [Elavil]
+40162726,antidep,PO,amitriptyline,amitriptyline hydrochloride 50 MG / perphenazine 4 MG Oral Tablet [Triavil]
+40162729,antidep,PO,amitriptyline,amitriptyline hydrochloride 50 MG Oral Tablet
+19025666,antidep,PO,amitriptyline,amitriptyline hydrochloride 50 MG Oral Tablet [Domical]
+40162730,antidep,PO,amitriptyline,amitriptyline hydrochloride 50 MG Oral Tablet [Elavil]
+40162731,antidep,PO,amitriptyline,amitriptyline hydrochloride 50 MG Oral Tablet [Endep]
+40162732,antidep,PO,amitriptyline,amitriptyline hydrochloride 50 MG Oral Tablet [Vanatrip]
+40162737,antidep,PO,amitriptyline,amitriptyline hydrochloride 75 MG Oral Tablet
+40162738,antidep,PO,amitriptyline,amitriptyline hydrochloride 75 MG Oral Tablet [Elavil]
+40162739,antidep,PO,amitriptyline,amitriptyline hydrochloride 75 MG Oral Tablet [Endep]
+713109,antidep,PO,amoxapine,amoxapine
+713110,antidep,PO,amoxapine,amoxapine 100 MG Oral Tablet
+19029947,antidep,PO,amoxapine,amoxapine 100 MG Oral Tablet [Asendin]
+713111,antidep,PO,amoxapine,amoxapine 150 MG Oral Tablet
+19029974,antidep,PO,amoxapine,amoxapine 150 MG Oral Tablet [Asendin]
+713132,antidep,PO,amoxapine,amoxapine 25 MG Oral Tablet
+19029977,antidep,PO,amoxapine,amoxapine 25 MG Oral Tablet [Asendin]
+713133,antidep,PO,amoxapine,amoxapine 50 MG Oral Tablet
+19029980,antidep,PO,amoxapine,amoxapine 50 MG Oral Tablet [Asendin]
+750982,antidep,PO,bupropion,bupropion
+40125347,antidep,PO,bupropion,bupropion Extended Release Oral Tablet [Buproban]
+40102862,antidep,PO,bupropion,bupropion Extended Release Oral Tablet [Wellbutrin]
+40222100,antidep,PO,bupropion,bupropion hydrobromide 348 MG Extended Release Oral Tablet
+40222056,antidep,PO,bupropion,bupropion hydrochloride 100 MG
+40222062,antidep,PO,bupropion,bupropion hydrochloride 100 MG [Budeprion]
+40222063,antidep,PO,bupropion,bupropion hydrochloride 100 MG [Wellbutrin]
+40222057,antidep,PO,bupropion,bupropion hydrochloride 100 MG Extended Release Oral Tablet
+40222059,antidep,PO,bupropion,bupropion hydrochloride 100 MG Extended Release Oral Tablet [Wellbutrin]
+40222060,antidep,PO,bupropion,bupropion hydrochloride 100 MG Oral Tablet
+40222061,antidep,PO,bupropion,bupropion hydrochloride 100 MG Oral Tablet [Wellbutrin]
+40222064,antidep,PO,bupropion,bupropion hydrochloride 150 MG
+40222070,antidep,PO,bupropion,bupropion hydrochloride 150 MG [Budeprion]
+40222072,antidep,PO,bupropion,bupropion hydrochloride 150 MG [Wellbutrin]
+40222073,antidep,PO,bupropion,bupropion hydrochloride 150 MG [Zyban]
+40222065,antidep,PO,bupropion,bupropion hydrochloride 150 MG Extended Release Oral Tablet
+40222067,antidep,PO,bupropion,bupropion hydrochloride 150 MG Extended Release Oral Tablet [Buproban]
+40222068,antidep,PO,bupropion,bupropion hydrochloride 150 MG Extended Release Oral Tablet [Wellbutrin]
+40222069,antidep,PO,bupropion,bupropion hydrochloride 150 MG Extended Release Oral Tablet [Zyban]
+40222074,antidep,PO,bupropion,bupropion hydrochloride 200 MG
+40222077,antidep,PO,bupropion,bupropion hydrochloride 200 MG [Wellbutrin]
+40222075,antidep,PO,bupropion,bupropion hydrochloride 200 MG Extended Release Oral Tablet
+40222076,antidep,PO,bupropion,bupropion hydrochloride 200 MG Extended Release Oral Tablet [Wellbutrin]
+40222083,antidep,PO,bupropion,bupropion hydrochloride 300 MG
+40222087,antidep,PO,bupropion,bupropion hydrochloride 300 MG [Budeprion]
+40222088,antidep,PO,bupropion,bupropion hydrochloride 300 MG [Wellbutrin]
+40222084,antidep,PO,bupropion,bupropion hydrochloride 300 MG Extended Release Oral Tablet
+40222085,antidep,PO,bupropion,bupropion hydrochloride 300 MG Extended Release Oral Tablet [Budeprion]
+40222086,antidep,PO,bupropion,bupropion hydrochloride 300 MG Extended Release Oral Tablet [Wellbutrin]
+42705084,antidep,PO,bupropion,bupropion hydrochloride 450 MG
+40222089,antidep,PO,bupropion,bupropion hydrochloride 50 MG
+40222091,antidep,PO,bupropion,bupropion hydrochloride 75 MG
+40222094,antidep,PO,bupropion,bupropion hydrochloride 75 MG [Wellbutrin]
+40222092,antidep,PO,bupropion,bupropion hydrochloride 75 MG Oral Tablet
+40222093,antidep,PO,bupropion,bupropion hydrochloride 75 MG Oral Tablet [Wellbutrin]
+797617,antidep,PO,citalopram,citalopram
+797639,antidep,PO,citalopram,citalopram 10 MG
+19120749,antidep,PO,citalopram,citalopram 10 MG [Celexa]
+797632,antidep,PO,citalopram,citalopram 10 MG Oral Tablet
+797633,antidep,PO,citalopram,citalopram 10 MG Oral Tablet [Celexa]
+19017328,antidep,PO,citalopram,citalopram 10 MG Oral Tablet [Cipramil]
+19084879,antidep,PO,citalopram,citalopram 2 MG/ML
+19058161,antidep,PO,citalopram,citalopram 2 MG/ML [Celexa]
+19075393,antidep,PO,citalopram,citalopram 2 MG/ML Oral Solution
+797621,antidep,PO,citalopram,citalopram 2 MG/ML Oral Solution [Celexa]
+797636,antidep,PO,citalopram,citalopram 20 MG
+19120296,antidep,PO,citalopram,citalopram 20 MG [Celexa]
+19023636,antidep,PO,citalopram,citalopram 20 MG Oral Tablet
+797619,antidep,PO,citalopram,citalopram 20 MG Oral Tablet [Celexa]
+19010672,antidep,PO,citalopram,citalopram 20 MG Oral Tablet [Cipramil]
+19113503,antidep,PO,citalopram,citalopram 20 MG Oral Tablet [Citalopraam]
+797637,antidep,PO,citalopram,citalopram 40 MG
+19058160,antidep,PO,citalopram,citalopram 40 MG [Celexa]
+19075394,antidep,PO,citalopram,citalopram 40 MG Oral Tablet
+797620,antidep,PO,citalopram,citalopram 40 MG Oral Tablet [Celexa]
+19054100,antidep,PO,citalopram,citalopram 40 MG Oral Tablet [Cipramil]
+40029129,antidep,PO,citalopram,citalopram Oral Tablet
+798834,antidep,PO,clomipramine,clomipramine
+19085292,antidep,PO,clomipramine,clomipramine 75 MG
+40163057,antidep,PO,clomipramine,clomipramine hydrochloride 10 MG
+40169581,antidep,PO,clomipramine,clomipramine hydrochloride 20 MG
+40163062,antidep,PO,clomipramine,clomipramine hydrochloride 25 MG
+40163066,antidep,PO,clomipramine,clomipramine hydrochloride 25 MG [Anafranil]
+40163063,antidep,PO,clomipramine,clomipramine hydrochloride 25 MG Oral Capsule
+40163064,antidep,PO,clomipramine,clomipramine hydrochloride 25 MG Oral Capsule [Anafranil]
+40163069,antidep,PO,clomipramine,clomipramine hydrochloride 50 MG
+40163073,antidep,PO,clomipramine,clomipramine hydrochloride 50 MG [Anafranil]
+40163070,antidep,PO,clomipramine,clomipramine hydrochloride 50 MG Oral Capsule
+40163071,antidep,PO,clomipramine,clomipramine hydrochloride 50 MG Oral Capsule [Anafranil]
+40163078,antidep,PO,clomipramine,clomipramine hydrochloride 75 MG [Anafranil]
+40163076,antidep,PO,clomipramine,clomipramine hydrochloride 75 MG Oral Capsule
+40163077,antidep,PO,clomipramine,clomipramine hydrochloride 75 MG Oral Capsule [Anafranil]
+716968,antidep,PO,,desipramine
+19082929,antidep,PO,,desipramine 25 MG
+717063,antidep,PO,,desipramine 40 MG
+19082930,antidep,PO,,desipramine 50 MG
+40237415,antidep,PO,desipramine,desipramine dibudinate 30 MG
+40237417,antidep,PO,desipramine,desipramine hydrochloride 10 MG
+40237418,antidep,PO,desipramine,desipramine hydrochloride 10 MG Oral Tablet
+40237419,antidep,PO,desipramine,desipramine hydrochloride 10 MG Oral Tablet [Norpramin]
+40237421,antidep,PO,desipramine,desipramine hydrochloride 100 MG
+40237422,antidep,PO,desipramine,desipramine hydrochloride 100 MG Oral Tablet
+40237423,antidep,PO,desipramine,desipramine hydrochloride 100 MG Oral Tablet [Norpramin]
+40237427,antidep,PO,desipramine,desipramine hydrochloride 150 MG
+40237428,antidep,PO,desipramine,desipramine hydrochloride 150 MG Oral Tablet
+40237429,antidep,PO,desipramine,desipramine hydrochloride 150 MG Oral Tablet [Norpramin]
+40237432,antidep,PO,desipramine,desipramine hydrochloride 25 MG Oral Tablet
+40237433,antidep,PO,desipramine,desipramine hydrochloride 25 MG Oral Tablet [Norpramin]
+40237434,antidep,PO,desipramine,desipramine hydrochloride 25 MG Oral Tablet [Pertofrane]
+40237441,antidep,PO,desipramine,desipramine hydrochloride 50 MG Oral Tablet
+40237442,antidep,PO,desipramine,desipramine hydrochloride 50 MG Oral Tablet [Norpramin]
+40237444,antidep,PO,desipramine,desipramine hydrochloride 75 MG
+40237445,antidep,PO,desipramine,desipramine hydrochloride 75 MG Oral Tablet
+40237446,antidep,PO,desipramine,desipramine hydrochloride 75 MG Oral Tablet [Norpramin]
+717607,antidep,PO,desvenlafaxine,desvenlafaxine
+19134912,antidep,PO,desvenlafaxine,desvenlafaxine 100 MG Extended Release Oral Tablet [Pristiq]
+738156,antidep,PO,doxepin,doxepin
+738240,antidep,PO,doxepin,doxepin 10 MG
+19085200,antidep,PO,doxepin,doxepin 100 MG
+738241,antidep,PO,doxepin,doxepin 25 MG
+40173384,antidep,PO,doxepin,doxepin 3 MG Oral Tablet
+40173385,antidep,PO,doxepin,doxepin 3 MG Oral Tablet [Silenor]
+19109670,antidep,PO,doxepin,doxepin 40 MG/ML
+19109695,antidep,PO,doxepin,doxepin 5 MG
+738262,antidep,PO,doxepin,doxepin 50 MG
+40173388,antidep,PO,doxepin,doxepin 6 MG Oral Tablet
+40173389,antidep,PO,doxepin,doxepin 6 MG Oral Tablet [Silenor]
+738263,antidep,PO,doxepin,doxepin 75 MG
+40224875,antidep,PO,doxepin,doxepin hydrochloride 10 MG Oral Capsule
+40224877,antidep,PO,doxepin,doxepin hydrochloride 10 MG Oral Capsule [Sinequan]
+40224881,antidep,PO,doxepin,doxepin hydrochloride 10 MG/ML Oral Solution
+40224882,antidep,PO,doxepin,doxepin hydrochloride 10 MG/ML Oral Solution [Sinequan]
+40224885,antidep,PO,doxepin,doxepin hydrochloride 100 MG Oral Capsule
+40224886,antidep,PO,doxepin,doxepin hydrochloride 100 MG Oral Capsule [Adapin]
+40224887,antidep,PO,doxepin,doxepin hydrochloride 100 MG Oral Capsule [Sinequan]
+40224890,antidep,PO,doxepin,doxepin hydrochloride 150 MG
+40224891,antidep,PO,doxepin,doxepin hydrochloride 150 MG Oral Capsule
+40224893,antidep,PO,doxepin,doxepin hydrochloride 150 MG Oral Capsule [Sinequan]
+40224901,antidep,PO,doxepin,doxepin hydrochloride 25 MG [Sinequan]
+40224897,antidep,PO,doxepin,doxepin hydrochloride 25 MG Oral Capsule
+40224899,antidep,PO,doxepin,doxepin hydrochloride 25 MG Oral Capsule [Sinequan]
+40224903,antidep,PO,doxepin,doxepin hydrochloride 50 MG Oral Capsule
+40224904,antidep,PO,doxepin,doxepin hydrochloride 50 MG Oral Capsule [Adapin]
+40224905,antidep,PO,doxepin,doxepin hydrochloride 50 MG Oral Capsule [Sinequan]
+40224909,antidep,PO,doxepin,doxepin hydrochloride 50 MG/ML Topical Cream
+40224910,antidep,PO,doxepin,doxepin hydrochloride 50 MG/ML Topical Cream [Prudoxin]
+40224911,antidep,PO,doxepin,doxepin hydrochloride 50 MG/ML Topical Cream [Zonalon]
+40224915,antidep,PO,doxepin,doxepin hydrochloride 75 MG Oral Capsule
+40224917,antidep,PO,doxepin,doxepin hydrochloride 75 MG Oral Capsule [Sinequan]
+40173391,antidep,PO,doxepin,doxepin Oral Tablet [Silenor]
+715259,antidep,PO,duloxetine,duloxetine
+715293,antidep,PO,duloxetine,duloxetine 20 MG
+19060282,antidep,PO,duloxetine,duloxetine 20 MG [Cymbalta]
+715294,antidep,PO,duloxetine,duloxetine 20 MG Delayed Release Oral Capsule
+715295,antidep,PO,duloxetine,duloxetine 20 MG Delayed Release Oral Capsule [Cymbalta]
+19112657,antidep,PO,duloxetine,duloxetine 20 MG Oral Capsule
+715296,antidep,PO,duloxetine,duloxetine 30 MG
+19060283,antidep,PO,duloxetine,duloxetine 30 MG [Cymbalta]
+19122148,antidep,PO,duloxetine,duloxetine 30 MG Delayed Release Oral Capsule
+715298,antidep,PO,duloxetine,duloxetine 30 MG Delayed Release Oral Capsule [Cymbalta]
+19123437,antidep,PO,duloxetine,duloxetine 40 MG Delayed Release Oral Capsule
+46233914,antidep,PO,duloxetine,duloxetine 40 MG Delayed Release Oral Capsule [Irenka]
+715299,antidep,PO,duloxetine,duloxetine 60 MG
+19060284,antidep,PO,duloxetine,duloxetine 60 MG [Cymbalta]
+715300,antidep,PO,duloxetine,duloxetine 60 MG Delayed Release Oral Capsule
+715301,antidep,PO,duloxetine,duloxetine 60 MG Delayed Release Oral Capsule [Cymbalta]
+715292,antidep,PO,duloxetine,duloxetine hydrochloride 60 MG Extended Release Oral Capsule
+40058318,antidep,PO,duloxetine,duloxetine Oral Capsule
+715939,antidep,PO,escitalopram,escitalopram
+715964,antidep,PO,escitalopram,escitalopram 1 MG/ML Oral Solution
+19102744,antidep,PO,escitalopram,escitalopram 1 MG/ML Oral Solution [Lexapro]
+19098080,antidep,PO,escitalopram,escitalopram 10 MG
+19033449,antidep,PO,escitalopram,escitalopram 10 MG [Lexapro]
+715940,antidep,PO,escitalopram,escitalopram 10 MG Oral Tablet
+715965,antidep,PO,escitalopram,escitalopram 10 MG Oral Tablet [Lexapro]
+715968,antidep,PO,escitalopram,escitalopram 20 MG
+19033450,antidep,PO,escitalopram,escitalopram 20 MG [Lexapro]
+19098166,antidep,PO,escitalopram,escitalopram 20 MG Oral Tablet
+715966,antidep,PO,escitalopram,escitalopram 20 MG Oral Tablet [Lexapro]
+19121118,antidep,PO,escitalopram,escitalopram 5 MG [Lexapro]
+715962,antidep,PO,escitalopram,escitalopram 5 MG Oral Tablet
+19102734,antidep,PO,escitalopram,escitalopram 5 MG Oral Tablet [Lexapro]
+1366618,antidep,Nasal,esketamine,esketamine 140 MG/ML Nasal Spray
+37496953,antidep,Nasal,esketamine,esketamine Nasal Spray
+755695,antidep,PO,fluoxetine,fluoxetine
+755762,antidep,PO,fluoxetine,fluoxetine 10 MG
+19080283,antidep,PO,fluoxetine,fluoxetine 10 MG [Prozac]
+19090638,antidep,PO,fluoxetine,fluoxetine 10 MG [Sarafem]
+19077462,antidep,PO,fluoxetine,fluoxetine 10 MG Oral Capsule
+19029479,antidep,PO,fluoxetine,fluoxetine 10 MG Oral Capsule [Prozac]
+755821,antidep,PO,fluoxetine,fluoxetine 10 MG Oral Capsule [Sarafem]
+19130449,antidep,PO,fluoxetine,fluoxetine 10 MG Oral Capsule [Selfemra]
+19079985,antidep,PO,fluoxetine,fluoxetine 10 MG Oral Tablet
+755734,antidep,PO,fluoxetine,fluoxetine 10 MG Oral Tablet [Prozac]
+19131596,antidep,PO,fluoxetine,fluoxetine 15 MG
+755763,antidep,PO,fluoxetine,fluoxetine 20 MG
+19080281,antidep,PO,fluoxetine,fluoxetine 20 MG [Prozac]
+19090639,antidep,PO,fluoxetine,fluoxetine 20 MG [Sarafem]
+19077463,antidep,PO,fluoxetine,fluoxetine 20 MG Oral Capsule
+19004895,antidep,PO,fluoxetine,fluoxetine 20 MG Oral Capsule [Prozac]
+755852,antidep,PO,fluoxetine,fluoxetine 20 MG Oral Capsule [Sarafem]
+19130466,antidep,PO,fluoxetine,fluoxetine 20 MG Oral Capsule [Selfemra]
+755700,antidep,PO,fluoxetine,fluoxetine 20 MG Oral Tablet
+19103068,antidep,PO,fluoxetine,fluoxetine 25 MG
+19080282,antidep,PO,fluoxetine,fluoxetine 4 MG/ML [Prozac]
+19077464,antidep,PO,fluoxetine,fluoxetine 4 MG/ML Oral Solution
+19004896,antidep,PO,fluoxetine,fluoxetine 4 MG/ML Oral Solution [Prozac]
+19084977,antidep,PO,fluoxetine,fluoxetine 40 MG
+19080284,antidep,PO,fluoxetine,fluoxetine 40 MG [Prozac]
+755739,antidep,PO,fluoxetine,fluoxetine 40 MG Oral Capsule
+755735,antidep,PO,fluoxetine,fluoxetine 40 MG Oral Capsule [Prozac]
+19103071,antidep,PO,fluoxetine,fluoxetine 50 MG
+755770,antidep,PO,fluoxetine,fluoxetine 6 MG
+19091121,antidep,PO,fluoxetine,fluoxetine 60 MG
+19116858,antidep,PO,fluoxetine,fluoxetine 60 MG [Prozac]
+40243919,antidep,PO,fluoxetine,fluoxetine 60 MG Oral Tablet
+755766,antidep,PO,fluoxetine,fluoxetine 90 MG
+19113117,antidep,PO,fluoxetine,fluoxetine 90 MG [Prozac]
+755741,antidep,PO,fluoxetine,fluoxetine 90 MG Delayed Release Oral Capsule
+19122226,antidep,PO,fluoxetine,fluoxetine 90 MG Delayed Release Oral Capsule [Prozac]
+40174701,antidep,PO,fluoxetine,fluoxetine hydrochloride 16 MG
+751412,antidep,PO,fluvoxamine,fluvoxamine
+751420,antidep,PO,fluvoxamine,fluvoxamine 100 MG
+751419,antidep,PO,fluvoxamine,fluvoxamine 50 MG
+40174722,antidep,PO,fluvoxamine,fluvoxamine maleate 100 MG
+40174727,antidep,PO,fluvoxamine,fluvoxamine maleate 100 MG [Luvox]
+40174725,antidep,PO,fluvoxamine,fluvoxamine maleate 100 MG Oral Tablet
+40174726,antidep,PO,fluvoxamine,fluvoxamine maleate 100 MG Oral Tablet [Luvox]
+40174728,antidep,PO,fluvoxamine,fluvoxamine maleate 150 MG
+40174733,antidep,PO,fluvoxamine,fluvoxamine maleate 150 MG [Luvox]
+40174729,antidep,PO,fluvoxamine,fluvoxamine maleate 150 MG Extended Release Oral Capsule
+40174734,antidep,PO,fluvoxamine,fluvoxamine maleate 25 MG
+40174737,antidep,PO,fluvoxamine,fluvoxamine maleate 25 MG [Luvox]
+40174735,antidep,PO,fluvoxamine,fluvoxamine maleate 25 MG Oral Tablet
+40174736,antidep,PO,fluvoxamine,fluvoxamine maleate 25 MG Oral Tablet [Luvox]
+40174741,antidep,PO,fluvoxamine,fluvoxamine maleate 50 MG [Luvox]
+40174739,antidep,PO,fluvoxamine,fluvoxamine maleate 50 MG Oral Tablet
+40174740,antidep,PO,fluvoxamine,fluvoxamine maleate 50 MG Oral Tablet [Luvox]
+778268,antidep,PO,imipramine,imipramine
+778356,antidep,PO,imipramine,imipramine hydrochloride 10 MG
+19001275,antidep,PO,imipramine,imipramine hydrochloride 10 MG [Tofranil]
+778357,antidep,PO,imipramine,imipramine hydrochloride 10 MG Oral Tablet
+19000965,antidep,PO,imipramine,imipramine hydrochloride 10 MG Oral Tablet [Pramimil]
+778359,antidep,PO,imipramine,imipramine hydrochloride 10 MG Oral Tablet [Tofranil]
+778329,antidep,PO,imipramine,imipramine hydrochloride 12.5 MG/ML Injectable Solution
+19135757,antidep,PO,imipramine,imipramine hydrochloride 150 MG
+778295,antidep,PO,imipramine,imipramine hydrochloride 25 MG
+19001272,antidep,PO,imipramine,imipramine hydrochloride 25 MG [Tofranil]
+778296,antidep,PO,imipramine,imipramine hydrochloride 25 MG Oral Tablet
+778297,antidep,PO,imipramine,imipramine hydrochloride 25 MG Oral Tablet [Tofranil]
+778298,antidep,PO,imipramine,imipramine hydrochloride 50 MG
+778299,antidep,PO,imipramine,imipramine hydrochloride 50 MG Oral Tablet
+19134040,antidep,PO,imipramine,imipramine hydrochloride 50 MG Oral Tablet [Tofranil]
+19135759,antidep,PO,imipramine,imipramine hydrochloride 75 MG
+19134044,antidep,PO,imipramine,imipramine pamoate 100 MG
+778355,antidep,PO,imipramine,imipramine pamoate 100 MG Oral Capsule
+778360,antidep,PO,imipramine,imipramine pamoate 100 MG Oral Capsule [Tofranil-PM]
+778352,antidep,PO,imipramine,imipramine pamoate 125 MG
+778353,antidep,PO,imipramine,imipramine pamoate 125 MG Oral Capsule
+778325,antidep,PO,imipramine,imipramine pamoate 150 MG Oral Capsule
+778326,antidep,PO,imipramine,imipramine pamoate 150 MG Oral Capsule [Tofranil-PM]
+778322,antidep,PO,imipramine,imipramine pamoate 75 MG Oral Capsule
+778323,antidep,PO,imipramine,imipramine pamoate 75 MG Oral Capsule [Tofranil-PM]
+781705,antidep,PO,isocarboxazid,isocarboxazid
+19004819,antidep,PO,isocarboxazid,isocarboxazid 10 MG Oral Tablet
+19025733,antidep,PO,isocarboxazid,isocarboxazid 10 MG Oral Tablet [Marplan]
+19080226,antidep,PO,milnacipran,milnacipran
+19080230,antidep,PO,milnacipran,milnacipran hydrochloride 100 MG Oral Tablet
+19080251,antidep,PO,milnacipran,milnacipran hydrochloride 100 MG Oral Tablet [Savella]
+19080253,antidep,PO,milnacipran,milnacipran hydrochloride 12.5 MG Oral Tablet
+19080254,antidep,PO,milnacipran,milnacipran hydrochloride 12.5 MG Oral Tablet [Savella]
+19080257,antidep,PO,milnacipran,milnacipran hydrochloride 25 MG Oral Tablet
+19080258,antidep,PO,milnacipran,milnacipran hydrochloride 25 MG Oral Tablet [Savella]
+19080255,antidep,PO,milnacipran,milnacipran hydrochloride 50 MG Oral Tablet
+19080256,antidep,PO,milnacipran,milnacipran hydrochloride 50 MG Oral Tablet [Savella]
+725131,antidep,PO,mirtazapine,mirtazapine
+19095236,antidep,PO,mirtazapine,mirtazapine 15 MG
+19015747,antidep,PO,mirtazapine,mirtazapine 15 MG [Remeron]
+19070747,antidep,PO,mirtazapine,mirtazapine 15 MG Disintegrating Oral Tablet
+725206,antidep,PO,mirtazapine,mirtazapine 15 MG Disintegrating Oral Tablet [Remeron]
+725178,antidep,PO,mirtazapine,mirtazapine 15 MG Oral Tablet
+725172,antidep,PO,mirtazapine,mirtazapine 15 MG Oral Tablet [Remeron]
+19095237,antidep,PO,mirtazapine,mirtazapine 30 MG
+19015748,antidep,PO,mirtazapine,mirtazapine 30 MG [Remeron]
+19070748,antidep,PO,mirtazapine,mirtazapine 30 MG Disintegrating Oral Tablet
+19128280,antidep,PO,mirtazapine,mirtazapine 30 MG Disintegrating Oral Tablet [Remeron]
+725180,antidep,PO,mirtazapine,mirtazapine 30 MG Oral Tablet
+725173,antidep,PO,mirtazapine,mirtazapine 30 MG Oral Tablet [Remeron]
+725203,antidep,PO,mirtazapine,mirtazapine 45 MG
+19015749,antidep,PO,mirtazapine,mirtazapine 45 MG [Remeron]
+725177,antidep,PO,mirtazapine,mirtazapine 45 MG Disintegrating Oral Tablet
+725208,antidep,PO,mirtazapine,mirtazapine 45 MG Disintegrating Oral Tablet [Remeron]
+725179,antidep,PO,mirtazapine,mirtazapine 45 MG Oral Tablet
+725174,antidep,PO,mirtazapine,mirtazapine 45 MG Oral Tablet [Remeron]
+19112587,antidep,PO,mirtazapine,mirtazapine 7.5 MG
+19112586,antidep,PO,mirtazapine,mirtazapine 7.5 MG Oral Tablet
+714684,antidep,PO,nefazodone,nefazodone
+40238414,antidep,PO,nefazodone,nefazodone hydrochloride 100 MG
+40238417,antidep,PO,nefazodone,nefazodone hydrochloride 100 MG [Serzone]
+40238415,antidep,PO,nefazodone,nefazodone hydrochloride 100 MG Oral Tablet
+40238416,antidep,PO,nefazodone,nefazodone hydrochloride 100 MG Oral Tablet [Serzone]
+40238418,antidep,PO,nefazodone,nefazodone hydrochloride 150 MG
+40238421,antidep,PO,nefazodone,nefazodone hydrochloride 150 MG [Serzone]
+40238419,antidep,PO,nefazodone,nefazodone hydrochloride 150 MG Oral Tablet
+40238420,antidep,PO,nefazodone,nefazodone hydrochloride 150 MG Oral Tablet [Serzone]
+40238422,antidep,PO,nefazodone,nefazodone hydrochloride 200 MG
+40238425,antidep,PO,nefazodone,nefazodone hydrochloride 200 MG [Serzone]
+40238423,antidep,PO,nefazodone,nefazodone hydrochloride 200 MG Oral Tablet
+40238424,antidep,PO,nefazodone,nefazodone hydrochloride 200 MG Oral Tablet [Serzone]
+40238426,antidep,PO,nefazodone,nefazodone hydrochloride 25 MG
+40238431,antidep,PO,nefazodone,nefazodone hydrochloride 250 MG [Serzone]
+40238429,antidep,PO,nefazodone,nefazodone hydrochloride 250 MG Oral Tablet
+40238430,antidep,PO,nefazodone,nefazodone hydrochloride 250 MG Oral Tablet [Serzone]
+40238432,antidep,PO,nefazodone,nefazodone hydrochloride 300 MG
+40238433,antidep,PO,nefazodone,nefazodone hydrochloride 300 MG Oral Tablet
+40238434,antidep,PO,nefazodone,nefazodone hydrochloride 50 MG
+40238437,antidep,PO,nefazodone,nefazodone hydrochloride 50 MG [Serzone]
+40238435,antidep,PO,nefazodone,nefazodone hydrochloride 50 MG Oral Tablet
+40238436,antidep,PO,nefazodone,nefazodone hydrochloride 50 MG Oral Tablet [Serzone]
+721724,antidep,PO,nortriptyline,nortriptyline
+721761,antidep,PO,nortriptyline,nortriptyline 10 MG
+19115957,antidep,PO,nortriptyline,nortriptyline 10 MG [Aventyl]
+19026382,antidep,PO,nortriptyline,nortriptyline 10 MG [Pamelor]
+19019412,antidep,PO,nortriptyline,nortriptyline 10 MG Oral Capsule
+40239274,antidep,PO,nortriptyline,nortriptyline 10 MG Oral Capsule [Aventyl]
+19041173,antidep,PO,nortriptyline,nortriptyline 10 MG Oral Capsule [Pamelor]
+721728,antidep,PO,nortriptyline,nortriptyline 10 MG Oral Tablet
+19079114,antidep,PO,nortriptyline,nortriptyline 2 MG/ML Oral Solution
+40239275,antidep,PO,nortriptyline,nortriptyline 2 MG/ML Oral Solution [Aventyl]
+721797,antidep,PO,nortriptyline,nortriptyline 20 MG
+19083195,antidep,PO,nortriptyline,nortriptyline 25 MG
+19115958,antidep,PO,nortriptyline,nortriptyline 25 MG [Aventyl]
+19118843,antidep,PO,nortriptyline,nortriptyline 25 MG [Pamelor]
+721760,antidep,PO,nortriptyline,nortriptyline 25 MG Oral Capsule
+40239277,antidep,PO,nortriptyline,nortriptyline 25 MG Oral Capsule [Aventyl]
+19121947,antidep,PO,nortriptyline,nortriptyline 25 MG Oral Capsule [Notriptyline]
+19041175,antidep,PO,nortriptyline,nortriptyline 25 MG Oral Capsule [Pamelor]
+721796,antidep,PO,nortriptyline,nortriptyline 30 MG
+721798,antidep,PO,nortriptyline,nortriptyline 40 MG
+721793,antidep,PO,nortriptyline,nortriptyline 50 MG
+19026384,antidep,PO,nortriptyline,nortriptyline 50 MG [Pamelor]
+19019413,antidep,PO,nortriptyline,nortriptyline 50 MG Oral Capsule
+19041194,antidep,PO,nortriptyline,nortriptyline 50 MG Oral Capsule [Pamelor]
+721794,antidep,PO,nortriptyline,nortriptyline 75 MG
+19118855,antidep,PO,nortriptyline,nortriptyline 75 MG [Pamelor]
+19019414,antidep,PO,nortriptyline,nortriptyline 75 MG Oral Capsule
+19041328,antidep,PO,nortriptyline,nortriptyline 75 MG Oral Capsule [Pamelor]
+722031,antidep,PO,paroxetine,paroxetine
+35604569,antidep,PO,paroxetine,paroxetine hydrochloride 10 MG Oral Tablet
+722064,antidep,PO,paroxetine,paroxetine hydrochloride 10 MG Oral Tablet [Paxil]
+19115249,antidep,PO,paroxetine,paroxetine hydrochloride 12.5 MG Extended Release Oral Tablet
+722158,antidep,PO,paroxetine,paroxetine hydrochloride 12.5 MG Extended Release Oral Tablet [Paxil]
+722068,antidep,PO,paroxetine,paroxetine hydrochloride 2 MG/ML Oral Suspension
+722066,antidep,PO,paroxetine,paroxetine hydrochloride 2 MG/ML Oral Suspension [Paxil]
+35604576,antidep,PO,paroxetine,paroxetine hydrochloride 20 MG Oral Tablet
+19035312,antidep,PO,paroxetine,paroxetine hydrochloride 20 MG Oral Tablet [Paxil]
+722156,antidep,PO,paroxetine,paroxetine hydrochloride 25 MG Extended Release Oral Tablet
+722159,antidep,PO,paroxetine,paroxetine hydrochloride 25 MG Extended Release Oral Tablet [Paxil]
+35604581,antidep,PO,paroxetine,paroxetine hydrochloride 30 MG Oral Tablet
+19035313,antidep,PO,paroxetine,paroxetine hydrochloride 30 MG Oral Tablet [Paxil]
+722157,antidep,PO,paroxetine,paroxetine hydrochloride 37.5 MG Extended Release Oral Tablet
+722160,antidep,PO,paroxetine,paroxetine hydrochloride 37.5 MG Extended Release Oral Tablet [Paxil]
+35604586,antidep,PO,paroxetine,paroxetine hydrochloride 40 MG Oral Tablet
+19046308,antidep,PO,paroxetine,paroxetine hydrochloride 40 MG Oral Tablet [Paxil]
+35604589,antidep,PO,paroxetine,paroxetine mesylate 10 MG Oral Tablet
+19113754,antidep,PO,paroxetine,paroxetine mesylate 10 MG Oral Tablet [Pexeva]
+35604702,antidep,PO,paroxetine,paroxetine mesylate 20 MG Oral Tablet
+722121,antidep,PO,paroxetine,paroxetine mesylate 20 MG Oral Tablet [Pexeva]
+35604705,antidep,PO,paroxetine,paroxetine mesylate 30 MG Oral Tablet
+722152,antidep,PO,paroxetine,paroxetine mesylate 30 MG Oral Tablet [Pexeva]
+35604708,antidep,PO,paroxetine,paroxetine mesylate 40 MG Oral Tablet
+722153,antidep,PO,paroxetine,paroxetine mesylate 40 MG Oral Tablet [Pexeva]
+43532894,antidep,PO,paroxetine,paroxetine mesylate 7.5 MG Oral Capsule
+43532895,antidep,PO,paroxetine,paroxetine mesylate 7.5 MG Oral Capsule [Brisdelle]
+40071301,antidep,PO,paroxetine,paroxetine Oral Tablet
+733896,antidep,PO,phenelzine,phenelzine
+19048255,antidep,PO,phenelzine,phenelzine 15 MG [Nardil]
+733898,antidep,PO,phenelzine,phenelzine 15 MG Oral Tablet
+19004818,antidep,PO,phenelzine,phenelzine 15 MG Oral Tablet [Nardil]
+740117,antidep,PO,fluoxetine,PMDD fluoxetine 10 MG Oral Tablet
+755853,antidep,PO,fluoxetine,PMDD fluoxetine 10 MG Oral Tablet [Sarafem]
+19131597,antidep,PO,fluoxetine,PMDD fluoxetine 15 MG Oral Tablet
+740118,antidep,PO,fluoxetine,PMDD fluoxetine 20 MG Oral Tablet
+755854,antidep,PO,fluoxetine,PMDD fluoxetine 20 MG Oral Tablet [Sarafem]
+754270,antidep,PO,protriptyline,protriptyline
+40175375,antidep,PO,protriptyline,protriptyline hydrochloride 10 MG
+40175378,antidep,PO,protriptyline,protriptyline hydrochloride 10 MG [Vivactil]
+40175376,antidep,PO,protriptyline,protriptyline hydrochloride 10 MG Oral Tablet
+40175377,antidep,PO,protriptyline,protriptyline hydrochloride 10 MG Oral Tablet [Vivactil]
+40175379,antidep,PO,protriptyline,protriptyline hydrochloride 5 MG
+40175382,antidep,PO,protriptyline,protriptyline hydrochloride 5 MG [Vivactil]
+40175380,antidep,PO,protriptyline,protriptyline hydrochloride 5 MG Oral Tablet
+40175381,antidep,PO,protriptyline,protriptyline hydrochloride 5 MG Oral Tablet [Vivactil]
+739138,antidep,PO,sertraline,sertraline
+19083100,antidep,PO,sertraline,sertraline 100 MG
+19043841,antidep,PO,sertraline,sertraline 100 MG [Zoloft]
+739207,antidep,PO,sertraline,sertraline 100 MG Oral Tablet
+19037642,antidep,PO,sertraline,sertraline 100 MG Oral Tablet [Zoloft]
+739284,antidep,PO,sertraline,sertraline 150 MG
+40165284,antidep,PO,sertraline,sertraline 20 MG/ML [Zoloft]
+40165282,antidep,PO,sertraline,sertraline 20 MG/ML Oral Solution
+40165283,antidep,PO,sertraline,sertraline 20 MG/ML Oral Solution [Zoloft]
+739283,antidep,PO,sertraline,sertraline 200 MG
+19064370,antidep,PO,sertraline,sertraline 200 MG Oral Capsule
+739282,antidep,PO,sertraline,sertraline 25 MG
+19043843,antidep,PO,sertraline,sertraline 25 MG [Zoloft]
+19079497,antidep,PO,sertraline,sertraline 25 MG Oral Tablet
+739202,antidep,PO,sertraline,sertraline 25 MG Oral Tablet [Zoloft]
+739211,antidep,PO,sertraline,sertraline 50 MG
+19043842,antidep,PO,sertraline,sertraline 50 MG [Zoloft]
+739209,antidep,PO,sertraline,sertraline 50 MG Oral Tablet
+19037684,antidep,PO,sertraline,sertraline 50 MG Oral Tablet [Zoloft]
+40081943,antidep,PO,sertraline,sertraline Oral Tablet
+36249641,antidep,PO,bupropion,Smoking Cessation 12 HR bupropion hydrochloride 150 MG Extended Release Oral Tablet
+40221861,antidep,PO,bupropion,Smoking Cessation 12 HR bupropion hydrochloride 150 MG Extended Release Oral Tablet [Buproban]
+40221863,antidep,PO,bupropion,Smoking Cessation 12 HR bupropion hydrochloride 150 MG Extended Release Oral Tablet [Zyban]
+37496760,antidep,PO,duloxetine,Sprinkle duloxetine 20 MG Delayed Release Oral Capsule [Drizalma]
+37496763,antidep,PO,duloxetine,Sprinkle duloxetine 30 MG Delayed Release Oral Capsule [Drizalma]
+37496766,antidep,PO,duloxetine,Sprinkle duloxetine 40 MG Delayed Release Oral Capsule [Drizalma]
+37496767,antidep,PO,duloxetine,Sprinkle duloxetine 60 MG Delayed Release Oral Capsule
+37496769,antidep,PO,duloxetine,Sprinkle duloxetine 60 MG Delayed Release Oral Capsule [Drizalma]
+703470,antidep,PO,tranylcypromine,tranylcypromine
+19115965,antidep,PO,tranylcypromine,tranylcypromine 10 MG [Parnate]
+703544,antidep,PO,tranylcypromine,tranylcypromine 10 MG Oral Tablet
+19004820,antidep,PO,tranylcypromine,tranylcypromine 10 MG Oral Tablet [Parnate]
+703547,antidep,PO,trazodone,trazodone
+703614,antidep,PO,trazodone,trazodone 10 MG/ML
+19109758,antidep,PO,trazodone,trazodone 25 MG
+703615,antidep,PO,trazodone,trazodone 75 MG
+40163458,antidep,PO,trazodone,trazodone hydrochloride 100 MG
+40163462,antidep,PO,trazodone,trazodone hydrochloride 100 MG [Desyrel]
+40163460,antidep,PO,trazodone,trazodone hydrochloride 100 MG Oral Tablet
+40163461,antidep,PO,trazodone,trazodone hydrochloride 100 MG Oral Tablet [Desyrel]
+40163463,antidep,PO,trazodone,trazodone hydrochloride 150 MG
+40163466,antidep,PO,trazodone,trazodone hydrochloride 150 MG [Desyrel]
+40163464,antidep,PO,trazodone,trazodone hydrochloride 150 MG Oral Tablet
+40163465,antidep,PO,trazodone,trazodone hydrochloride 150 MG Oral Tablet [Desyrel]
+19004750,antidep,PO,trazodone,trazodone hydrochloride 150 MG Oral Tablet [Molipaxin]
+40163467,antidep,PO,trazodone,trazodone hydrochloride 300 MG
+40163470,antidep,PO,trazodone,trazodone hydrochloride 300 MG [Desyrel]
+40163468,antidep,PO,trazodone,trazodone hydrochloride 300 MG Oral Tablet
+40163469,antidep,PO,trazodone,trazodone hydrochloride 300 MG Oral Tablet [Desyrel]
+40163471,antidep,PO,trazodone,trazodone hydrochloride 50 MG
+40163475,antidep,PO,trazodone,trazodone hydrochloride 50 MG [Desyrel]
+40163473,antidep,PO,trazodone,trazodone hydrochloride 50 MG Oral Tablet
+40163474,antidep,PO,trazodone,trazodone hydrochloride 50 MG Oral Tablet [Desyrel]
+40090682,antidep,PO,trazodone,trazodone Oral Solution
+40090686,antidep,PO,trazodone,trazodone Oral Tablet [Desyrel]
+705755,antidep,PO,trimipramine,trimipramine
+705794,antidep,PO,trimipramine,trimipramine 100 MG Oral Capsule
+19039154,antidep,PO,trimipramine,trimipramine 100 MG Oral Capsule [Surmontil]
+705796,antidep,PO,trimipramine,trimipramine 25 MG Oral Capsule
+19039155,antidep,PO,trimipramine,trimipramine 25 MG Oral Capsule [Surmontil]
+705797,antidep,PO,trimipramine,trimipramine 50 MG Oral Capsule
+743670,antidep,PO,venlafaxine,venlafaxine
+743754,antidep,PO,venlafaxine,venlafaxine 100 MG
+19021627,antidep,PO,venlafaxine,venlafaxine 100 MG [Effexor]
+19079835,antidep,PO,venlafaxine,venlafaxine 100 MG Oral Tablet
+19039817,antidep,PO,venlafaxine,venlafaxine 100 MG Oral Tablet [Effexor]
+743759,antidep,PO,venlafaxine,venlafaxine 150 MG
+19127359,antidep,PO,venlafaxine,venlafaxine 150 MG [Effexor]
+19131402,antidep,PO,venlafaxine,venlafaxine 225 MG
+19086246,antidep,PO,venlafaxine,venlafaxine 25 MG
+19021628,antidep,PO,venlafaxine,venlafaxine 25 MG [Effexor]
+743718,antidep,PO,venlafaxine,venlafaxine 25 MG Oral Tablet
+19039818,antidep,PO,venlafaxine,venlafaxine 25 MG Oral Tablet [Effexor]
+743755,antidep,PO,venlafaxine,venlafaxine 37.5 MG
+19021629,antidep,PO,venlafaxine,venlafaxine 37.5 MG [Effexor]
+743760,antidep,PO,venlafaxine,venlafaxine 37.5 MG Extended Release Oral Tablet
+743720,antidep,PO,venlafaxine,venlafaxine 37.5 MG Oral Tablet
+19039819,antidep,PO,venlafaxine,venlafaxine 37.5 MG Oral Tablet [Effexor]
+19083159,antidep,PO,venlafaxine,venlafaxine 50 MG
+19118741,antidep,PO,venlafaxine,venlafaxine 50 MG [Effexor]
+743753,antidep,PO,venlafaxine,venlafaxine 50 MG Oral Tablet
+19039820,antidep,PO,venlafaxine,venlafaxine 50 MG Oral Tablet [Effexor]
+19083160,antidep,PO,venlafaxine,venlafaxine 75 MG
+19118743,antidep,PO,venlafaxine,venlafaxine 75 MG [Effexor]
+743752,antidep,PO,venlafaxine,venlafaxine 75 MG Oral Tablet
+19039822,antidep,PO,venlafaxine,venlafaxine 75 MG Oral Tablet [Effexor]
+40234834,antidep,PO,vilazodone,vilazodone
+40234838,antidep,PO,vilazodone,vilazodone hydrochloride 10 MG Oral Tablet
+40234839,antidep,PO,vilazodone,vilazodone hydrochloride 10 MG Oral Tablet [Viibryd]
+40234842,antidep,PO,vilazodone,vilazodone hydrochloride 20 MG Oral Tablet
+40234843,antidep,PO,vilazodone,vilazodone hydrochloride 20 MG Oral Tablet [Viibryd]
+40234846,antidep,PO,vilazodone,vilazodone hydrochloride 40 MG Oral Tablet
+40234847,antidep,PO,vilazodone,vilazodone hydrochloride 40 MG Oral Tablet [Viibryd]
+19008261,antidep,PO,viloxazine,viloxazine
+44507700,antidep,PO,vortioxetine,vortioxetine
+44506611,antidep,PO,vortioxetine,vortioxetine 10 MG Oral Tablet
+44506623,antidep,PO,vortioxetine,vortioxetine 10 MG Oral Tablet [Brintellix]
+42629569,antidep,PO,vortioxetine,vortioxetine 10 MG Oral Tablet [Trintellix]
+44506612,antidep,PO,vortioxetine,vortioxetine 20 MG Oral Tablet
+44506620,antidep,PO,vortioxetine,vortioxetine 20 MG Oral Tablet [Brintellix]
+42629573,antidep,PO,vortioxetine,vortioxetine 20 MG Oral Tablet [Trintellix]
+44506613,antidep,PO,vortioxetine,vortioxetine 5 MG Oral Tablet
+44506616,antidep,PO,vortioxetine,vortioxetine 5 MG Oral Tablet [Brintellix]
+42629575,antidep,PO,vortioxetine,vortioxetine 5 MG Oral Tablet [Trintellix]
+42629568,antidep,PO,vortioxetine,vortioxetine Oral Tablet [Trintellix]

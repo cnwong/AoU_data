@@ -1,0 +1,179 @@
+﻿concept_id,atc_class,route,name,full_name
+46287623,hyp_sed,IV/IM,midazolam,1 ML midazolam 5 MG/ML Cartridge
+46287621,hyp_sed,IV/IM,midazolam,1 ML midazolam 5 MG/ML Injection
+45774458,hyp_sed,IV/IM,midazolam,1 ML midazolam 5 MG/ML Prefilled Syringe
+35603044,hyp_sed,IV/IM,dexmedetomidine,100 ML dexmedetomidine 0.004 MG/ML Injection
+35603045,hyp_sed,IV/IM,dexmedetomidine,100 ML dexmedetomidine 0.004 MG/ML Injection [Precedex]
+1537584,hyp_sed,IV/IM,midazolam,100 ML midazolam 1 MG/ML Injection
+19076175,hyp_sed,IV/IM,dexmedetomidine,2 ML dexmedetomidine 0.1 MG/ML Injection
+19061089,hyp_sed,IV/IM,dexmedetomidine,2 ML dexmedetomidine 0.1 MG/ML Injection [Precedex]
+46287612,hyp_sed,IV/IM,midazolam,2 ML midazolam 1 MG/ML Cartridge
+46287618,hyp_sed,IV/IM,midazolam,2 ML midazolam 1 MG/ML Injection
+40223160,hyp_sed,IV/IM,midazolam,2 ML midazolam 1 MG/ML Prefilled Syringe
+46287625,hyp_sed,IV/IM,midazolam,2 ML midazolam 5 MG/ML Injection
+45774456,hyp_sed,IV/IM,midazolam,2 ML midazolam 5 MG/ML Prefilled Syringe
+35603037,hyp_sed,IV/IM,dexmedetomidine,20 ML dexmedetomidine 0.004 MG/ML Injection
+35603039,hyp_sed,IV/IM,dexmedetomidine,20 ML dexmedetomidine 0.004 MG/ML Injection [Precedex]
+700295,hyp_sed,IV/IM,thiopental,20 ML thiopental 25 MG/ML Prefilled Syringe
+19127246,hyp_sed,IV/IM,thiopental,20 ML thiopental 25 MG/ML Prefilled Syringe [Pentothal]
+37003612,hyp_sed,IV/IM,dexmedetomidine,250 ML dexmedetomidine 0.004 MG/ML Injection
+46287620,hyp_sed,IV/IM,midazolam,5 ML midazolam 1 MG/ML Injection
+35603042,hyp_sed,IV/IM,dexmedetomidine,50 ML dexmedetomidine 0.004 MG/ML Injection
+35603043,hyp_sed,IV/IM,dexmedetomidine,50 ML dexmedetomidine 0.004 MG/ML Injection [Precedex]
+965777,hyp_sed,Transdermal,scopolamine,72 HR scopolamine 0.0139 MG/HR Transdermal System
+966010,hyp_sed,Transdermal,scopolamine,72 HR scopolamine 0.0139 MG/HR Transdermal System [Transderm Scop]
+19061088,hyp_sed,IV/IM,dexmedetomidine,dexmedetomidine
+35603040,hyp_sed,IV/IM,dexmedetomidine,dexmedetomidine 0.004 MG/ML Injection
+35603041,hyp_sed,IV/IM,dexmedetomidine,dexmedetomidine 0.004 MG/ML Injection [Precedex]
+19120718,hyp_sed,IV/IM,dexmedetomidine,dexmedetomidine 0.1 MG/ML [Precedex]
+35604437,hyp_sed,IV/IM,dexmedetomidine,dexmedetomidine 0.1 MG/ML Injectable Solution
+748010,hyp_sed,PO,estazolam,estazolam
+748011,hyp_sed,PO,estazolam,estazolam 1 MG Oral Tablet
+19031821,hyp_sed,PO,estazolam,estazolam 1 MG Oral Tablet [ProSom]
+19118079,hyp_sed,PO,estazolam,estazolam 2 MG [ProSom]
+748032,hyp_sed,PO,estazolam,estazolam 2 MG Oral Tablet
+19031822,hyp_sed,PO,estazolam,estazolam 2 MG Oral Tablet [ProSom]
+757352,hyp_sed,PO,eszopiclone,eszopiclone
+19113339,hyp_sed,PO,eszopiclone,eszopiclone 1 MG [Lunesta]
+19112814,hyp_sed,PO,eszopiclone,eszopiclone 1 MG Oral Tablet
+19113340,hyp_sed,PO,eszopiclone,eszopiclone 1 MG Oral Tablet [Lunesta]
+19113341,hyp_sed,PO,eszopiclone,eszopiclone 2 MG [Lunesta]
+757356,hyp_sed,PO,eszopiclone,eszopiclone 2 MG Oral Tablet
+19113342,hyp_sed,PO,eszopiclone,eszopiclone 2 MG Oral Tablet [Lunesta]
+757357,hyp_sed,PO,eszopiclone,eszopiclone 3 MG
+19113343,hyp_sed,PO,eszopiclone,eszopiclone 3 MG [Lunesta]
+757358,hyp_sed,PO,eszopiclone,eszopiclone 3 MG Oral Tablet
+19113344,hyp_sed,PO,eszopiclone,eszopiclone 3 MG Oral Tablet [Lunesta]
+756349,hyp_sed,PO,flurazepam,flurazepam
+42800764,hyp_sed,PO,flurazepam,flurazepam hydrochloride 15 MG
+42800768,hyp_sed,PO,flurazepam,flurazepam hydrochloride 15 MG [Dalmane]
+42800765,hyp_sed,PO,flurazepam,flurazepam hydrochloride 15 MG Oral Capsule
+42800766,hyp_sed,PO,flurazepam,flurazepam hydrochloride 15 MG Oral Capsule [Dalmane]
+42800771,hyp_sed,PO,flurazepam,flurazepam hydrochloride 30 MG
+42800775,hyp_sed,PO,flurazepam,flurazepam hydrochloride 30 MG [Dalmane]
+42800772,hyp_sed,PO,flurazepam,flurazepam hydrochloride 30 MG Oral Capsule
+42800773,hyp_sed,PO,flurazepam,flurazepam hydrochloride 30 MG Oral Capsule [Dalmane]
+37498491,hyp_sed,PO,lemborexant,lemborexant
+37499461,hyp_sed,PO,lemborexant,lemborexant 10 MG Oral Tablet
+37499463,hyp_sed,PO,lemborexant,lemborexant 10 MG Oral Tablet [Dayvigo]
+37498496,hyp_sed,PO,lemborexant,lemborexant 5 MG Oral Tablet
+37498502,hyp_sed,PO,lemborexant,lemborexant 5 MG Oral Tablet [Dayvigo]
+702865,hyp_sed,PO,meprobamate,meprobamate
+702867,hyp_sed,PO,meprobamate,meprobamate 200 MG Oral Tablet
+19033461,hyp_sed,PO,meprobamate,meprobamate 200 MG Oral Tablet [Miltown]
+702868,hyp_sed,PO,meprobamate,meprobamate 400 MG Oral Tablet
+19025635,hyp_sed,PO,meprobamate,meprobamate 400 MG Oral Tablet [Equanil]
+702999,hyp_sed,PO,meprobamate,meprobamate 400 MG Oral Tablet [Trancot]
+708298,hyp_sed,IM/IV,midazolam,midazolam
+708336,hyp_sed,IM/IV,midazolam,midazolam 1 MG/ML
+19008132,hyp_sed,IM/IV,midazolam,midazolam 1 MG/ML [Versed]
+19078924,hyp_sed,IM/IV,midazolam,midazolam 1 MG/ML Injectable Solution
+19114697,hyp_sed,IM/IV,midazolam,midazolam 1 MG/ML Injectable Solution [Midazolan]
+19035273,hyp_sed,IM/IV,midazolam,midazolam 1 MG/ML Injectable Solution [Versed]
+46287619,hyp_sed,IM/IV,midazolam,midazolam 1 MG/ML Injection
+708363,hyp_sed,IM/IV,midazolam,midazolam 10 MG/ML
+19085091,hyp_sed,IM/IV,midazolam,midazolam 2 MG/ML
+19008134,hyp_sed,IM/IV,midazolam,midazolam 2 MG/ML [Versed]
+19009067,hyp_sed,IM/IV,midazolam,midazolam 2 MG/ML Injectable Solution
+19105755,hyp_sed,IM/IV,midazolam,midazolam 2 MG/ML Oral Solution
+708362,hyp_sed,IM/IV,midazolam,midazolam 2 MG/ML Oral Solution [Versed]
+19086213,hyp_sed,IM/IV,midazolam,midazolam 5 MG/ML
+19008133,hyp_sed,IM/IV,midazolam,midazolam 5 MG/ML [Versed]
+19078925,hyp_sed,IM/IV,midazolam,midazolam 5 MG/ML Injectable Solution
+35200710,hyp_sed,IM/IV,midazolam,midazolam 5 MG/ML Injectable Solution [Seizalam]
+19035275,hyp_sed,IM/IV,midazolam,midazolam 5 MG/ML Injectable Solution [Versed]
+1396589,hyp_sed,Nasal,midazolam,midazolam 50 MG/ML Nasal Spray
+1396595,hyp_sed,Nasal,midazolam,midazolam 50 MG/ML Nasal Spray [Nayzilam]
+708339,hyp_sed,IM/IV,midazolam,midazolam 7.5 MG
+40064205,hyp_sed,IM/IV,midazolam,midazolam Injectable Solution
+46287617,hyp_sed,IM/IV,midazolam,midazolam Injection
+730729,hyp_sed,IM/IV,pentobarbital,pentobarbital
+40067571,hyp_sed,IM/IV,pentobarbital,pentobarbital Injectable Solution
+730823,hyp_sed,IM/IV,pentobarbital,pentobarbital sodium 100 MG Oral Capsule
+730879,hyp_sed,IM/IV,pentobarbital,pentobarbital sodium 3.64 MG/ML Oral Solution
+36250006,hyp_sed,IM/IV,pentobarbital,pentobarbital sodium 50 MG
+19057198,hyp_sed,IM/IV,pentobarbital,pentobarbital sodium 50 MG/ML Injectable Solution
+19035623,hyp_sed,IM/IV,pentobarbital,pentobarbital sodium 50 MG/ML Injectable Solution [Nembutal]
+730822,hyp_sed,Rectal,pentobarbital,pentobarbital sodium 60 MG Rectal Suppository
+731188,hyp_sed,PO,quazepam,quazepam
+19036747,hyp_sed,PO,quazepam,quazepam 15 MG Oral Tablet [Doral]
+781182,hyp_sed,PO,ramelteon,ramelteon
+781183,hyp_sed,PO,ramelteon,ramelteon 8 MG
+19122505,hyp_sed,PO,ramelteon,ramelteon 8 MG [Rozerem]
+781184,hyp_sed,PO,ramelteon,ramelteon 8 MG Oral Tablet
+19122506,hyp_sed,PO,ramelteon,ramelteon 8 MG Oral Tablet [Rozerem]
+965748,hyp_sed,PO/Transdermal,scopolamine,scopolamine
+19022825,hyp_sed,PO,scopolamine,scopolamine 0.4 MG Oral Tablet
+19113251,hyp_sed,PO,scopolamine,scopolamine 0.4 MG Oral Tablet [Maldemar]
+19019816,hyp_sed,IM/IV,scopolamine,scopolamine 0.4 MG/ML Injectable Solution
+37497299,hyp_sed,Transdermal,scopolamine,scopolamine hydrobromide 1.5 MG
+45775760,hyp_sed,PO,suvorexant,suvorexant
+45775763,hyp_sed,PO,suvorexant,suvorexant 10 MG Oral Tablet
+45775767,hyp_sed,PO,suvorexant,suvorexant 10 MG Oral Tablet [Belsomra]
+45775769,hyp_sed,PO,suvorexant,suvorexant 15 MG Oral Tablet
+45775771,hyp_sed,PO,suvorexant,suvorexant 15 MG Oral Tablet [Belsomra]
+45775773,hyp_sed,PO,suvorexant,suvorexant 20 MG Oral Tablet
+45775775,hyp_sed,PO,suvorexant,suvorexant 20 MG Oral Tablet [Belsomra]
+45775990,hyp_sed,PO,suvorexant,suvorexant 5 MG Oral Tablet
+45775992,hyp_sed,PO,suvorexant,suvorexant 5 MG Oral Tablet [Belsomra]
+44814600,hyp_sed,PO,tasimelteon,tasimelteon
+44814602,hyp_sed,PO,tasimelteon,tasimelteon 20 MG Oral Capsule
+44814603,hyp_sed,PO,tasimelteon,tasimelteon 20 MG Oral Capsule [Hetlioz]
+836715,hyp_sed,PO,temazepam,temazepam
+836731,hyp_sed,PO,temazepam,temazepam 15 MG
+19118683,hyp_sed,PO,temazepam,temazepam 15 MG [Restoril]
+836718,hyp_sed,PO,temazepam,temazepam 15 MG Oral Capsule
+19038578,hyp_sed,PO,temazepam,temazepam 15 MG Oral Capsule [Restoril]
+19025606,hyp_sed,PO,temazepam,temazepam 15 MG Oral Capsule [Temazepam Gelthix]
+836739,hyp_sed,PO,temazepam,temazepam 22.5 MG Oral Capsule
+836740,hyp_sed,PO,temazepam,temazepam 22.5 MG Oral Capsule [Restoril]
+836732,hyp_sed,PO,temazepam,temazepam 30 MG
+19079760,hyp_sed,PO,temazepam,temazepam 30 MG [Restoril]
+836719,hyp_sed,PO,temazepam,temazepam 30 MG Oral Capsule
+19038579,hyp_sed,PO,temazepam,temazepam 30 MG Oral Capsule [Restoril]
+836733,hyp_sed,PO,temazepam,temazepam 7.5 MG
+19079758,hyp_sed,PO,temazepam,temazepam 7.5 MG [Restoril]
+836720,hyp_sed,PO,temazepam,temazepam 7.5 MG Oral Capsule
+19038577,hyp_sed,PO,temazepam,temazepam 7.5 MG Oral Capsule [Restoril]
+704599,hyp_sed,PO,triazolam,triazolam
+19088618,hyp_sed,PO,triazolam,triazolam 0.125 MG [Halcion]
+704600,hyp_sed,PO,triazolam,triazolam 0.125 MG Oral Tablet
+19039284,hyp_sed,PO,triazolam,triazolam 0.125 MG Oral Tablet [Halcion]
+704636,hyp_sed,PO,triazolam,triazolam 0.25 MG
+19088619,hyp_sed,PO,triazolam,triazolam 0.25 MG [Halcion]
+704601,hyp_sed,PO,triazolam,triazolam 0.25 MG Oral Tablet
+19039287,hyp_sed,PO,triazolam,triazolam 0.25 MG Oral Tablet [Halcion]
+720727,hyp_sed,PO,zaleplon,zaleplon
+19099765,hyp_sed,PO,zaleplon,zaleplon 10 MG [Sonata]
+720730,hyp_sed,PO,zaleplon,zaleplon 10 MG Oral Capsule
+720729,hyp_sed,PO,zaleplon,zaleplon 10 MG Oral Capsule [Sonata]
+19120659,hyp_sed,PO,zaleplon,zaleplon 5 MG [Sonata]
+720731,hyp_sed,PO,zaleplon,zaleplon 5 MG Oral Capsule
+720728,hyp_sed,PO,zaleplon,zaleplon 5 MG Oral Capsule [Sonata]
+744740,hyp_sed,PO,zolpidem,zolpidem
+40101581,hyp_sed,PO,zolpidem,zolpidem Oral Tablet
+40244256,hyp_sed,PO,zolpidem,zolpidem tartrate 1.75 MG Sublingual Tablet
+40244257,hyp_sed,PO,zolpidem,zolpidem tartrate 1.75 MG Sublingual Tablet [Intermezzo]
+744795,hyp_sed,PO,zolpidem,zolpidem tartrate 10 MG
+40163494,hyp_sed,PO,zolpidem,zolpidem tartrate 10 MG [Ambien]
+40163492,hyp_sed,PO,zolpidem,zolpidem tartrate 10 MG Oral Tablet
+40163493,hyp_sed,PO,zolpidem,zolpidem tartrate 10 MG Oral Tablet [Ambien]
+19016922,hyp_sed,PO,zolpidem,zolpidem tartrate 10 MG Oral Tablet [Stilnoct]
+744796,hyp_sed,PO,zolpidem,zolpidem tartrate 10 MG Sublingual Tablet
+744797,hyp_sed,PO,zolpidem,zolpidem tartrate 10 MG Sublingual Tablet [Edluar]
+40163495,hyp_sed,PO,zolpidem,zolpidem tartrate 12.5 MG
+40163498,hyp_sed,PO,zolpidem,zolpidem tartrate 12.5 MG [Ambien]
+40163496,hyp_sed,PO,zolpidem,zolpidem tartrate 12.5 MG Extended Release Oral Tablet
+40163497,hyp_sed,PO,zolpidem,zolpidem tartrate 12.5 MG Extended Release Oral Tablet [Ambien]
+40244260,hyp_sed,PO,zolpidem,zolpidem tartrate 3.5 MG Sublingual Tablet
+40244261,hyp_sed,PO,zolpidem,zolpidem tartrate 3.5 MG Sublingual Tablet [Intermezzo]
+19134128,hyp_sed,PO,zolpidem,zolpidem tartrate 5 MG
+40163502,hyp_sed,PO,zolpidem,zolpidem tartrate 5 MG [Ambien]
+40163500,hyp_sed,PO,zolpidem,zolpidem tartrate 5 MG Oral Tablet
+40163501,hyp_sed,PO,zolpidem,zolpidem tartrate 5 MG Oral Tablet [Ambien]
+19003153,hyp_sed,PO,zolpidem,zolpidem tartrate 5 MG Oral Tablet [Stilnoct]
+19134129,hyp_sed,PO,zolpidem,zolpidem tartrate 5 MG Sublingual Tablet
+19134131,hyp_sed,PO,zolpidem,zolpidem tartrate 5 MG Sublingual Tablet [Edluar]
+40163506,hyp_sed,PO,zolpidem,zolpidem tartrate 6.25 MG [Ambien]
+40163504,hyp_sed,PO,zolpidem,zolpidem tartrate 6.25 MG Extended Release Oral Tablet
+40163505,hyp_sed,PO,zolpidem,zolpidem tartrate 6.25 MG Extended Release Oral Tablet [Ambien]

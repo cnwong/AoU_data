@@ -1,0 +1,557 @@
+﻿concept_id,atc_class,route,name,full_name
+46234550,antipsych,PO,quetiapine,{1 (24 HR quetiapine 200 MG Extended Release Oral Tablet [Seroquel]) / 11 (24 HR quetiapine 300 MG Extended Release Oral Tablet [Seroquel]) / 3 (24 HR quetiapine 50 MG Extended Release Oral Tablet [Seroquel]) } Pack [Seroquel XR 14-Day Sample Kit]
+46234541,antipsych,PO,quetiapine,{1 (24 HR quetiapine 200 MG Extended Release Oral Tablet) / 11 (24 HR quetiapine 300 MG Extended Release Oral Tablet) / 3 (24 HR quetiapine 50 MG Extended Release Oral Tablet) } Pack
+35604603,antipsych,PO,cariprazine,{1 (cariprazine 1.5 MG Oral Capsule [Vraylar]) / 6 (cariprazine 3 MG Oral Capsule [Vraylar]) } Pack [Vraylar 1.5/3 Mixed Pack]
+19135467,antipsych,PO,iloperidone,{2 (iloperidone 1 MG Oral Tablet [Fanapt]) / 2 (iloperidone 2 MG Oral Tablet [Fanapt]) / 2 (iloperidone 4 MG Oral Tablet [Fanapt]) / 2 (iloperidone 6 MG Oral Tablet [Fanapt]) } Pack [Fanapt Titration Pack]
+40163942,antipsych,IM/IV,paliperidone,0.25 ML paliperidone palmitate 156 MG/ML Prefilled Syringe
+40163943,antipsych,IM/IV,paliperidone,0.25 ML paliperidone palmitate 156 MG/ML Prefilled Syringe [Invega]
+40163973,antipsych,IM/IV,paliperidone,0.5 ML paliperidone palmitate 156 MG/ML Prefilled Syringe
+40163974,antipsych,IM/IV,paliperidone,0.5 ML paliperidone palmitate 156 MG/ML Prefilled Syringe [Invega]
+40163988,antipsych,IM/IV,paliperidone,0.75 ML paliperidone palmitate 156 MG/ML Prefilled Syringe
+40163989,antipsych,IM/IV,paliperidone,0.75 ML paliperidone palmitate 156 MG/ML Prefilled Syringe [Invega]
+46233814,antipsych,IM/IV,paliperidone,0.88 ML paliperidone palmitate 310 MG/ML Prefilled Syringe
+46233816,antipsych,IM/IV,paliperidone,0.88 ML paliperidone palmitate 310 MG/ML Prefilled Syringe [Invega]
+35605389,antipsych,IM/IV,chlorpromazine,1 ML chlorpromazine hydrochloride 25 MG/ML Injection
+40163875,antipsych,IM/IV,fluphenazine,1 ML fluphenazine decanoate 25 MG/ML Prefilled Syringe
+35603238,antipsych,IM/IV,haloperidol,1 ML haloperidol 5 MG/ML Injection
+35603243,antipsych,IM/IV,haloperidol,1 ML haloperidol 5 MG/ML Injection [Haldol]
+1593510,antipsych,IM/IV,haloperidol,1 ML haloperidol 5 MG/ML Prefilled Syringe
+35603089,antipsych,IM/IV,haloperidol,1 ML haloperidol decanoate 100 MG/ML Injection
+35603091,antipsych,IM/IV,haloperidol,1 ML haloperidol decanoate 100 MG/ML Injection [Haldol]
+35603093,antipsych,IM/IV,haloperidol,1 ML haloperidol decanoate 50 MG/ML Injection
+35603101,antipsych,IM/IV,haloperidol,1 ML haloperidol decanoate 50 MG/ML Injection [Haldol]
+40163884,antipsych,IM/IV,paliperidone,1 ML paliperidone palmitate 156 MG/ML Prefilled Syringe
+40163885,antipsych,IM/IV,paliperidone,1 ML paliperidone palmitate 156 MG/ML Prefilled Syringe [Invega]
+757795,antipsych,IM/IV,aripiprazole,1.3 ML aripiprazole 7.5 MG/ML Injection
+19125353,antipsych,IM/IV,aripiprazole,1.3 ML aripiprazole 7.5 MG/ML Injection [Abilify]
+46233819,antipsych,IM/IV,paliperidone,1.32 ML paliperidone palmitate 311 MG/ML Prefilled Syringe
+46233820,antipsych,IM/IV,paliperidone,1.32 ML paliperidone palmitate 311 MG/ML Prefilled Syringe [Invega]
+45892182,antipsych,IM/IV,aripiprazole,1.5 ML aripiprazole 200 MG/ML Prefilled Syringe
+45892208,antipsych,IM/IV,aripiprazole,1.5 ML aripiprazole 200 MG/ML Prefilled Syringe [Abilify]
+40163887,antipsych,IM/IV,paliperidone,1.5 ML paliperidone palmitate 156 MG/ML Prefilled Syringe
+40163888,antipsych,IM/IV,paliperidone,1.5 ML paliperidone palmitate 156 MG/ML Prefilled Syringe [Invega]
+46233821,antipsych,IM/IV,paliperidone,1.75 ML paliperidone palmitate 312 MG/ML Prefilled Syringe
+46233822,antipsych,IM/IV,paliperidone,1.75 ML paliperidone palmitate 312 MG/ML Prefilled Syringe [Invega]
+45892184,antipsych,IM/IV,aripiprazole,2 ML aripiprazole 200 MG/ML Prefilled Syringe
+45892210,antipsych,IM/IV,aripiprazole,2 ML aripiprazole 200 MG/ML Prefilled Syringe [Abilify]
+35605391,antipsych,IM/IV,chlorpromazine,2 ML chlorpromazine hydrochloride 25 MG/ML Injection
+739329,antipsych,IM/IV,droperidol,2 ML droperidol 2.5 MG/ML Injection
+40163894,antipsych,IM/IV,fluphenazine,2 ML fluphenazine decanoate 25 MG/ML Prefilled Syringe
+752209,antipsych,IM/IV,prochlorperazine,2 ML prochlorperazine 5 MG/ML Injection
+46233823,antipsych,IM/IV,paliperidone,2.63 ML paliperidone palmitate 311 MG/ML Prefilled Syringe
+46233824,antipsych,IM/IV,paliperidone,2.63 ML paliperidone palmitate 311 MG/ML Prefilled Syringe [Invega]
+40166834,antipsych,PO,paliperidone,24 HR paliperidone 1.5 MG Extended Release Oral Tablet
+40166835,antipsych,PO,paliperidone,24 HR paliperidone 1.5 MG Extended Release Oral Tablet [Invega]
+703246,antipsych,PO,paliperidone,24 HR paliperidone 3 MG Extended Release Oral Tablet
+703251,antipsych,PO,paliperidone,24 HR paliperidone 3 MG Extended Release Oral Tablet [Invega]
+703248,antipsych,PO,paliperidone,24 HR paliperidone 6 MG Extended Release Oral Tablet
+703252,antipsych,PO,paliperidone,24 HR paliperidone 6 MG Extended Release Oral Tablet [Invega]
+703250,antipsych,PO,paliperidone,24 HR paliperidone 9 MG Extended Release Oral Tablet
+703253,antipsych,PO,paliperidone,24 HR paliperidone 9 MG Extended Release Oral Tablet [Invega]
+40169352,antipsych,PO,quetiapine,24 HR quetiapine 150 MG Extended Release Oral Tablet
+40169353,antipsych,PO,quetiapine,24 HR quetiapine 150 MG Extended Release Oral Tablet [Seroquel]
+766925,antipsych,PO,quetiapine,24 HR quetiapine 200 MG Extended Release Oral Tablet
+766926,antipsych,PO,quetiapine,24 HR quetiapine 200 MG Extended Release Oral Tablet [Seroquel]
+766927,antipsych,PO,quetiapine,24 HR quetiapine 300 MG Extended Release Oral Tablet
+766928,antipsych,PO,quetiapine,24 HR quetiapine 300 MG Extended Release Oral Tablet [Seroquel]
+766929,antipsych,PO,quetiapine,24 HR quetiapine 400 MG Extended Release Oral Tablet
+766930,antipsych,PO,quetiapine,24 HR quetiapine 400 MG Extended Release Oral Tablet [Seroquel]
+40160985,antipsych,PO,quetiapine,24 HR quetiapine 50 MG Extended Release Oral Tablet
+40160986,antipsych,PO,quetiapine,24 HR quetiapine 50 MG Extended Release Oral Tablet [Seroquel]
+756263,antipsych,IM/IV,fluphenazine,5 ML fluphenazine 25 MG/ML Prefilled Syringe
+40162658,antipsych,PO,perphenazine,amitriptyline hydrochloride 10 MG / perphenazine 2 MG Oral Tablet
+40162661,antipsych,PO,perphenazine,amitriptyline hydrochloride 10 MG / perphenazine 2 MG Oral Tablet [Triavil]
+40162665,antipsych,PO,perphenazine,amitriptyline hydrochloride 10 MG / perphenazine 4 MG Oral Tablet
+40162704,antipsych,PO,perphenazine,amitriptyline hydrochloride 25 MG / perphenazine 2 MG Oral Tablet
+40162707,antipsych,PO,perphenazine,amitriptyline hydrochloride 25 MG / perphenazine 2 MG Oral Tablet [Triavil]
+40162711,antipsych,PO,perphenazine,amitriptyline hydrochloride 25 MG / perphenazine 4 MG Oral Tablet
+40162726,antipsych,PO,perphenazine,amitriptyline hydrochloride 50 MG / perphenazine 4 MG Oral Tablet [Triavil]
+757688,antipsych,ingredient,aripiprazole,aripiprazole
+35143901,antipsych,PO,aripiprazole,aripiprazole 1 MG
+757755,antipsych,PO,aripiprazole,aripiprazole 1 MG/ML Oral Solution
+757756,antipsych,PO,aripiprazole,aripiprazole 1 MG/ML Oral Solution [Abilify]
+19097799,antipsych,PO,aripiprazole,aripiprazole 10 MG
+19121000,antipsych,PO,aripiprazole,aripiprazole 10 MG [Abilify]
+19124358,antipsych,PO,aripiprazole,aripiprazole 10 MG Disintegrating Oral Tablet
+19124359,antipsych,PO,aripiprazole,aripiprazole 10 MG Disintegrating Oral Tablet [Abilify]
+757690,antipsych,PO,aripiprazole,aripiprazole 10 MG Oral Tablet
+19098477,antipsych,PO,aripiprazole,aripiprazole 10 MG Oral Tablet [Abilify]
+19121001,antipsych,PO,aripiprazole,aripiprazole 15 MG [Abilify]
+19124360,antipsych,PO,aripiprazole,aripiprazole 15 MG Disintegrating Oral Tablet
+19124361,antipsych,PO,aripiprazole,aripiprazole 15 MG Disintegrating Oral Tablet [Abilify]
+19096776,antipsych,PO,aripiprazole,aripiprazole 15 MG Oral Tablet
+19098478,antipsych,PO,aripiprazole,aripiprazole 15 MG Oral Tablet [Abilify]
+19031663,antipsych,PO,aripiprazole,aripiprazole 2 MG [Abilify]
+19122479,antipsych,PO,aripiprazole,aripiprazole 2 MG Oral Tablet
+757759,antipsych,PO,aripiprazole,aripiprazole 2 MG Oral Tablet [Abilify]
+19097816,antipsych,PO,aripiprazole,aripiprazole 20 MG
+19121002,antipsych,PO,aripiprazole,aripiprazole 20 MG [Abilify]
+19124362,antipsych,PO,aripiprazole,aripiprazole 20 MG Disintegrating Oral Tablet
+757712,antipsych,PO,aripiprazole,aripiprazole 20 MG Oral Tablet
+19098479,antipsych,PO,aripiprazole,aripiprazole 20 MG Oral Tablet [Abilify]
+19097800,antipsych,PO,aripiprazole,aripiprazole 30 MG
+19121003,antipsych,PO,aripiprazole,aripiprazole 30 MG [Abilify]
+757691,antipsych,PO,aripiprazole,aripiprazole 30 MG Oral Tablet
+19098480,antipsych,PO,aripiprazole,aripiprazole 30 MG Oral Tablet [Abilify]
+46275769,antipsych,IM/IV,aripiprazole,aripiprazole 300 MG Injection
+46275771,antipsych,IM/IV,aripiprazole,aripiprazole 300 MG Injection [Abilify]
+46275765,antipsych,IM/IV,aripiprazole,aripiprazole 400 MG Injection
+46275767,antipsych,IM/IV,aripiprazole,aripiprazole 400 MG Injection [Abilify]
+19102252,antipsych,PO,aripiprazole,aripiprazole 5 MG
+19031662,antipsych,PO,aripiprazole,aripiprazole 5 MG [Abilify]
+19102213,antipsych,PO,aripiprazole,aripiprazole 5 MG Oral Tablet
+19102836,antipsych,PO,aripiprazole,aripiprazole 5 MG Oral Tablet [Abilify]
+19031664,antipsych,IM/IV,aripiprazole,aripiprazole 7.5 MG/ML [Abilify]
+46275748,antipsych,IM/IV,aripiprazole,aripiprazole Injection
+40164052,antipsych,PO,asenapine,asenapine
+40164054,antipsych,PO,asenapine,asenapine 10 MG Sublingual Tablet
+40164055,antipsych,PO,asenapine,asenapine 10 MG Sublingual Tablet [Saphris]
+46221719,antipsych,PO,asenapine,asenapine 2.5 MG Sublingual Tablet
+46221741,antipsych,PO,asenapine,asenapine 2.5 MG Sublingual Tablet [Saphris]
+40164058,antipsych,PO,asenapine,asenapine 5 MG Sublingual Tablet
+40164059,antipsych,PO,asenapine,asenapine 5 MG Sublingual Tablet [Saphris]
+46275300,antipsych,PO,brexpiprazole,brexpiprazole
+46275303,antipsych,PO,brexpiprazole,brexpiprazole 0.25 MG Oral Tablet
+46275307,antipsych,PO,brexpiprazole,brexpiprazole 0.25 MG Oral Tablet [Rexulti]
+46275309,antipsych,PO,brexpiprazole,brexpiprazole 0.5 MG Oral Tablet
+46275311,antipsych,PO,brexpiprazole,brexpiprazole 0.5 MG Oral Tablet [Rexulti]
+46275313,antipsych,PO,brexpiprazole,brexpiprazole 1 MG Oral Tablet
+46275315,antipsych,PO,brexpiprazole,brexpiprazole 1 MG Oral Tablet [Rexulti]
+46275317,antipsych,PO,brexpiprazole,brexpiprazole 2 MG Oral Tablet
+46275319,antipsych,PO,brexpiprazole,brexpiprazole 2 MG Oral Tablet [Rexulti]
+46275321,antipsych,PO,brexpiprazole,brexpiprazole 3 MG Oral Tablet
+46275323,antipsych,PO,brexpiprazole,brexpiprazole 3 MG Oral Tablet [Rexulti]
+46275325,antipsych,PO,brexpiprazole,brexpiprazole 4 MG Oral Tablet
+46275327,antipsych,PO,brexpiprazole,brexpiprazole 4 MG Oral Tablet [Rexulti]
+35603277,antipsych,PO,cariprazine,cariprazine
+35603280,antipsych,PO,cariprazine,cariprazine 1.5 MG Oral Capsule
+35603284,antipsych,PO,cariprazine,cariprazine 1.5 MG Oral Capsule [Vraylar]
+35603286,antipsych,PO,cariprazine,cariprazine 3 MG Oral Capsule
+35603288,antipsych,PO,cariprazine,cariprazine 3 MG Oral Capsule [Vraylar]
+35603290,antipsych,PO,cariprazine,cariprazine 4.5 MG Oral Capsule
+35603292,antipsych,PO,cariprazine,cariprazine 4.5 MG Oral Capsule [Vraylar]
+35603294,antipsych,PO,cariprazine,cariprazine 6 MG Oral Capsule
+35603296,antipsych,PO,cariprazine,cariprazine 6 MG Oral Capsule [Vraylar]
+794852,antipsych,ingredient,chlorpromazine,chlorpromazine
+40179618,antipsych,PO,chlorpromazine,chlorpromazine 100 MG [Thorazine]
+40179619,antipsych,PO,chlorpromazine,chlorpromazine 25 MG
+40179622,antipsych,PO,chlorpromazine,chlorpromazine 25 MG [Thorazine]
+41086893,antipsych,IM/IV,chlorpromazine,Chlorpromazine 50 MG Injectable Solution
+40179633,antipsych,PO,chlorpromazine,chlorpromazine hydrochloride 10 MG
+40179637,antipsych,PO,chlorpromazine,chlorpromazine hydrochloride 10 MG [Thorazine]
+40179635,antipsych,PO,chlorpromazine,chlorpromazine hydrochloride 10 MG Oral Tablet
+40179636,antipsych,PO,chlorpromazine,chlorpromazine hydrochloride 10 MG Oral Tablet [Thorazine]
+40179642,antipsych,PO,chlorpromazine,chlorpromazine hydrochloride 100 MG Oral Tablet
+40179655,antipsych,PO,chlorpromazine,chlorpromazine hydrochloride 100 MG Oral Tablet [Thorazine]
+40179658,antipsych,PO,chlorpromazine,chlorpromazine hydrochloride 100 MG/ML Oral Solution
+40179675,antipsych,PO,chlorpromazine,chlorpromazine hydrochloride 200 MG Oral Tablet
+40179676,antipsych,PO,chlorpromazine,chlorpromazine hydrochloride 200 MG Oral Tablet [Thorazine]
+40179678,antipsych,PO,chlorpromazine,chlorpromazine hydrochloride 25 MG
+40179680,antipsych,PO,chlorpromazine,chlorpromazine hydrochloride 25 MG Oral Tablet
+40179681,antipsych,PO,chlorpromazine,chlorpromazine hydrochloride 25 MG Oral Tablet [Thorazine]
+35605390,antipsych,IM/IV,chlorpromazine,chlorpromazine hydrochloride 25 MG/ML Injection
+40179690,antipsych,PO,chlorpromazine,chlorpromazine hydrochloride 30 MG Extended Release Oral Capsule
+40179694,antipsych,PO,chlorpromazine,chlorpromazine hydrochloride 30 MG/ML Oral Solution
+40179698,antipsych,PO,chlorpromazine,chlorpromazine hydrochloride 300 MG Extended Release Oral Capsule
+40179705,antipsych,PO,chlorpromazine,chlorpromazine hydrochloride 50 MG [Thorazine]
+40179703,antipsych,PO,chlorpromazine,chlorpromazine hydrochloride 50 MG Oral Tablet
+40179704,antipsych,PO,chlorpromazine,chlorpromazine hydrochloride 50 MG Oral Tablet [Thorazine]
+40179706,antipsych,PO,chlorpromazine,chlorpromazine hydrochloride 75 MG
+40179707,antipsych,PO,chlorpromazine,chlorpromazine hydrochloride 75 MG Extended Release Oral Capsule
+800878,antipsych,PO,clozapine,clozapine
+800933,antipsych,PO,clozapine,clozapine 100 MG Disintegrating Oral Tablet
+800935,antipsych,PO,clozapine,clozapine 100 MG Disintegrating Oral Tablet [Fazaclo]
+800881,antipsych,PO,clozapine,clozapine 100 MG Oral Tablet
+19004691,antipsych,PO,clozapine,clozapine 100 MG Oral Tablet [Clozaril]
+19099849,antipsych,PO,clozapine,clozapine 100 MG Oral Tablet [Ivax brand of clozapine]
+800937,antipsych,PO,clozapine,clozapine 12.5 MG Disintegrating Oral Tablet
+40224293,antipsych,PO,clozapine,clozapine 150 MG Disintegrating Oral Tablet
+40223451,antipsych,PO,clozapine,clozapine 200 MG Disintegrating Oral Tablet [Fazaclo]
+19075608,antipsych,PO,clozapine,clozapine 200 MG Oral Tablet
+37498338,antipsych,PO,clozapine,clozapine 200 MG Oral Tablet [Clozaril]
+800934,antipsych,PO,clozapine,clozapine 25 MG Disintegrating Oral Tablet
+19114105,antipsych,PO,clozapine,clozapine 25 MG Disintegrating Oral Tablet [Fazaclo]
+800892,antipsych,PO,clozapine,clozapine 25 MG Oral Tablet
+19004670,antipsych,PO,clozapine,clozapine 25 MG Oral Tablet [Clozaril]
+19099417,antipsych,PO,clozapine,clozapine 25 MG Oral Tablet [Ivax brand of clozapine]
+800921,antipsych,PO,clozapine,clozapine 50 MG Oral Tablet
+37498340,antipsych,PO,clozapine,clozapine 50 MG Oral Tablet [Clozaril]
+739323,antipsych,IM/IV,droperidol,droperidol
+40033032,antipsych,IM/IV,droperidol,droperidol / fentanyl Injectable Solution
+739362,antipsych,IM/IV,droperidol,droperidol 1 MG/ML
+739330,antipsych,IM/IV,droperidol,droperidol 2.5 MG/ML
+35866135,antipsych,IM/IV,droperidol,droperidol 5 MG
+35606381,antipsych,IM/IV,droperidol,droperidol Injection
+19102553,antipsych,PO,olanzapine,fluoxetine 25 MG / olanzapine 12 MG Oral Capsule
+755855,antipsych,PO,olanzapine,fluoxetine 25 MG / olanzapine 3 MG Oral Capsule
+19127046,antipsych,PO,olanzapine,fluoxetine 25 MG / olanzapine 3 MG Oral Capsule [Symbyax]
+19102552,antipsych,PO,olanzapine,fluoxetine 25 MG / olanzapine 6 MG Oral Capsule
+19127038,antipsych,PO,olanzapine,fluoxetine 25 MG / olanzapine 6 MG Oral Capsule [Symbyax]
+19102554,antipsych,PO,olanzapine,fluoxetine 50 MG / olanzapine 12 MG Oral Capsule
+19127040,antipsych,PO,olanzapine,fluoxetine 50 MG / olanzapine 12 MG Oral Capsule [Symbyax]
+19102555,antipsych,PO,olanzapine,fluoxetine 50 MG / olanzapine 6 MG Oral Capsule
+19127042,antipsych,PO,olanzapine,fluoxetine 50 MG / olanzapine 6 MG Oral Capsule [Symbyax]
+756018,antipsych,ingredient,fluphenazine,fluphenazine
+19109997,antipsych,PO,fluphenazine,fluphenazine 25 MG
+43032392,antipsych,IM/IV,fluphenazine,Fluphenazine 25 MG Injectable Solution
+40165599,antipsych,IM/IV,fluphenazine,fluphenazine decanoate 25 MG/ML Injectable Solution
+40165600,antipsych,IM/IV,fluphenazine,fluphenazine decanoate 25 MG/ML Injectable Solution [Prolixin]
+40166665,antipsych,IM/IV,fluphenazine,fluphenazine enanthate 25 MG/ML Injectable Solution [Prolixin]
+40165801,antipsych,PO,fluphenazine,fluphenazine hydrochloride 0.5 MG/ML Oral Solution
+40166643,antipsych,PO,fluphenazine,fluphenazine hydrochloride 1 MG [Prolixin]
+40166641,antipsych,PO,fluphenazine,fluphenazine hydrochloride 1 MG Oral Tablet
+40166642,antipsych,PO,fluphenazine,fluphenazine hydrochloride 1 MG Oral Tablet [Prolixin]
+40165807,antipsych,PO,fluphenazine,fluphenazine hydrochloride 10 MG [Prolixin]
+40165805,antipsych,PO,fluphenazine,fluphenazine hydrochloride 10 MG Oral Tablet
+40166646,antipsych,PO,fluphenazine,fluphenazine hydrochloride 10 MG Oral Tablet [Permitil]
+40165806,antipsych,PO,fluphenazine,fluphenazine hydrochloride 10 MG Oral Tablet [Prolixin]
+40166648,antipsych,PO,fluphenazine,fluphenazine hydrochloride 2.5 MG
+40166650,antipsych,PO,fluphenazine,fluphenazine hydrochloride 2.5 MG Oral Tablet
+40166652,antipsych,PO,fluphenazine,fluphenazine hydrochloride 2.5 MG Oral Tablet [Prolixin]
+40166656,antipsych,IM/IV,fluphenazine,fluphenazine hydrochloride 2.5 MG/ML Injectable Solution
+40166657,antipsych,IM/IV,fluphenazine,fluphenazine hydrochloride 2.5 MG/ML Injectable Solution [Prolixin]
+40165808,antipsych,PO,fluphenazine,fluphenazine hydrochloride 5 MG
+40165811,antipsych,PO,fluphenazine,fluphenazine hydrochloride 5 MG [Prolixin]
+40165809,antipsych,PO,fluphenazine,fluphenazine hydrochloride 5 MG Oral Tablet
+40166659,antipsych,PO,fluphenazine,fluphenazine hydrochloride 5 MG Oral Tablet [Permitil]
+40165810,antipsych,PO,fluphenazine,fluphenazine hydrochloride 5 MG Oral Tablet [Prolixin]
+40165813,antipsych,PO,fluphenazine,fluphenazine hydrochloride 5 MG/ML Oral Solution
+766529,antipsych,ingredient,haloperidol,haloperidol
+19077928,antipsych,PO,haloperidol,haloperidol 0.5 MG Oral Tablet
+19030539,antipsych,PO,haloperidol,haloperidol 0.5 MG Oral Tablet [Haldol]
+19081392,antipsych,PO,haloperidol,haloperidol 1 MG
+19077929,antipsych,PO,haloperidol,haloperidol 1 MG Oral Tablet
+19030602,antipsych,PO,haloperidol,haloperidol 1 MG Oral Tablet [Haldol]
+19077941,antipsych,PO,haloperidol,haloperidol 1 MG/ML Oral Solution
+19088113,antipsych,PO,haloperidol,haloperidol 1.5 MG
+19080061,antipsych,PO,haloperidol,haloperidol 10 MG Oral Tablet
+19024329,antipsych,PO,haloperidol,haloperidol 10 MG Oral Tablet [Fortunan]
+19024330,antipsych,PO,haloperidol,haloperidol 10 MG Oral Tablet [Haldol]
+19016227,antipsych,PO,haloperidol,haloperidol 10 MG Oral Tablet [Kentace]
+19004584,antipsych,PO,haloperidol,haloperidol 10 MG Oral Tablet [Serenace]
+19111794,antipsych,IM/IV,haloperidol,haloperidol 150 MG/ML
+19081394,antipsych,PO,haloperidol,haloperidol 2 MG
+19021820,antipsych,PO,haloperidol,haloperidol 2 MG [Haldol]
+19080040,antipsych,PO,haloperidol,haloperidol 2 MG Oral Tablet
+19030682,antipsych,PO,haloperidol,haloperidol 2 MG Oral Tablet [Haldol]
+766530,antipsych,PO,haloperidol,haloperidol 2 MG/ML Oral Solution
+19031152,antipsych,PO,haloperidol,haloperidol 2 MG/ML Oral Solution [Haldol]
+766531,antipsych,PO,haloperidol,haloperidol 20 MG Oral Tablet
+19030798,antipsych,PO,haloperidol,haloperidol 20 MG Oral Tablet [Haldol]
+19081397,antipsych,PO,haloperidol,haloperidol 5 MG
+19021815,antipsych,PO,haloperidol,haloperidol 5 MG [Haldol]
+19077930,antipsych,PO,haloperidol,haloperidol 5 MG Oral Tablet
+19024327,antipsych,PO,haloperidol,haloperidol 5 MG Oral Tablet [Fortunan]
+19024328,antipsych,PO,haloperidol,haloperidol 5 MG Oral Tablet [Haldol]
+19016226,antipsych,PO,haloperidol,haloperidol 5 MG Oral Tablet [Kentace]
+19004583,antipsych,PO,haloperidol,haloperidol 5 MG Oral Tablet [Serenace]
+19027427,antipsych,IM/IV,haloperidol,haloperidol 5 MG/ML Injectable Solution
+35603239,antipsych,IM/IV,haloperidol,haloperidol 5 MG/ML Injection
+35603244,antipsych,IM/IV,haloperidol,haloperidol 5 MG/ML Injection [Haldol]
+40726456,antipsych,IM/IV,haloperidol,Haloperidol 50 MG/ML Injectable Solution [Haldol]
+40165560,antipsych,IM/IV,haloperidol,haloperidol decanoate 100 MG/ML
+40165563,antipsych,IM/IV,haloperidol,haloperidol decanoate 100 MG/ML [Haldol]
+40165561,antipsych,IM/IV,haloperidol,haloperidol decanoate 100 MG/ML Injectable Solution
+35603090,antipsych,IM/IV,haloperidol,haloperidol decanoate 100 MG/ML Injection
+40165564,antipsych,IM/IV,haloperidol,haloperidol decanoate 50 MG/ML
+40165567,antipsych,IM/IV,haloperidol,haloperidol decanoate 50 MG/ML [Haldol]
+40165565,antipsych,IM/IV,haloperidol,haloperidol decanoate 50 MG/ML Injectable Solution
+35603237,antipsych,IM/IV,haloperidol,haloperidol Injection
+40046616,antipsych,PO,haloperidol,haloperidol Oral Tablet
+19017241,antipsych,PO,iloperidone,iloperidone
+19048279,antipsych,PO,iloperidone,iloperidone 1 MG Oral Tablet
+19048301,antipsych,PO,iloperidone,iloperidone 1 MG Oral Tablet [Fanapt]
+19048302,antipsych,PO,iloperidone,iloperidone 10 MG Oral Tablet
+19048305,antipsych,PO,iloperidone,iloperidone 12 MG Oral Tablet
+19048308,antipsych,PO,iloperidone,iloperidone 2 MG Oral Tablet
+19048310,antipsych,PO,iloperidone,iloperidone 2 MG Oral Tablet [Fanapt]
+19135464,antipsych,PO,iloperidone,iloperidone 4 MG Oral Tablet
+19048333,antipsych,PO,iloperidone,iloperidone 4 MG Oral Tablet [Fanapt]
+19048334,antipsych,PO,iloperidone,iloperidone 6 MG Oral Tablet
+19048336,antipsych,PO,iloperidone,iloperidone 6 MG Oral Tablet [Fanapt]
+19048337,antipsych,PO,iloperidone,iloperidone 8 MG Oral Tablet
+19135465,antipsych,PO,iloperidone,iloperidone 8 MG Oral Tablet [Fanapt]
+19124477,antipsych,PO,lithium,lithium
+792263,antipsych,PO,loxapine,loxapine
+19045813,antipsych,PO,loxapine,loxapine 10 MG [Loxitane]
+19080130,antipsych,PO,loxapine,loxapine 10 MG Oral Capsule
+19031882,antipsych,PO,loxapine,loxapine 10 MG Oral Capsule [Loxitane]
+792301,antipsych,PO,loxapine,loxapine 25 MG
+792295,antipsych,PO,loxapine,loxapine 25 MG Oral Capsule
+19031886,antipsych,PO,loxapine,loxapine 25 MG Oral Capsule [Loxitane]
+792299,antipsych,PO,loxapine,loxapine 25 MG/ML Oral Solution
+792296,antipsych,PO,loxapine,loxapine 5 MG Oral Capsule
+19031881,antipsych,PO,loxapine,loxapine 5 MG Oral Capsule [Loxitane]
+19080127,antipsych,PO,loxapine,loxapine 50 MG Oral Capsule
+19031887,antipsych,PO,loxapine,loxapine 50 MG Oral Capsule [Loxitane]
+792294,antipsych,IM/IV,loxapine,loxapine 50 MG/ML Injectable Solution
+37498659,antipsych,PO,Lumateperone,Lumateperone
+37498664,antipsych,PO,Lumateperone,Lumateperone 42 MG Oral Capsule
+37498670,antipsych,PO,Lumateperone,Lumateperone 42 MG Oral Capsule [Caplyta]
+40230761,antipsych,PO,lurasidone,lurasidone
+42800967,antipsych,PO,lurasidone,lurasidone hydrochloride 120 MG Oral Tablet
+42800968,antipsych,PO,lurasidone,lurasidone hydrochloride 120 MG Oral Tablet [Latuda]
+42707649,antipsych,PO,lurasidone,lurasidone hydrochloride 20 MG Oral Tablet
+42707650,antipsych,PO,lurasidone,lurasidone hydrochloride 20 MG Oral Tablet [Latuda]
+40231370,antipsych,PO,lurasidone,lurasidone hydrochloride 40 MG Oral Tablet
+40231371,antipsych,PO,lurasidone,lurasidone hydrochloride 40 MG Oral Tablet [Latuda]
+43532949,antipsych,PO,lurasidone,lurasidone hydrochloride 60 MG Oral Tablet
+43532950,antipsych,PO,lurasidone,lurasidone hydrochloride 60 MG Oral Tablet [Latuda]
+40231374,antipsych,PO,lurasidone,lurasidone hydrochloride 80 MG Oral Tablet
+40231375,antipsych,PO,lurasidone,lurasidone hydrochloride 80 MG Oral Tablet [Latuda]
+40230763,antipsych,PO,lurasidone,lurasidone Oral Tablet [Latuda]
+709699,antipsych,PO,molindone,molindone
+42801020,antipsych,PO,molindone,molindone hydrochloride 10 MG Oral Tablet [Moban]
+42801033,antipsych,PO,molindone,molindone hydrochloride 25 MG [Moban]
+42801031,antipsych,PO,molindone,molindone hydrochloride 25 MG Oral Tablet
+42801032,antipsych,PO,molindone,molindone hydrochloride 25 MG Oral Tablet [Moban]
+42801035,antipsych,PO,molindone,molindone hydrochloride 5 MG Oral Tablet
+42801036,antipsych,PO,molindone,molindone hydrochloride 5 MG Oral Tablet [Moban]
+42801040,antipsych,PO,molindone,molindone hydrochloride 50 MG Oral Tablet [Moban]
+785788,antipsych,ingredient,olanzapine,olanzapine
+19081763,antipsych,PO,olanzapine,olanzapine 10 MG
+19015938,antipsych,PO,olanzapine,olanzapine 10 MG [Zyprexa]
+19079152,antipsych,PO,olanzapine,olanzapine 10 MG Disintegrating Oral Tablet
+19128377,antipsych,PO,olanzapine,olanzapine 10 MG Disintegrating Oral Tablet [Zyprexa]
+785874,antipsych,IM/IV,olanzapine,olanzapine 10 MG Injection
+785875,antipsych,IM/IV,olanzapine,olanzapine 10 MG Injection [Zyprexa]
+785821,antipsych,PO,olanzapine,olanzapine 10 MG Oral Tablet
+19016821,antipsych,PO,olanzapine,olanzapine 10 MG Oral Tablet [Zyprexa]
+19085098,antipsych,PO,olanzapine,olanzapine 15 MG
+19015940,antipsych,PO,olanzapine,olanzapine 15 MG [Zyprexa]
+19098136,antipsych,PO,olanzapine,olanzapine 15 MG Disintegrating Oral Tablet
+19128378,antipsych,PO,olanzapine,olanzapine 15 MG Disintegrating Oral Tablet [Zyprexa]
+19079153,antipsych,PO,olanzapine,olanzapine 15 MG Oral Tablet
+785814,antipsych,PO,olanzapine,olanzapine 15 MG Oral Tablet [Zyprexa]
+19081764,antipsych,PO,olanzapine,olanzapine 2.5 MG
+19015939,antipsych,PO,olanzapine,olanzapine 2.5 MG [Zyprexa]
+19022782,antipsych,PO,olanzapine,olanzapine 2.5 MG Oral Tablet
+19047064,antipsych,PO,olanzapine,olanzapine 2.5 MG Oral Tablet [Zyprexa]
+19016001,antipsych,PO,olanzapine,olanzapine 20 MG [Zyprexa]
+701896,antipsych,PO,olanzapine,olanzapine 20 MG / samidorphan 10 MG Oral Tablet [Lybalvi]
+19098137,antipsych,PO,olanzapine,olanzapine 20 MG Disintegrating Oral Tablet
+19128379,antipsych,PO,olanzapine,olanzapine 20 MG Disintegrating Oral Tablet [Zyprexa]
+785815,antipsych,PO,olanzapine,olanzapine 20 MG Oral Tablet
+785816,antipsych,PO,olanzapine,olanzapine 20 MG Oral Tablet [Zyprexa]
+35603058,antipsych,IM/IV,olanzapine,olanzapine 300 MG Injection [Zyprexa]
+35603054,antipsych,IM/IV,olanzapine,olanzapine 405 MG Injection [Zyprexa]
+19082514,antipsych,PO,olanzapine,olanzapine 5 MG
+19015936,antipsych,PO,olanzapine,olanzapine 5 MG [Zyprexa]
+785842,antipsych,PO,olanzapine,olanzapine 5 MG Disintegrating Oral Tablet
+19128380,antipsych,PO,olanzapine,olanzapine 5 MG Disintegrating Oral Tablet [Zyprexa]
+19079154,antipsych,PO,olanzapine,olanzapine 5 MG Oral Tablet
+19016799,antipsych,PO,olanzapine,olanzapine 5 MG Oral Tablet [Zyprexa]
+19081765,antipsych,PO,olanzapine,olanzapine 7.5 MG
+19015937,antipsych,PO,olanzapine,olanzapine 7.5 MG [Zyprexa]
+19079155,antipsych,PO,olanzapine,olanzapine 7.5 MG Oral Tablet
+19016800,antipsych,PO,olanzapine,olanzapine 7.5 MG Oral Tablet [Zyprexa]
+35603050,antipsych,IM/IV,olanzapine,olanzapine Injection
+703244,antipsych,ingredient,paliperidone,paliperidone
+19005339,antipsych,PO,paliperidone,paliperidone 3 MG [Invega]
+19005340,antipsych,PO,paliperidone,paliperidone 6 MG [Invega]
+19005371,antipsych,PO,paliperidone,paliperidone 9 MG [Invega]
+36409562,antipsych,IM/IV,paliperidone,paliperidone Injectable Solution
+733008,antipsych,PO,perphenazine,perphenazine
+19019528,antipsych,PO,perphenazine,perphenazine 16 MG Oral Tablet
+19035692,antipsych,PO,perphenazine,perphenazine 16 MG Oral Tablet [Trilafon]
+733095,antipsych,PO,perphenazine,perphenazine 2 MG
+19019529,antipsych,PO,perphenazine,perphenazine 2 MG Oral Tablet
+19035659,antipsych,PO,perphenazine,perphenazine 2 MG Oral Tablet [Trilafon]
+733069,antipsych,PO,perphenazine,perphenazine 3.2 MG/ML Oral Solution
+19082515,antipsych,PO,perphenazine,perphenazine 4 MG
+19019530,antipsych,PO,perphenazine,perphenazine 4 MG Oral Tablet
+19035660,antipsych,PO,perphenazine,perphenazine 4 MG Oral Tablet [Trilafon]
+19057273,antipsych,IM/IV,perphenazine,perphenazine 5 MG/ML Injectable Solution
+19019581,antipsych,PO,perphenazine,perphenazine 8 MG Oral Tablet
+19035691,antipsych,PO,perphenazine,perphenazine 8 MG Oral Tablet [Trilafon]
+40068725,antipsych,IM/IV,perphenazine,perphenazine Injectable Solution
+42628962,antipsych,PO,pimavanserin,pimavanserin
+1559971,antipsych,PO,pimavanserin,pimavanserin 10 MG Oral Tablet
+1559973,antipsych,PO,pimavanserin,pimavanserin 10 MG Oral Tablet [Nuplazid]
+42628966,antipsych,PO,pimavanserin,pimavanserin 17 MG Oral Tablet
+42628970,antipsych,PO,pimavanserin,pimavanserin 17 MG Oral Tablet [Nuplazid]
+1559976,antipsych,PO,pimavanserin,pimavanserin 34 MG Oral Capsule
+1559979,antipsych,PO,pimavanserin,pimavanserin 34 MG Oral Capsule [Nuplazid]
+745790,antipsych,PO,pimozide,pimozide
+745826,antipsych,PO,pimozide,pimozide 1 MG Oral Tablet
+745825,antipsych,PO,pimozide,pimozide 1 MG Oral Tablet [Orap]
+19019661,antipsych,PO,pimozide,pimozide 2 MG Oral Tablet
+19025640,antipsych,PO,pimozide,pimozide 2 MG Oral Tablet [Orap]
+752061,antipsych,ingredient,prochlorperazine,prochlorperazine
+752125,antipsych,PO,prochlorperazine,prochlorperazine 1 MG/ML Oral Solution
+19128585,antipsych,PO,prochlorperazine,prochlorperazine 1 MG/ML Oral Solution [Stemetil]
+752211,antipsych,PO,prochlorperazine,prochlorperazine 10 MG
+19047193,antipsych,PO,prochlorperazine,prochlorperazine 10 MG [Compazine]
+752208,antipsych,PO,prochlorperazine,prochlorperazine 10 MG Extended Release Oral Capsule
+40163297,antipsych,PO,prochlorperazine,prochlorperazine 10 MG Extended Release Oral Capsule [Compazine]
+752095,antipsych,PO,prochlorperazine,prochlorperazine 10 MG Oral Tablet
+19036246,antipsych,PO,prochlorperazine,prochlorperazine 10 MG Oral Tablet [Compazine]
+40163299,antipsych,PO,prochlorperazine,prochlorperazine 15 MG [Compazine]
+752206,antipsych,PO,prochlorperazine,prochlorperazine 15 MG Extended Release Oral Capsule
+19047159,antipsych,PO,prochlorperazine,prochlorperazine 2.5 MG [Compazine]
+19019694,antipsych,Rectal,prochlorperazine,prochlorperazine 2.5 MG Rectal Suppository
+752233,antipsych,PO,prochlorperazine,prochlorperazine 25 MG
+19114355,antipsych,PO,prochlorperazine,prochlorperazine 25 MG [Compazine]
+752092,antipsych,Rectal,prochlorperazine,prochlorperazine 25 MG Rectal Suppository
+19036131,antipsych,Rectal,prochlorperazine,prochlorperazine 25 MG Rectal Suppository [Compazine]
+752129,antipsych,Rectal,prochlorperazine,prochlorperazine 25 MG Rectal Suppository [Compro]
+752235,antipsych,PO,prochlorperazine,prochlorperazine 5 MG
+19047160,antipsych,PO,prochlorperazine,prochlorperazine 5 MG [Compazine]
+21086405,antipsych,PO,prochlorperazine,Prochlorperazine 5 MG Oral Granules
+752205,antipsych,PO,prochlorperazine,prochlorperazine 5 MG Oral Tablet
+19036242,antipsych,PO,prochlorperazine,prochlorperazine 5 MG Oral Tablet [Compazine]
+752094,antipsych,Rectal,prochlorperazine,prochlorperazine 5 MG Rectal Suppository
+19036133,antipsych,Rectal,prochlorperazine,prochlorperazine 5 MG Rectal Suppository [Compazine]
+35201708,antipsych,IM/IV,prochlorperazine,prochlorperazine 5 MG/ML Injectable Solution
+766814,antipsych,PO,quetiapine,quetiapine
+766844,antipsych,PO,quetiapine,quetiapine 100 MG
+19046813,antipsych,PO,quetiapine,quetiapine 100 MG [Seroquel]
+766819,antipsych,PO,quetiapine,quetiapine 100 MG Oral Tablet
+766816,antipsych,PO,quetiapine,quetiapine 100 MG Oral Tablet [Seroquel]
+766848,antipsych,PO,quetiapine,quetiapine 150 MG
+19046818,antipsych,PO,quetiapine,quetiapine 150 MG [Seroquel]
+19095296,antipsych,PO,quetiapine,quetiapine 200 MG
+19046814,antipsych,PO,quetiapine,quetiapine 200 MG [Seroquel]
+766842,antipsych,PO,quetiapine,quetiapine 200 MG Oral Tablet
+19017556,antipsych,PO,quetiapine,quetiapine 200 MG Oral Tablet [Seroquel]
+19095297,antipsych,PO,quetiapine,quetiapine 25 MG
+19046812,antipsych,PO,quetiapine,quetiapine 25 MG [Seroquel]
+766820,antipsych,PO,quetiapine,quetiapine 25 MG Oral Tablet
+766815,antipsych,PO,quetiapine,quetiapine 25 MG Oral Tablet [Seroquel]
+766843,antipsych,PO,quetiapine,quetiapine 300 MG
+19046815,antipsych,PO,quetiapine,quetiapine 300 MG [Seroquel]
+766821,antipsych,PO,quetiapine,quetiapine 300 MG Oral Tablet
+19071493,antipsych,PO,quetiapine,quetiapine 300 MG Oral Tablet [Seroquel]
+19046816,antipsych,PO,quetiapine,quetiapine 400 MG [Seroquel]
+766850,antipsych,PO,quetiapine,quetiapine 400 MG Oral Tablet
+766851,antipsych,PO,quetiapine,quetiapine 400 MG Oral Tablet [Seroquel]
+766922,antipsych,PO,quetiapine,quetiapine 50 MG
+19046817,antipsych,PO,quetiapine,quetiapine 50 MG [Seroquel]
+766923,antipsych,PO,quetiapine,quetiapine 50 MG Oral Tablet
+766924,antipsych,PO,quetiapine,quetiapine 50 MG Oral Tablet [Seroquel]
+40098114,antipsych,PO,quetiapine,quetiapine Oral Tablet
+735979,antipsych,ingredient,risperidone,risperidone
+736061,antipsych,PO,risperidone,risperidone 0.25 MG
+19022642,antipsych,PO,risperidone,risperidone 0.25 MG [Risperdal]
+19124506,antipsych,PO,risperidone,risperidone 0.25 MG Disintegrating Oral Tablet
+19124507,antipsych,PO,risperidone,risperidone 0.25 MG Disintegrating Oral Tablet [Risperdal]
+736020,antipsych,PO,risperidone,risperidone 0.25 MG Oral Tablet
+19068728,antipsych,PO,risperidone,risperidone 0.25 MG Oral Tablet [Risperdal]
+736092,antipsych,PO,risperidone,risperidone 0.5 MG
+19022643,antipsych,PO,risperidone,risperidone 0.5 MG [Risperdal]
+19102476,antipsych,PO,risperidone,risperidone 0.5 MG Disintegrating Oral Tablet
+19132010,antipsych,PO,risperidone,risperidone 0.5 MG Disintegrating Oral Tablet [Risperdal]
+736021,antipsych,PO,risperidone,risperidone 0.5 MG Oral Tablet
+736019,antipsych,PO,risperidone,risperidone 0.5 MG Oral Tablet [Risperdal]
+736056,antipsych,PO,risperidone,risperidone 1 MG
+19115943,antipsych,PO,risperidone,risperidone 1 MG [Risperdal]
+19102162,antipsych,PO,risperidone,risperidone 1 MG Disintegrating Oral Tablet
+19132011,antipsych,PO,risperidone,risperidone 1 MG Disintegrating Oral Tablet [Risperdal]
+19079462,antipsych,PO,risperidone,risperidone 1 MG Oral Tablet
+19004693,antipsych,PO,risperidone,risperidone 1 MG Oral Tablet [Risperdal]
+736015,antipsych,PO,risperidone,risperidone 1 MG/ML Oral Solution
+736016,antipsych,PO,risperidone,risperidone 1 MG/ML Oral Solution [Risperdal]
+19126594,antipsych,IM/IV,risperidone,risperidone 12.5 MG Injection
+19126596,antipsych,IM/IV,risperidone,risperidone 12.5 MG Injection [Risperdal]
+736058,antipsych,PO,risperidone,risperidone 2 MG
+19022538,antipsych,PO,risperidone,risperidone 2 MG [Risperdal]
+19102163,antipsych,PO,risperidone,risperidone 2 MG Disintegrating Oral Tablet
+19132012,antipsych,PO,risperidone,risperidone 2 MG Disintegrating Oral Tablet [Risperdal]
+736053,antipsych,PO,risperidone,risperidone 2 MG Oral Tablet
+19004694,antipsych,PO,risperidone,risperidone 2 MG Oral Tablet [Risperdal]
+19102185,antipsych,IM/IV,risperidone,risperidone 25 MG Injection
+19126602,antipsych,IM/IV,risperidone,risperidone 25 MG Injection [Risperdal]
+736059,antipsych,PO,risperidone,risperidone 3 MG
+19022539,antipsych,PO,risperidone,risperidone 3 MG [Risperdal]
+736134,antipsych,PO,risperidone,risperidone 3 MG Disintegrating Oral Tablet
+19124133,antipsych,PO,risperidone,risperidone 3 MG Disintegrating Oral Tablet [Risperdal]
+736054,antipsych,PO,risperidone,risperidone 3 MG Oral Tablet
+19004695,antipsych,PO,risperidone,risperidone 3 MG Oral Tablet [Risperdal]
+19102186,antipsych,IM/IV,risperidone,risperidone 37.5 MG Injection
+19126598,antipsych,IM/IV,risperidone,risperidone 37.5 MG Injection [Risperdal]
+736060,antipsych,PO,risperidone,risperidone 4 MG
+19022540,antipsych,PO,risperidone,risperidone 4 MG [Risperdal]
+19123471,antipsych,PO,risperidone,risperidone 4 MG Disintegrating Oral Tablet
+19124153,antipsych,PO,risperidone,risperidone 4 MG Disintegrating Oral Tablet [Risperdal]
+736055,antipsych,PO,risperidone,risperidone 4 MG Oral Tablet
+19004696,antipsych,PO,risperidone,risperidone 4 MG Oral Tablet [Risperdal]
+19102187,antipsych,IM/IV,risperidone,risperidone 50 MG Injection
+19126600,antipsych,IM/IV,risperidone,risperidone 50 MG Injection [Risperdal]
+19117186,antipsych,PO,risperidone,risperidone 6 MG [Risperdal]
+963798,antipsych,PO,aripiprazole,Sensor aripiprazole 10 MG Oral Tablet [Abilify]
+963801,antipsych,PO,aripiprazole,Sensor aripiprazole 2 MG Oral Tablet
+963802,antipsych,PO,aripiprazole,Sensor aripiprazole 2 MG Oral Tablet [Abilify]
+963807,antipsych,PO,aripiprazole,Sensor aripiprazole 5 MG Oral Tablet
+963808,antipsych,PO,aripiprazole,Sensor aripiprazole 5 MG Oral Tablet [Abilify]
+700299,antipsych,PO,thioridazine,thioridazine
+19083127,antipsych,PO,thioridazine,thioridazine 10 MG
+19118651,antipsych,PO,thioridazine,thioridazine 10 MG [Mellaril]
+700393,antipsych,PO,thioridazine,thioridazine 10 MG Oral Tablet
+19038351,antipsych,PO,thioridazine,thioridazine 10 MG Oral Tablet [Mellaril]
+19083151,antipsych,PO,thioridazine,thioridazine 100 MG
+19118657,antipsych,PO,thioridazine,thioridazine 100 MG [Mellaril]
+19019856,antipsych,PO,thioridazine,thioridazine 100 MG Oral Tablet
+19038357,antipsych,PO,thioridazine,thioridazine 100 MG Oral Tablet [Mellaril]
+19118652,antipsych,PO,thioridazine,thioridazine 15 MG [Mellaril]
+19118659,antipsych,PO,thioridazine,thioridazine 150 MG [Mellaril]
+19083129,antipsych,PO,thioridazine,thioridazine 25 MG
+19118654,antipsych,PO,thioridazine,thioridazine 25 MG [Mellaril]
+700325,antipsych,PO,thioridazine,thioridazine 25 MG Oral Tablet
+19038354,antipsych,PO,thioridazine,thioridazine 25 MG Oral Tablet [Mellaril]
+700396,antipsych,PO,thioridazine,thioridazine 30 MG/ML Oral Solution
+19083130,antipsych,PO,thioridazine,thioridazine 50 MG
+19118655,antipsych,PO,thioridazine,thioridazine 50 MG [Mellaril]
+700326,antipsych,PO,thioridazine,thioridazine 50 MG Oral Tablet
+19038355,antipsych,PO,thioridazine,thioridazine 50 MG Oral Tablet [Mellaril]
+700465,antipsych,PO,thiothixene,thiothixene
+700501,antipsych,PO,thiothixene,thiothixene 1 MG
+19088643,antipsych,PO,thiothixene,thiothixene 1 MG [Navane]
+700494,antipsych,PO,thiothixene,thiothixene 1 MG Oral Capsule
+19038682,antipsych,PO,thiothixene,thiothixene 1 MG Oral Capsule [Navane]
+700523,antipsych,PO,thiothixene,thiothixene 10 MG
+700493,antipsych,PO,thiothixene,thiothixene 10 MG Oral Capsule
+19038685,antipsych,PO,thiothixene,thiothixene 10 MG Oral Capsule [Navane]
+19086244,antipsych,PO,thiothixene,thiothixene 2 MG
+19088644,antipsych,PO,thiothixene,thiothixene 2 MG [Navane]
+700496,antipsych,PO,thiothixene,thiothixene 2 MG Oral Capsule
+19038683,antipsych,PO,thiothixene,thiothixene 2 MG Oral Capsule [Navane]
+700495,antipsych,PO,thiothixene,thiothixene 20 MG Oral Capsule
+19038686,antipsych,PO,thiothixene,thiothixene 20 MG Oral Capsule [Navane]
+700522,antipsych,PO,thiothixene,thiothixene 5 MG
+19088645,antipsych,PO,thiothixene,thiothixene 5 MG [Navane]
+700498,antipsych,PO,thiothixene,thiothixene 5 MG Oral Capsule
+19038684,antipsych,PO,thiothixene,thiothixene 5 MG Oral Capsule [Navane]
+704984,antipsych,PO,trifluoperazine,trifluoperazine
+705046,antipsych,PO,trifluoperazine,trifluoperazine 1 MG
+704987,antipsych,PO,trifluoperazine,trifluoperazine 1 MG Oral Tablet
+19004636,antipsych,PO,trifluoperazine,trifluoperazine 1 MG Oral Tablet [Stelazine]
+19085511,antipsych,PO,trifluoperazine,trifluoperazine 10 MG
+19088870,antipsych,PO,trifluoperazine,trifluoperazine 10 MG [Stelazine]
+704988,antipsych,PO,trifluoperazine,trifluoperazine 10 MG Oral Tablet
+19083158,antipsych,PO,trifluoperazine,trifluoperazine 2 MG
+19088869,antipsych,PO,trifluoperazine,trifluoperazine 2 MG [Stelazine]
+704989,antipsych,PO,trifluoperazine,trifluoperazine 2 MG Oral Tablet
+19039747,antipsych,PO,trifluoperazine,trifluoperazine 2 MG Oral Tablet [Stelazine]
+705048,antipsych,PO,trifluoperazine,trifluoperazine 5 MG
+19088866,antipsych,PO,trifluoperazine,trifluoperazine 5 MG [Stelazine]
+704990,antipsych,PO,trifluoperazine,trifluoperazine 5 MG Oral Tablet
+19004637,antipsych,PO,trifluoperazine,trifluoperazine 5 MG Oral Tablet [Stelazine]
+712615,antipsych,ingredient,ziprasidone,ziprasidone
+19085164,antipsych,PO,ziprasidone,ziprasidone 20 MG
+19120812,antipsych,PO,ziprasidone,ziprasidone 20 MG [Geodon]
+712648,antipsych,PO,ziprasidone,ziprasidone 20 MG Injection
+712649,antipsych,IM/IV,ziprasidone,ziprasidone 20 MG Injection [Geodon]
+712643,antipsych,PO,ziprasidone,ziprasidone 20 MG Oral Capsule
+712619,antipsych,PO,ziprasidone,ziprasidone 20 MG Oral Capsule [Geodon]
+19085165,antipsych,PO,ziprasidone,ziprasidone 40 MG
+19006493,antipsych,PO,ziprasidone,ziprasidone 40 MG [Geodon]
+712620,antipsych,PO,ziprasidone,ziprasidone 40 MG Oral Capsule
+712616,antipsych,PO,ziprasidone,ziprasidone 40 MG Oral Capsule [Geodon]
+19085166,antipsych,PO,ziprasidone,ziprasidone 60 MG
+19006494,antipsych,PO,ziprasidone,ziprasidone 60 MG [Geodon]
+712621,antipsych,PO,ziprasidone,ziprasidone 60 MG Oral Capsule
+712617,antipsych,PO,ziprasidone,ziprasidone 60 MG Oral Capsule [Geodon]
+19006495,antipsych,PO,ziprasidone,ziprasidone 80 MG [Geodon]
+712642,antipsych,PO,ziprasidone,ziprasidone 80 MG Oral Capsule
+19071496,antipsych,PO,ziprasidone,ziprasidone 80 MG Oral Capsule [Geodon]
+35604629,antipsych,IM/IV,ziprasidone,ziprasidone Injection
