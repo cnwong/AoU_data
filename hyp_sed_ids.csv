@@ -1,32 +1,32 @@
 ﻿concept_id,atc_class,route,name,full_name
-46287623,hyp_sed,IV/IM,midazolam,1 ML midazolam 5 MG/ML Cartridge
-46287621,hyp_sed,IV/IM,midazolam,1 ML midazolam 5 MG/ML Injection
-45774458,hyp_sed,IV/IM,midazolam,1 ML midazolam 5 MG/ML Prefilled Syringe
-35603044,hyp_sed,IV/IM,dexmedetomidine,100 ML dexmedetomidine 0.004 MG/ML Injection
-35603045,hyp_sed,IV/IM,dexmedetomidine,100 ML dexmedetomidine 0.004 MG/ML Injection [Precedex]
-1537584,hyp_sed,IV/IM,midazolam,100 ML midazolam 1 MG/ML Injection
-19076175,hyp_sed,IV/IM,dexmedetomidine,2 ML dexmedetomidine 0.1 MG/ML Injection
-19061089,hyp_sed,IV/IM,dexmedetomidine,2 ML dexmedetomidine 0.1 MG/ML Injection [Precedex]
-46287612,hyp_sed,IV/IM,midazolam,2 ML midazolam 1 MG/ML Cartridge
-46287618,hyp_sed,IV/IM,midazolam,2 ML midazolam 1 MG/ML Injection
-40223160,hyp_sed,IV/IM,midazolam,2 ML midazolam 1 MG/ML Prefilled Syringe
-46287625,hyp_sed,IV/IM,midazolam,2 ML midazolam 5 MG/ML Injection
-45774456,hyp_sed,IV/IM,midazolam,2 ML midazolam 5 MG/ML Prefilled Syringe
-35603037,hyp_sed,IV/IM,dexmedetomidine,20 ML dexmedetomidine 0.004 MG/ML Injection
-35603039,hyp_sed,IV/IM,dexmedetomidine,20 ML dexmedetomidine 0.004 MG/ML Injection [Precedex]
-700295,hyp_sed,IV/IM,thiopental,20 ML thiopental 25 MG/ML Prefilled Syringe
-19127246,hyp_sed,IV/IM,thiopental,20 ML thiopental 25 MG/ML Prefilled Syringe [Pentothal]
-37003612,hyp_sed,IV/IM,dexmedetomidine,250 ML dexmedetomidine 0.004 MG/ML Injection
-46287620,hyp_sed,IV/IM,midazolam,5 ML midazolam 1 MG/ML Injection
-35603042,hyp_sed,IV/IM,dexmedetomidine,50 ML dexmedetomidine 0.004 MG/ML Injection
-35603043,hyp_sed,IV/IM,dexmedetomidine,50 ML dexmedetomidine 0.004 MG/ML Injection [Precedex]
+46287623,hyp_sed,IM/IV,midazolam,1 ML midazolam 5 MG/ML Cartridge
+46287621,hyp_sed,IM/IV,midazolam,1 ML midazolam 5 MG/ML Injection
+45774458,hyp_sed,IM/IV,midazolam,1 ML midazolam 5 MG/ML Prefilled Syringe
+35603044,hyp_sed,IM/IV,dexmedetomidine,100 ML dexmedetomidine 0.004 MG/ML Injection
+35603045,hyp_sed,IM/IV,dexmedetomidine,100 ML dexmedetomidine 0.004 MG/ML Injection [Precedex]
+1537584,hyp_sed,IM/IV,midazolam,100 ML midazolam 1 MG/ML Injection
+19076175,hyp_sed,IM/IV,dexmedetomidine,2 ML dexmedetomidine 0.1 MG/ML Injection
+19061089,hyp_sed,IM/IV,dexmedetomidine,2 ML dexmedetomidine 0.1 MG/ML Injection [Precedex]
+46287612,hyp_sed,IM/IV,midazolam,2 ML midazolam 1 MG/ML Cartridge
+46287618,hyp_sed,IM/IV,midazolam,2 ML midazolam 1 MG/ML Injection
+40223160,hyp_sed,IM/IV,midazolam,2 ML midazolam 1 MG/ML Prefilled Syringe
+46287625,hyp_sed,IM/IV,midazolam,2 ML midazolam 5 MG/ML Injection
+45774456,hyp_sed,IM/IV,midazolam,2 ML midazolam 5 MG/ML Prefilled Syringe
+35603037,hyp_sed,IM/IV,dexmedetomidine,20 ML dexmedetomidine 0.004 MG/ML Injection
+35603039,hyp_sed,IM/IV,dexmedetomidine,20 ML dexmedetomidine 0.004 MG/ML Injection [Precedex]
+700295,hyp_sed,IM/IV,thiopental,20 ML thiopental 25 MG/ML Prefilled Syringe
+19127246,hyp_sed,IM/IV,thiopental,20 ML thiopental 25 MG/ML Prefilled Syringe [Pentothal]
+37003612,hyp_sed,IM/IV,dexmedetomidine,250 ML dexmedetomidine 0.004 MG/ML Injection
+46287620,hyp_sed,IM/IV,midazolam,5 ML midazolam 1 MG/ML Injection
+35603042,hyp_sed,IM/IV,dexmedetomidine,50 ML dexmedetomidine 0.004 MG/ML Injection
+35603043,hyp_sed,IM/IV,dexmedetomidine,50 ML dexmedetomidine 0.004 MG/ML Injection [Precedex]
 965777,hyp_sed,Transdermal,scopolamine,72 HR scopolamine 0.0139 MG/HR Transdermal System
 966010,hyp_sed,Transdermal,scopolamine,72 HR scopolamine 0.0139 MG/HR Transdermal System [Transderm Scop]
-19061088,hyp_sed,IV/IM,dexmedetomidine,dexmedetomidine
-35603040,hyp_sed,IV/IM,dexmedetomidine,dexmedetomidine 0.004 MG/ML Injection
-35603041,hyp_sed,IV/IM,dexmedetomidine,dexmedetomidine 0.004 MG/ML Injection [Precedex]
-19120718,hyp_sed,IV/IM,dexmedetomidine,dexmedetomidine 0.1 MG/ML [Precedex]
-35604437,hyp_sed,IV/IM,dexmedetomidine,dexmedetomidine 0.1 MG/ML Injectable Solution
+19061088,hyp_sed,IM/IV,dexmedetomidine,dexmedetomidine
+35603040,hyp_sed,IM/IV,dexmedetomidine,dexmedetomidine 0.004 MG/ML Injection
+35603041,hyp_sed,IM/IV,dexmedetomidine,dexmedetomidine 0.004 MG/ML Injection [Precedex]
+19120718,hyp_sed,IM/IV,dexmedetomidine,dexmedetomidine 0.1 MG/ML [Precedex]
+35604437,hyp_sed,IM/IV,dexmedetomidine,dexmedetomidine 0.1 MG/ML Injectable Solution
 748010,hyp_sed,PO,estazolam,estazolam
 748011,hyp_sed,PO,estazolam,estazolam 1 MG Oral Tablet
 19031821,hyp_sed,PO,estazolam,estazolam 1 MG Oral Tablet [ProSom]
@@ -102,11 +102,11 @@
 19122505,hyp_sed,PO,ramelteon,ramelteon 8 MG [Rozerem]
 781184,hyp_sed,PO,ramelteon,ramelteon 8 MG Oral Tablet
 19122506,hyp_sed,PO,ramelteon,ramelteon 8 MG Oral Tablet [Rozerem]
-965748,hyp_sed,PO/Transdermal,scopolamine,scopolamine
+965748,hyp_sed,PO,scopolamine,scopolamine
 19022825,hyp_sed,PO,scopolamine,scopolamine 0.4 MG Oral Tablet
 19113251,hyp_sed,PO,scopolamine,scopolamine 0.4 MG Oral Tablet [Maldemar]
 19019816,hyp_sed,IM/IV,scopolamine,scopolamine 0.4 MG/ML Injectable Solution
-37497299,hyp_sed,Transdermal,scopolamine,scopolamine hydrobromide 1.5 MG
+37497299,hyp_sed,PO,scopolamine,scopolamine hydrobromide 1.5 MG
 45775760,hyp_sed,PO,suvorexant,suvorexant
 45775763,hyp_sed,PO,suvorexant,suvorexant 10 MG Oral Tablet
 45775767,hyp_sed,PO,suvorexant,suvorexant 10 MG Oral Tablet [Belsomra]

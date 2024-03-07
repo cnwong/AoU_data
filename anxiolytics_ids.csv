@@ -1,0 +1,265 @@
+﻿concept_id,atc_class,route,name,full_name
+37499638,anxiolytic,Nasal,diazepam,{1 (0.1 ML) (diazepam 50 MG/ML Nasal Spray [Valtoco]) } Pack [Valtoco 5 MG Dose Kit]
+37499640,anxiolytic,Nasal,diazepam,{2 (0.1 ML) (diazepam 75 MG/ML Nasal Spray [Valtoco]) } Pack [Valtoco 15 MG Dose Kit]
+19131437,anxiolytic,Rectal,diazepam,0.5 ML diazepam 5 MG/ML Rectal Gel
+19131438,anxiolytic,Rectal,diazepam,0.5 ML diazepam 5 MG/ML Rectal Gel [Diastat]
+40222677,anxiolytic,IM/IV,hydroxyzine,1 ML hydroxyzine hydrochloride 25 MG/ML Injection
+40221832,anxiolytic,IM/IV,hydroxyzine,1 ML hydroxyzine hydrochloride 25 MG/ML Prefilled Syringe
+36249583,anxiolytic,IM/IV,hydroxyzine,1 ML hydroxyzine hydrochloride 50 MG/ML Injection
+40221833,anxiolytic,IM/IV,hydroxyzine,1 ML hydroxyzine hydrochloride 50 MG/ML Prefilled Syringe
+19129446,anxiolytic,IM/IV,lorazepam,1 ML lorazepam 2 MG/ML Cartridge
+46287372,anxiolytic,IM/IV,lorazepam,1 ML lorazepam 2 MG/ML Injection
+46287374,anxiolytic,IM/IV,lorazepam,1 ML lorazepam 2 MG/ML Injection [Ativan]
+19129447,anxiolytic,IM/IV,lorazepam,1 ML lorazepam 4 MG/ML Cartridge
+46287393,anxiolytic,IM/IV,lorazepam,1 ML lorazepam 4 MG/ML Injection
+40221326,anxiolytic,IM/IV,diazepam,2 ML diazepam 5 MG/ML Auto-Injector
+40221329,anxiolytic,IM/IV,diazepam,2 ML diazepam 5 MG/ML Cartridge
+1511426,anxiolytic,IM/IV,diazepam,2 ML diazepam 5 MG/ML Prefilled Syringe
+19131441,anxiolytic,Rectal,diazepam,2 ML diazepam 5 MG/ML Rectal Gel
+19131442,anxiolytic,Rectal,diazepam,2 ML diazepam 5 MG/ML Rectal Gel [Diastat]
+36249581,anxiolytic,IM/IV,hydroxyzine,2 ML hydroxyzine hydrochloride 50 MG/ML Injection
+781126,anxiolytic,PO,alprazolam,24 HR alprazolam 0.5 MG Extended Release Oral Tablet
+19125457,anxiolytic,PO,alprazolam,24 HR alprazolam 0.5 MG Extended Release Oral Tablet [Xanax]
+19107912,anxiolytic,PO,alprazolam,24 HR alprazolam 1 MG Extended Release Oral Tablet
+19125456,anxiolytic,PO,alprazolam,24 HR alprazolam 1 MG Extended Release Oral Tablet [Xanax]
+781127,anxiolytic,PO,alprazolam,24 HR alprazolam 2 MG Extended Release Oral Tablet
+19125455,anxiolytic,PO,alprazolam,24 HR alprazolam 2 MG Extended Release Oral Tablet [Xanax]
+19107913,anxiolytic,PO,alprazolam,24 HR alprazolam 3 MG Extended Release Oral Tablet
+19125454,anxiolytic,PO,alprazolam,24 HR alprazolam 3 MG Extended Release Oral Tablet [Xanax]
+790295,anxiolytic,PO,clorazepate,24 HR clorazepate dipotassium 22.5 MG Extended Release Oral Tablet
+19131446,anxiolytic,Rectal,diazepam,4 ML diazepam 5 MG/ML Rectal Gel
+19131445,anxiolytic,Rectal,diazepam,4 ML diazepam 5 MG/ML Rectal Gel [Diastat]
+781039,anxiolytic,PO,alprazolam,alprazolam
+781095,anxiolytic,PO,alprazolam,alprazolam 0.25 MG
+19041943,anxiolytic,PO,alprazolam,alprazolam 0.25 MG [Xanax]
+781130,anxiolytic,PO,alprazolam,alprazolam 0.25 MG Disintegrating Oral Tablet
+781154,anxiolytic,PO,alprazolam,alprazolam 0.25 MG Disintegrating Oral Tablet [Niravam]
+19072933,anxiolytic,PO,alprazolam,alprazolam 0.25 MG Oral Tablet
+781040,anxiolytic,PO,alprazolam,alprazolam 0.25 MG Oral Tablet [Xanax]
+781099,anxiolytic,PO,alprazolam,alprazolam 0.5 MG
+19041944,anxiolytic,PO,alprazolam,alprazolam 0.5 MG [Xanax]
+781152,anxiolytic,PO,alprazolam,alprazolam 0.5 MG Disintegrating Oral Tablet
+781155,anxiolytic,PO,alprazolam,alprazolam 0.5 MG Disintegrating Oral Tablet [Niravam]
+19072934,anxiolytic,PO,alprazolam,alprazolam 0.5 MG Oral Tablet
+781041,anxiolytic,PO,alprazolam,alprazolam 0.5 MG Oral Tablet [Xanax]
+781096,anxiolytic,PO,alprazolam,alprazolam 1 MG
+19041945,anxiolytic,PO,alprazolam,alprazolam 1 MG [Xanax]
+781131,anxiolytic,PO,alprazolam,alprazolam 1 MG Disintegrating Oral Tablet
+781156,anxiolytic,PO,alprazolam,alprazolam 1 MG Disintegrating Oral Tablet [Niravam]
+781062,anxiolytic,PO,alprazolam,alprazolam 1 MG Oral Tablet
+19113679,anxiolytic,PO,alprazolam,alprazolam 1 MG Oral Tablet [Calprazolam]
+19048247,anxiolytic,PO,alprazolam,alprazolam 1 MG Oral Tablet [Xanax]
+19072936,anxiolytic,PO,alprazolam,alprazolam 1 MG/ML Oral Solution
+781098,anxiolytic,PO,alprazolam,alprazolam 2 MG
+19041946,anxiolytic,PO,alprazolam,alprazolam 2 MG [Xanax]
+781153,anxiolytic,PO,alprazolam,alprazolam 2 MG Disintegrating Oral Tablet
+781157,anxiolytic,PO,alprazolam,alprazolam 2 MG Disintegrating Oral Tablet [Niravam]
+781063,anxiolytic,PO,alprazolam,alprazolam 2 MG Oral Tablet
+19048248,anxiolytic,PO,alprazolam,alprazolam 2 MG Oral Tablet [Xanax]
+19103031,anxiolytic,PO,alprazolam,alprazolam 3 MG
+19125453,anxiolytic,PO,alprazolam,alprazolam 3 MG [Xanax]
+19121992,anxiolytic,PO,alprazolam,alprazolam 5 MG
+40006093,anxiolytic,PO,alprazolam,alprazolam Oral Tablet
+40162691,anxiolytic,PO,chlordiazepoxide,amitriptyline hydrochloride 12.5 MG / chlordiazepoxide 5 MG Oral Tablet
+40162692,anxiolytic,PO,chlordiazepoxide,amitriptyline hydrochloride 12.5 MG / chlordiazepoxide 5 MG Oral Tablet [Limbitrol]
+40162701,anxiolytic,PO,chlordiazepoxide,amitriptyline hydrochloride 25 MG / chlordiazepoxide 10 MG Oral Tablet
+733301,anxiolytic,PO,buspirone,buspirone
+40167430,anxiolytic,PO,buspirone,buspirone hydrochloride 10 MG
+40167433,anxiolytic,PO,buspirone,buspirone hydrochloride 10 MG [Buspar]
+40167431,anxiolytic,PO,buspirone,buspirone hydrochloride 10 MG Oral Tablet
+40167432,anxiolytic,PO,buspirone,buspirone hydrochloride 10 MG Oral Tablet [Buspar]
+40167434,anxiolytic,PO,buspirone,buspirone hydrochloride 15 MG
+40167437,anxiolytic,PO,buspirone,buspirone hydrochloride 15 MG [Buspar]
+40167435,anxiolytic,PO,buspirone,buspirone hydrochloride 15 MG Oral Tablet
+40167436,anxiolytic,PO,buspirone,buspirone hydrochloride 15 MG Oral Tablet [Buspar]
+40167438,anxiolytic,PO,buspirone,buspirone hydrochloride 30 MG
+40167441,anxiolytic,PO,buspirone,buspirone hydrochloride 30 MG [Buspar]
+40167439,anxiolytic,PO,buspirone,buspirone hydrochloride 30 MG Oral Tablet
+40167440,anxiolytic,PO,buspirone,buspirone hydrochloride 30 MG Oral Tablet [Buspar]
+40167442,anxiolytic,PO,buspirone,buspirone hydrochloride 5 MG
+40167445,anxiolytic,PO,buspirone,buspirone hydrochloride 5 MG [Buspar]
+40167443,anxiolytic,PO,buspirone,buspirone hydrochloride 5 MG Oral Tablet
+40167444,anxiolytic,PO,buspirone,buspirone hydrochloride 5 MG Oral Tablet [Buspar]
+40167447,anxiolytic,PO,buspirone,buspirone hydrochloride 7.5 MG Oral Tablet
+40167448,anxiolytic,PO,buspirone,buspirone hydrochloride 7.5 MG Oral Tablet [Vanspar]
+990678,anxiolytic,PO,chlordiazepoxide,chlordiazepoxide
+990739,anxiolytic,PO,chlordiazepoxide,chlordiazepoxide 10 MG
+19081081,anxiolytic,PO,chlordiazepoxide,chlordiazepoxide 5 MG
+40173811,anxiolytic,PO,chlordiazepoxide,chlordiazepoxide hydrochloride 10 MG [Librium]
+40173804,anxiolytic,PO,chlordiazepoxide,chlordiazepoxide hydrochloride 10 MG Oral Capsule
+40173807,anxiolytic,PO,chlordiazepoxide,chlordiazepoxide hydrochloride 10 MG Oral Capsule [Mitran]
+40173808,anxiolytic,PO,chlordiazepoxide,chlordiazepoxide hydrochloride 10 MG Oral Capsule [Poxi]
+40173814,anxiolytic,PO,chlordiazepoxide,chlordiazepoxide hydrochloride 25 MG
+40173820,anxiolytic,PO,chlordiazepoxide,chlordiazepoxide hydrochloride 25 MG [Librium]
+40173815,anxiolytic,PO,chlordiazepoxide,chlordiazepoxide hydrochloride 25 MG Oral Capsule
+40173816,anxiolytic,PO,chlordiazepoxide,chlordiazepoxide hydrochloride 25 MG Oral Capsule [Librium]
+40173817,anxiolytic,PO,chlordiazepoxide,chlordiazepoxide hydrochloride 25 MG Oral Tablet
+40173818,anxiolytic,PO,chlordiazepoxide,chlordiazepoxide hydrochloride 25 MG Oral Tablet [Libritabs]
+40173831,anxiolytic,PO,chlordiazepoxide,chlordiazepoxide hydrochloride 5 MG [Librium]
+40168631,anxiolytic,PO,chlordiazepoxide,chlordiazepoxide hydrochloride 5 MG / clidinium bromide 2.5 MG Oral Capsule
+40168632,anxiolytic,PO,chlordiazepoxide,chlordiazepoxide hydrochloride 5 MG / clidinium bromide 2.5 MG Oral Capsule [Chlordinium]
+40168634,anxiolytic,PO,chlordiazepoxide,chlordiazepoxide hydrochloride 5 MG / clidinium bromide 2.5 MG Oral Capsule [Librax]
+40173821,anxiolytic,PO,chlordiazepoxide,chlordiazepoxide hydrochloride 5 MG / methscopolamine nitrate 2.5 MG Oral Capsule
+40173822,anxiolytic,PO,chlordiazepoxide,chlordiazepoxide hydrochloride 5 MG / methscopolamine nitrate 2.5 MG Oral Capsule [Librax Reformulated Aug 2006]
+40173824,anxiolytic,PO,chlordiazepoxide,chlordiazepoxide hydrochloride 5 MG Oral Capsule
+40173826,anxiolytic,PO,chlordiazepoxide,chlordiazepoxide hydrochloride 5 MG Oral Capsule [Librium]
+19004479,anxiolytic,PO,chlordiazepoxide,chlordiazepoxide hydrochloride 5 MG Oral Capsule [Tropium]
+40173835,anxiolytic,PO,chlordiazepoxide,chlordiazepoxide hydrochloride 50 MG/ML [Librium]
+40173834,anxiolytic,PO,chlordiazepoxide,chlordiazepoxide hydrochloride 50 MG/ML Injectable Solution [Librium]
+19050832,anxiolytic,PO,clobazam,clobazam
+35201583,anxiolytic,PO,clobazam,clobazam 10 MG Oral Film [Sympazan]
+19021852,anxiolytic,PO,clobazam,clobazam 10 MG Oral Tablet
+40243703,anxiolytic,PO,clobazam,clobazam 10 MG Oral Tablet [Onfi]
+43013065,anxiolytic,PO,clobazam,clobazam 2.5 MG/ML Oral Suspension
+43013066,anxiolytic,PO,clobazam,clobazam 2.5 MG/ML Oral Suspension [Onfi]
+19050835,anxiolytic,PO,clobazam,clobazam 20 MG Oral Tablet
+40243705,anxiolytic,PO,clobazam,clobazam 20 MG Oral Tablet [Onfi]
+19106229,anxiolytic,PO,clobazam,clobazam 5 MG Oral Tablet
+40243707,anxiolytic,PO,clobazam,clobazam 5 MG Oral Tablet [Onfi]
+790253,anxiolytic,PO,clorazepate,clorazepate
+42709121,anxiolytic,PO,clorazepate,clorazepate dipotassium 11.3 MG Oral Tablet
+790254,anxiolytic,PO,clorazepate,clorazepate dipotassium 15 MG Oral Tablet
+790293,anxiolytic,PO,clorazepate,clorazepate dipotassium 15 MG Oral Tablet [Tranxene]
+790255,anxiolytic,PO,clorazepate,clorazepate dipotassium 3.75 MG Oral Tablet
+790298,anxiolytic,PO,clorazepate,clorazepate dipotassium 3.75 MG Oral Tablet [Tranxene]
+790299,anxiolytic,PO,clorazepate,clorazepate dipotassium 7.5 MG
+790256,anxiolytic,PO,clorazepate,clorazepate dipotassium 7.5 MG Oral Tablet
+40242487,anxiolytic,PO,clorazepate,clorazepate dipotassium 7.5 MG Oral Tablet [Tranxene]
+723013,anxiolytic,ingredient,diazepam,diazepam
+19100172,anxiolytic,PO,diazepam,diazepam 0.5 MG/ML
+19082455,anxiolytic,PO,diazepam,diazepam 1 MG/ML
+19076372,anxiolytic,PO,diazepam,diazepam 1 MG/ML Oral Solution
+19128627,anxiolytic,PO,diazepam,diazepam 1 MG/ML Oral Solution [Dialar]
+723139,anxiolytic,PO,diazepam,diazepam 10 MG
+19042586,anxiolytic,PO,diazepam,diazepam 10 MG [Valium]
+723020,anxiolytic,PO,diazepam,diazepam 10 MG Oral Tablet
+19024238,anxiolytic,PO,diazepam,diazepam 10 MG Oral Tablet [Alupram]
+19024240,anxiolytic,PO,diazepam,diazepam 10 MG Oral Tablet [Rimapam]
+19024261,anxiolytic,PO,diazepam,diazepam 10 MG Oral Tablet [Tensium]
+19004472,anxiolytic,PO,diazepam,diazepam 10 MG Oral Tablet [Valium]
+37498512,anxiolytic,Nasal,diazepam,diazepam 100 MG/ML Nasal Spray
+37498518,anxiolytic,Nasal,diazepam,diazepam 100 MG/ML Nasal Spray [Valtoco]
+723141,anxiolytic,PO,diazepam,diazepam 2 MG
+19114060,anxiolytic,PO,diazepam,diazepam 2 MG [Valium]
+19107229,anxiolytic,PO,diazepam,diazepam 2 MG / octylonium 20 MG Oral Tablet
+19018909,anxiolytic,PO,diazepam,diazepam 2 MG Oral Tablet
+19024233,anxiolytic,PO,diazepam,diazepam 2 MG Oral Tablet [Alupram]
+19024236,anxiolytic,PO,diazepam,diazepam 2 MG Oral Tablet [Rimapam]
+19024237,anxiolytic,PO,diazepam,diazepam 2 MG Oral Tablet [Tensium]
+19004330,anxiolytic,PO,diazepam,diazepam 2 MG Oral Tablet [Valium]
+723165,anxiolytic,PO,diazepam,diazepam 2.5 MG
+19088909,anxiolytic,PO,diazepam,diazepam 4 MG/ML
+723164,anxiolytic,PO,diazepam,diazepam 5 MG
+19115351,anxiolytic,PO,diazepam,diazepam 5 MG [Valium]
+35129287,anxiolytic,IM/IV,diazepam,Diazepam 5 MG Injectable Solution
+723042,anxiolytic,PO,diazepam,diazepam 5 MG Oral Tablet
+19026270,anxiolytic,PO,diazepam,diazepam 5 MG Oral Tablet [Alupram]
+19026291,anxiolytic,PO,diazepam,diazepam 5 MG Oral Tablet [Atensine]
+19026292,anxiolytic,PO,diazepam,diazepam 5 MG Oral Tablet [Evacalm]
+19026293,anxiolytic,PO,diazepam,diazepam 5 MG Oral Tablet [Rimapam]
+19026294,anxiolytic,PO,diazepam,diazepam 5 MG Oral Tablet [Tensium]
+19004471,anxiolytic,PO,diazepam,diazepam 5 MG Oral Tablet [Valium]
+40221330,anxiolytic,PO,diazepam,diazepam 5 MG/ML Cartridge
+19076374,anxiolytic,IM/IV,diazepam,diazepam 5 MG/ML Injectable Solution
+19035763,anxiolytic,IM/IV,diazepam,diazepam 5 MG/ML Injectable Solution [D-Val]
+19024262,anxiolytic,IM/IV,diazepam,diazepam 5 MG/ML Injectable Solution [Stesolid]
+723266,anxiolytic,IM/IV,diazepam,diazepam 5 MG/ML Injectable Solution [Valicot]
+19024263,anxiolytic,IM/IV,diazepam,diazepam 5 MG/ML Injectable Solution [Valium]
+19035764,anxiolytic,IM/IV,diazepam,diazepam 5 MG/ML Injectable Solution [Zetran]
+19076373,anxiolytic,PO,diazepam,diazepam 5 MG/ML Oral Solution
+19101711,anxiolytic,PO,diazepam,diazepam 5 MG/ML Oral Solution [Diazepam Intensol]
+37498521,anxiolytic,Nasal,diazepam,diazepam 50 MG/ML Nasal Spray
+19109589,anxiolytic,PO,diazepam,diazepam 6 MG
+37498525,anxiolytic,Nasal,diazepam,diazepam 75 MG/ML Nasal Spray
+40035924,anxiolytic,PO,diazepam,diazepam Oral Tablet
+777221,anxiolytic,ingredient,hydroxyzine,hydroxyzine
+777330,anxiolytic,PO,hydroxyzine,hydroxyzine 10 MG
+19085963,anxiolytic,PO,hydroxyzine,hydroxyzine 25 MG
+40222640,anxiolytic,PO,hydroxyzine,hydroxyzine hydrochloride 10 MG [Atarax]
+40222636,anxiolytic,PO,hydroxyzine,hydroxyzine hydrochloride 10 MG Oral Tablet
+40222637,anxiolytic,PO,hydroxyzine,hydroxyzine hydrochloride 10 MG Oral Tablet [Atarax]
+40222638,anxiolytic,PO,hydroxyzine,hydroxyzine hydrochloride 10 MG Oral Tablet [Atazine]
+40222639,anxiolytic,PO,hydroxyzine,hydroxyzine hydrochloride 10 MG Oral Tablet [Rezine]
+40222643,anxiolytic,PO,hydroxyzine,hydroxyzine hydrochloride 100 MG
+40222648,anxiolytic,PO,hydroxyzine,hydroxyzine hydrochloride 100 MG [Atarax]
+40222646,anxiolytic,PO,hydroxyzine,hydroxyzine hydrochloride 100 MG Oral Tablet
+40222647,anxiolytic,PO,hydroxyzine,hydroxyzine hydrochloride 100 MG Oral Tablet [Atarax]
+40222653,anxiolytic,PO,hydroxyzine,hydroxyzine hydrochloride 2 MG/ML Oral Solution
+40222654,anxiolytic,PO,hydroxyzine,hydroxyzine hydrochloride 2 MG/ML Oral Solution [Atarax]
+40222655,anxiolytic,PO,hydroxyzine,hydroxyzine hydrochloride 2 MG/ML Oral Solution [Ucerax]
+40222658,anxiolytic,PO,hydroxyzine,hydroxyzine hydrochloride 25 MG
+40222670,anxiolytic,PO,hydroxyzine,hydroxyzine hydrochloride 25 MG [Atarax]
+40222663,anxiolytic,PO,hydroxyzine,hydroxyzine hydrochloride 25 MG Oral Tablet
+40222664,anxiolytic,PO,hydroxyzine,hydroxyzine hydrochloride 25 MG Oral Tablet [Anx]
+40222665,anxiolytic,PO,hydroxyzine,hydroxyzine hydrochloride 25 MG Oral Tablet [Atarax]
+40222667,anxiolytic,PO,hydroxyzine,hydroxyzine hydrochloride 25 MG Oral Tablet [Rezine]
+40222668,anxiolytic,PO,hydroxyzine,hydroxyzine hydrochloride 25 MG Oral Tablet [Ucerax]
+40222684,anxiolytic,PO,hydroxyzine,hydroxyzine hydrochloride 50 MG
+40222690,anxiolytic,PO,hydroxyzine,hydroxyzine hydrochloride 50 MG [Atarax]
+40222688,anxiolytic,PO,hydroxyzine,hydroxyzine hydrochloride 50 MG Oral Tablet
+40222689,anxiolytic,PO,hydroxyzine,hydroxyzine hydrochloride 50 MG Oral Tablet [Atarax]
+40222694,anxiolytic,IM/IV,hydroxyzine,hydroxyzine hydrochloride 50 MG/ML Injectable Solution
+40222695,anxiolytic,IM/IV,hydroxyzine,hydroxyzine hydrochloride 50 MG/ML Injectable Solution [Antatens]
+40222702,anxiolytic,IM/IV,hydroxyzine,hydroxyzine hydrochloride 50 MG/ML Injectable Solution [Vistaril]
+40222703,anxiolytic,IM/IV,hydroxyzine,hydroxyzine hydrochloride 50 MG/ML Injectable Solution [Vistazine]
+42902359,anxiolytic,IM/IV,hydroxyzine,hydroxyzine hydrochloride 50 MG/ML Prefilled Syringe
+36249579,anxiolytic,IM/IV,hydroxyzine,hydroxyzine Injection
+40051982,anxiolytic,PO,hydroxyzine,hydroxyzine Oral Tablet
+40222644,anxiolytic,PO,hydroxyzine,hydroxyzine pamoate 100 MG Oral Capsule
+40222645,anxiolytic,PO,hydroxyzine,hydroxyzine pamoate 100 MG Oral Capsule [Vistaril]
+40222660,anxiolytic,PO,hydroxyzine,hydroxyzine pamoate 25 MG Oral Capsule
+40222661,anxiolytic,PO,hydroxyzine,hydroxyzine pamoate 25 MG Oral Capsule [Hypam]
+40222662,anxiolytic,PO,hydroxyzine,hydroxyzine pamoate 25 MG Oral Capsule [Vistaril]
+40222681,anxiolytic,PO,hydroxyzine,hydroxyzine pamoate 5 MG/ML Oral Suspension
+40222682,anxiolytic,PO,hydroxyzine,hydroxyzine pamoate 5 MG/ML Oral Suspension [Vistaril]
+40222685,anxiolytic,PO,hydroxyzine,hydroxyzine pamoate 50 MG Oral Capsule
+40222686,anxiolytic,PO,hydroxyzine,hydroxyzine pamoate 50 MG Oral Capsule [Hypam]
+40222687,anxiolytic,PO,hydroxyzine,hydroxyzine pamoate 50 MG Oral Capsule [Vistaril]
+791967,anxiolytic,ingredient,lorazepam,lorazepam
+42706455,anxiolytic,PO,lorazepam,lorazepam 0.1 MG/ML
+19082488,anxiolytic,PO,lorazepam,lorazepam 0.5 MG
+19042612,anxiolytic,PO,lorazepam,lorazepam 0.5 MG [Ativan]
+19019112,anxiolytic,PO,lorazepam,lorazepam 0.5 MG Oral Tablet
+19033566,anxiolytic,PO,lorazepam,lorazepam 0.5 MG Oral Tablet [Ativan]
+792001,anxiolytic,PO,lorazepam,lorazepam 1 MG
+19115919,anxiolytic,PO,lorazepam,lorazepam 1 MG [Ativan]
+19019113,anxiolytic,PO,lorazepam,lorazepam 1 MG Oral Tablet
+19024268,anxiolytic,PO,lorazepam,lorazepam 1 MG Oral Tablet [Almazine]
+19004541,anxiolytic,PO,lorazepam,lorazepam 1 MG Oral Tablet [Ativan]
+19129444,anxiolytic,PO,lorazepam,lorazepam 1 MG/ML
+19081616,anxiolytic,PO,lorazepam,lorazepam 2 MG
+19042613,anxiolytic,PO,lorazepam,lorazepam 2 MG [Ativan]
+19019114,anxiolytic,PO,lorazepam,lorazepam 2 MG Oral Tablet
+19033603,anxiolytic,PO,lorazepam,lorazepam 2 MG Oral Tablet [Ativan]
+42902991,anxiolytic,IM/IV,lorazepam,lorazepam 2 MG/ML Cartridge
+19057271,anxiolytic,IM/IV,lorazepam,lorazepam 2 MG/ML Injectable Solution
+19033564,anxiolytic,IM/IV,lorazepam,lorazepam 2 MG/ML Injectable Solution [Ativan]
+792000,anxiolytic,PO,lorazepam,lorazepam 2 MG/ML Oral Solution
+792039,anxiolytic,PO,lorazepam,lorazepam 2.5 MG
+19115920,anxiolytic,PO,lorazepam,lorazepam 2.5 MG [Ativan]
+19091541,anxiolytic,PO,lorazepam,lorazepam 3 MG
+19082489,anxiolytic,PO,lorazepam,lorazepam 4 MG/ML
+19042611,anxiolytic,PO,lorazepam,lorazepam 4 MG/ML [Ativan]
+19057272,anxiolytic,IM/IV,lorazepam,lorazepam 4 MG/ML Injectable Solution
+19033565,anxiolytic,IM/IV,lorazepam,lorazepam 4 MG/ML Injectable Solution [Ativan]
+46287371,anxiolytic,IM/IV,lorazepam,lorazepam Injection
+46287373,anxiolytic,IM/IV,lorazepam,lorazepam Injection [Ativan]
+40000862,anxiolytic,PO,lorazepam,lorazepam Oral Tablet
+702865,anxiolytic,PO,meprobamate,meprobamate
+702867,anxiolytic,PO,meprobamate,meprobamate 200 MG Oral Tablet
+19033461,anxiolytic,PO,meprobamate,meprobamate 200 MG Oral Tablet [Miltown]
+702868,anxiolytic,PO,meprobamate,meprobamate 400 MG Oral Tablet
+19025635,anxiolytic,PO,meprobamate,meprobamate 400 MG Oral Tablet [Equanil]
+702999,anxiolytic,PO,meprobamate,meprobamate 400 MG Oral Tablet [Trancot]
+724816,anxiolytic,PO,oxazepam,oxazepam
+724858,anxiolytic,PO,oxazepam,oxazepam 10 MG
+19019483,anxiolytic,PO,oxazepam,oxazepam 10 MG Oral Capsule
+19034985,anxiolytic,PO,oxazepam,oxazepam 10 MG Oral Capsule [Serax]
+724859,anxiolytic,PO,oxazepam,oxazepam 15 MG
+19118325,anxiolytic,PO,oxazepam,oxazepam 15 MG [Serax]
+724856,anxiolytic,PO,oxazepam,oxazepam 15 MG Oral Capsule
+19034986,anxiolytic,PO,oxazepam,oxazepam 15 MG Oral Capsule [Serax]
+724860,anxiolytic,PO,oxazepam,oxazepam 30 MG
+19118326,anxiolytic,PO,oxazepam,oxazepam 30 MG [Serax]
+19019485,anxiolytic,PO,oxazepam,oxazepam 30 MG Oral Capsule
+19034987,anxiolytic,PO,oxazepam,oxazepam 30 MG Oral Capsule [Serax]
