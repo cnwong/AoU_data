@@ -1,0 +1,88 @@
+﻿concept_id,concept_name,Keep,hx,domain_id,vocabulary_id,concept_code
+43530734,Refractory generalized convulsive epilepsy,1,seizure,Condition,SNOMED,3.371E+12
+4029498,Seizure disorder,1,seizure,Condition,SNOMED,128613002
+4078332,Partial seizure evolving to secondary generalized seizure,1,seizure,Condition,SNOMED,246544003
+373748,Grand mal status,1,seizure,Condition,SNOMED,13973009
+4236312,Complex partial epileptic seizure,1,seizure,Condition,SNOMED,407675009
+374915,Localization-related epilepsy,1,seizure,Condition,SNOMED,230381009
+4079056,Simple partial seizure with somatosensory or special sensory dysfunction,1,seizure,Condition,SNOMED,246533006
+4310999,"Epilepsy, not refractory",1,seizure,Condition,SNOMED,422513000
+4313035,Simple partial status epilepticus,1,seizure,Condition,SNOMED,423086004
+42535414,Intractable idiopathic partial epilepsy,1,seizure,Condition,SNOMED,2.90741E+14
+4046215,Situation-related seizures,1,seizure,Condition,SNOMED,230431001
+4183856,Tonic-clonic seizure,1,seizure,Condition,SNOMED,54200006
+4198103,Complex partial seizure evolving to generalized seizure,1,seizure,Condition,SNOMED,51075009
+37208117,Recurrent seizure,1,seizure,Condition,SNOMED,4.60731E+14
+4047895,Localization-related cryptogenic epilepsy,1,seizure,Condition,SNOMED,230408001
+4165417,Complex partial seizure with impairment of consciousness,1,seizure,Condition,SNOMED,4103001
+381842,Petit mal status,1,seizure,Condition,SNOMED,7033004
+4150299,Localization-related idiopathic epilepsy,1,seizure,Condition,SNOMED,278510009
+4311977,Refractory epilepsia partialis continua,1,seizure,Condition,SNOMED,422873003
+46273399,Complex partial seizure of occipital lobe,1,seizure,Condition,SNOMED,8.4181E+13
+36716899,Single unprovoked seizure,1,seizure,Condition,SNOMED,723127000
+4196708,Seizure related finding,1,seizure,Condition,SNOMED,313287004
+46271795,Refractory idiopathic generalized epilepsy,1,seizure,Condition,SNOMED,710046001
+374924,Generalized convulsive epilepsy,1,seizure,Condition,SNOMED,65120008
+43530628,Intractable simple partial epilepsy,1,seizure,Condition,SNOMED,1.19001E+14
+4078333,Generalized seizure,1,seizure,Condition,SNOMED,246545002
+4027257,Focal motor seizure,1,seizure,Condition,SNOMED,128612007
+4215937,Simple partial seizure with special sensory symptoms,1,seizure,Condition,SNOMED,72103000
+4147503,Motor cortex epilepsy,1,seizure,Condition,SNOMED,267592003
+4046207,Occipital lobe epilepsy,1,seizure,Condition,SNOMED,230404004
+380378,Epilepsy,1,seizure,Condition,SNOMED,84757009
+46270367,Status epilepticus due to refractory epilepsy,1,seizure,Condition,SNOMED,2.90721E+14
+4326435,Post-traumatic epilepsy,1,seizure,Condition,SNOMED,75023009
+439654,Partial epilepsy with impairment of consciousness,1,seizure,Condition,SNOMED,192999003
+4046216,Isolated seizures,1,seizure,Condition,SNOMED,230433003
+4336820,Olfactory seizure,1,seizure,Condition,SNOMED,87095001
+4274575,Idiopathic generalized epilepsy,1,seizure,Condition,SNOMED,36803009
+4044227,Myoclonic epilepsy with ragged red fibers,1,seizure,Condition,SNOMED,230426003
+4309257,Refractory localization-related epilepsy,1,seizure,Condition,SNOMED,422724001
+45766063,Single seizure,1,seizure,Condition,SNOMED,703150000
+4261957,Psychomotor epilepsy,1,seizure,Condition,SNOMED,361123003
+4194366,Reflex epilepsy,1,seizure,Condition,SNOMED,79745005
+4046218,Epilepsy undetermined whether focal or generalized,1,seizure,Condition,SNOMED,230435005
+4043559,Complex partial status epilepticus,1,seizure,Condition,SNOMED,230460005
+4233724,Posttraumatic seizure,1,seizure,Condition,SNOMED,437871001
+4046211,Cryptogenic generalized epilepsy,1,seizure,Condition,SNOMED,230415009
+43531630,Intractable absence seizures,1,seizure,Condition,SNOMED,6.8091E+13
+42873167,Single epileptic seizure,1,seizure,Condition,SNOMED,9.81E+11
+4232071,Tonic-clonic epilepsy,1,seizure,Condition,SNOMED,352818000
+4194056,"Simple partial seizure, consciousness not impaired",1,seizure,Condition,SNOMED,79348005
+376680,Generalized non-convulsive epilepsy,1,seizure,Condition,SNOMED,192979009
+4055361,Generalized epilepsy,1,seizure,Condition,SNOMED,19598007
+40483317,Refractory epilepsy,1,seizure,Condition,SNOMED,445355009
+46270365,Status epilepticus due to generalized idiopathic epilepsy,1,seizure,Condition,SNOMED,2.90691E+14
+36716897,Epileptic encephalopathy,1,seizure,Condition,SNOMED,723125008
+40483585,Epilepsy characterized by intractable complex partial seizures,1,seizure,Condition,SNOMED,442481002
+4101741,Epileptic seizures - akinetic,1,seizure,Condition,SNOMED,192982004
+4044082,Localization-related symptomatic epilepsy,1,seizure,Condition,SNOMED,230390002
+4047888,Frontal lobe epilepsy,1,seizure,Condition,SNOMED,230394006
+40483620,Nonconvulsive status epilepticus,1,seizure,Condition,SNOMED,442512002
+607637,Nonconvulsive seizure,1,seizure,Condition,SNOMED,1155717003
+4106574,Partial seizure,1,seizure,Condition,SNOMED,29753000
+4197485,Epileptic seizure,1,seizure,Condition,SNOMED,313307000
+46270364,Status epilepticus due to refractory complex partial seizures,1,seizure,Condition,SNOMED,2.90681E+14
+46270368,Status epilepticus due to refractory simple partial epilepsy,1,seizure,Condition,SNOMED,2.90761E+14
+43530626,Simple partial seizure,1,seizure,Condition,SNOMED,1.17891E+14
+40480055,Refractory generalized nonconvulsive epilepsy,1,seizure,Condition,SNOMED,441678004
+4251921,Simple partial seizure with autonomic dysfunction,1,seizure,Condition,SNOMED,7454002
+4243340,Central convulsion,1,seizure,Condition,SNOMED,58895005
+4216135,Anoxic seizure,1,seizure,Condition,SNOMED,41510006
+4290772,Myoclonic seizure,1,seizure,Condition,SNOMED,37356005
+37110524,Epilepsy due to intracranial tumor,1,seizure,Condition,SNOMED,724789001
+46270366,Status epilepticus due to intractable idiopathic generalized epilepsy,1,seizure,Condition,SNOMED,2.90711E+14
+43530706,Partial occipital lobe epilepsy,1,seizure,Condition,SNOMED,2.0121E+13
+43530665,Seizure disorder as sequela of stroke,1,seizure,Condition,SNOMED,1.37991E+14
+4282301,Todd's paresis,1,seizure,Condition,SNOMED,66264000
+4029783,Partial seizure with impaired consciousness,1,seizure,Condition,SNOMED,13847000
+762814,"Temporal lobe epilepsy, non-refractory",1,seizure,Condition,SNOMED,4.32291E+14
+4332304,Status epilepticus,1,seizure,Condition,SNOMED,230456007
+4173765,Atonic seizure,1,seizure,Condition,SNOMED,42365007
+4135349,Post-ictal state,1,seizure,Condition,SNOMED,31758001
+4194232,Absence seizure,1,seizure,Condition,SNOMED,79631006
+377091,Seizure,1,seizure,Condition,SNOMED,91175000
+4102345,Temporal lobe epilepsy,1,seizure,Condition,SNOMED,193000002
+374023,Epilepsia partialis continua,1,seizure,Condition,SNOMED,241006
+4263736,Generalized-onset seizures,1,seizure,Condition,SNOMED,4619009
+44782522,Refractory myoclonic epilepsy,1,seizure,Condition,SNOMED,698762005

@@ -1,0 +1,331 @@
+﻿concept_id,concept_name,Keep,hx,domain_id,vocabulary_id,concept_code
+37016718,Acute depression,1,depression,Condition,SNOMED,712823008
+436071,Acute exacerbation of chronic catatonic schizophrenia,1,schizo,Condition,SNOMED,191548004
+433734,Acute exacerbation of chronic latent schizophrenia,1,schizo,Condition,SNOMED,191564007
+437243,Acute exacerbation of chronic paranoid schizophrenia,1,schizo,Condition,SNOMED,191555002
+435236,Acute exacerbation of chronic schizoaffective schizophrenia,1,schizo,Condition,SNOMED,191572009
+4100366,Acute exacerbation of chronic schizophrenia,1,schizo,Condition,SNOMED,191531007
+439275,Acute exacerbation of subchronic catatonic schizophrenia,1,schizo,Condition,SNOMED,191547009
+439274,Acute exacerbation of subchronic latent schizophrenia,1,schizo,Condition,SNOMED,191563001
+434901,Acute exacerbation of subchronic paranoid schizophrenia,1,schizo,Condition,SNOMED,191554003
+432865,Acute exacerbation of subchronic schizoaffective schizophrenia,1,schizo,Condition,SNOMED,191571002
+4102965,Acute fugue state due to acute stress reaction,1,psychosis,Condition,SNOMED,192038005
+4100382,Acute hysterical psychosis,1,psychosis,Condition,SNOMED,191677006
+438737,Acute paranoid reaction,1,psychosis,Condition,SNOMED,268624000
+4100536,Acute post-trauma stress state,1,PTSD,Condition,SNOMED,192042008
+618641,Acute psychosis,1,psychosis,Condition,SNOMED,6.5971E+13
+4133495,Acute schizophrenia-like psychotic disorder,1,schizo,Condition,SNOMED,278853003
+440083,Acute stress disorder,1,anxiety,Condition,SNOMED,67195008
+4335169,Acute transient psychotic disorder,1,psychosis,Condition,SNOMED,231489001
+40480415,Affective psychosis,1,psychosis,Condition,SNOMED,441704009
+4321835,Agoraphobia,1,anxiety,Condition,SNOMED,70691001
+439786,Agoraphobia with panic attacks,1,anxiety,Condition,SNOMED,191722009
+4189538,Agoraphobia without history of panic disorder,1,anxiety,Condition,SNOMED,61569007
+4219627,Agoraphobia without history of panic disorder without limited symptom attacks,1,anxiety,Condition,SNOMED,82415003
+4102935,Anhedonia,1,depression,Condition,SNOMED,28669007
+4261239,Anticipatory anxiety,1,anxiety,Condition,SNOMED,35429005
+441542,Anxiety,1,anxiety,Condition,SNOMED,48694002
+4085058,Anxiety about behavior or performance,1,anxiety,Condition,SNOMED,247825008
+4230494,Anxiety about blushing,1,anxiety,Condition,SNOMED,89225005
+4084699,Anxiety about body function or health,1,anxiety,Condition,SNOMED,247808006
+4080564,Anxiety about dying,1,anxiety,Condition,SNOMED,277827008
+4328276,Anxiety about loss of memory,1,anxiety,Condition,SNOMED,431432003
+4021501,Anxiety about treatment,1,anxiety,Condition,SNOMED,225635005
+4115221,Anxiety attack,1,anxiety,Condition,SNOMED,300895004
+442077,Anxiety disorder,1,anxiety,Condition,SNOMED,197480006
+42538592,Anxiety disorder caused by stimulant,1,anxiety,Condition,SNOMED,762331007
+4199892,Anxiety disorder due to a general medical condition,1,anxiety,Condition,SNOMED,52910006
+4288011,Anxiety hyperventilation,1,anxiety,Condition,SNOMED,69479009
+4113821,Anxiety state,1,anxiety,Condition,SNOMED,198288003
+438727,Atypical depressive disorder,1,depression,Condition,SNOMED,191659001
+440980,Atypical manic disorder,1,bipolar,Condition,SNOMED,191658009
+4164151,Auditory hallucinations,1,psychosis,Condition,SNOMED,45150006
+439254,"Bipolar affective disorder, current episode depression",1,bipolar,Condition,SNOMED,191627008
+440078,"Bipolar affective disorder, current episode manic",1,bipolar,Condition,SNOMED,191618007
+435226,"Bipolar affective disorder, current episode mixed",1,bipolar,Condition,SNOMED,192362008
+439251,"Bipolar affective disorder, currently depressed, in full remission",1,bipolar,Condition,SNOMED,191634005
+439253,"Bipolar affective disorder, currently depressed, mild",1,bipolar,Condition,SNOMED,191629006
+437528,"Bipolar affective disorder, currently depressed, moderate",1,bipolar,Condition,SNOMED,191630001
+439255,"Bipolar affective disorder, currently manic, in full remission",1,bipolar,Condition,SNOMED,191625000
+441834,"Bipolar affective disorder, currently manic, mild",1,bipolar,Condition,SNOMED,191620005
+433992,"Bipolar affective disorder, currently manic, moderate",1,bipolar,Condition,SNOMED,191621009
+439256,"Bipolar affective disorder, currently manic, severe, with psychosis",1,bipolar,Condition,SNOMED,191623007
+35624745,"Bipolar affective disorder, most recent episode mixed",1,bipolar,Condition,SNOMED,767633005
+436665,Bipolar disorder,1,bipolar,Condition,SNOMED,13746004
+4220618,Bipolar disorder in full remission,1,bipolar,Condition,SNOMED,41836007
+436072,Bipolar disorder in partial remission,1,bipolar,Condition,SNOMED,5703000
+4310821,Bipolar disorder in remission,1,bipolar,Condition,SNOMED,85248005
+35624743,"Bipolar disorder, most recent episode depression",1,bipolar,Condition,SNOMED,767631007
+35624744,"Bipolar disorder, most recent episode manic",1,bipolar,Condition,SNOMED,767632000
+432876,Bipolar I disorder,1,bipolar,Condition,SNOMED,371596008
+4071442,"Bipolar I disorder, most recent episode depressed with catatonic features",1,bipolar,Condition,SNOMED,21900002
+35624748,"Bipolar I disorder, most recent episode depression",1,bipolar,Condition,SNOMED,767636002
+4150985,"Bipolar I disorder, most recent episode hypomanic",1,bipolar,Condition,SNOMED,31446002
+35624747,"Bipolar I disorder, most recent episode manic",1,bipolar,Condition,SNOMED,767635003
+432866,"Bipolar I disorder, single manic episode",1,bipolar,Condition,SNOMED,9340000
+4148842,"Bipolar I disorder, single manic episode, in full remission",1,bipolar,Condition,SNOMED,3530005
+4327669,"Bipolar I disorder, single manic episode, in remission",1,bipolar,Condition,SNOMED,75360000
+4307956,Bipolar II disorder,1,bipolar,Condition,SNOMED,83225003
+4172156,"Bipolar II disorder, most recent episode hypomanic",1,bipolar,Condition,SNOMED,48937005
+4037669,"Bipolar II disorder, most recent episode major depressive",1,bipolar,Condition,SNOMED,16295005
+4185096,"Bipolar II disorder, most recent episode major depressive with atypical features",1,bipolar,Condition,SNOMED,43568002
+4144519,"Bipolar II disorder, most recent episode major depressive with melancholic features",1,bipolar,Condition,SNOMED,34315001
+37109940,Bipolar type I disorder currently in full remission,1,bipolar,Condition,SNOMED,723903001
+37117177,Bipolar type II disorder currently in full remission,1,bipolar,Condition,SNOMED,723905008
+4168389,Borderline schizophrenia,1,schizo,Condition,SNOMED,274952002
+4182683,Brief reactive psychosis,1,psychosis,Condition,SNOMED,5464005
+433996,Catatonic schizophrenia,1,schizo,Condition,SNOMED,191542003
+434332,Catatonic schizophrenia in remission,1,schizo,Condition,SNOMED,111483008
+4103748,Charles Bonnet syndrome,1,psychosis,Condition,SNOMED,193756007
+4098314,Chronic anxiety,1,anxiety,Condition,SNOMED,191708009
+4197669,"Chronic bipolar I disorder, most recent episode depressed",1,bipolar,Condition,SNOMED,51637008
+4001733,"Chronic bipolar II disorder, most recent episode major depressive",1,bipolar,Condition,SNOMED,1196001
+441538,Chronic catatonic schizophrenia,1,schizo,Condition,SNOMED,68995007
+4103574,Chronic depression,1,depression,Condition,SNOMED,192080009
+440368,Chronic disorganized schizophrenia,1,schizo,Condition,SNOMED,12939007
+436385,Chronic disorganized schizophrenia with acute exacerbation,1,schizo,Condition,SNOMED,35218008
+435235,Chronic latent schizophrenia,1,schizo,Condition,SNOMED,191562006
+4031328,"Chronic major depressive disorder, single episode",1,depression,Condition,SNOMED,14183003
+4146712,Chronic paranoid psychosis,1,psychosis,Condition,SNOMED,268622001
+436944,Chronic paranoid schizophrenia,1,schizo,Condition,SNOMED,31658008
+443414,Chronic post-traumatic stress disorder,1,PTSD,Condition,SNOMED,313182004
+4094358,Chronic recurrent major depressive disorder,1,depression,Condition,SNOMED,2618002
+436673,Chronic residual schizophrenia,1,schizo,Condition,SNOMED,71103003
+435218,Chronic residual schizophrenia with acute exacerbations,1,schizo,Condition,SNOMED,30336007
+441835,Chronic schizoaffective schizophrenia,1,schizo,Condition,SNOMED,191570001
+435782,Chronic schizophrenia,1,schizo,Condition,SNOMED,83746006
+4138454,Chronic stress disorder,1,anxiety,Condition,SNOMED,426174008
+4105330,Chronic undifferentiated schizophrenia,1,schizo,Condition,SNOMED,29599000
+40484109,Complex posttraumatic stress disorder,1,PTSD,Condition,SNOMED,443919007
+4033047,Cutaneous monosymptomatic delusional psychosis,1,psychosis,Condition,SNOMED,238972008
+440696,Cyclothymia,1,depression,Condition,SNOMED,76105009
+44782932,Cyclothymia in remission,1,depression,Condition,SNOMED,698946008
+432590,Delusional disorder,1,psychosis,Condition,SNOMED,48500005
+4246498,"Delusional disorder, mixed type",1,psychosis,Condition,SNOMED,60123008
+4081257,Delusions of parasitosis,1,psychosis,Condition,SNOMED,238973003
+441836,Depressed bipolar I disorder,1,bipolar,Condition,SNOMED,49468007
+435225,Depressed bipolar I disorder in full remission,1,bipolar,Condition,SNOMED,22121000
+4177651,Depressed bipolar I disorder in partial remission,1,bipolar,Condition,SNOMED,49512000
+4201739,Depressed bipolar I disorder in remission,1,bipolar,Condition,SNOMED,53607008
+40546087,Depressed mood,1,depression,Condition,SNOMED,366979004
+440383,Depressive disorder,1,depression,Condition,SNOMED,35489007
+44782943,Depressive disorder in remission,1,depression,Condition,SNOMED,698957003
+3656234,Depressive episode,1,depression,Condition,SNOMED,871840004
+441828,Disorganized schizophrenia,1,schizo,Condition,SNOMED,35252006
+4148767,Dysphoric mood,1,depression,Condition,SNOMED,30819006
+433440,Dysthymia,1,depression,Condition,SNOMED,78667006
+4114950,Endogenous depression,1,depression,Condition,SNOMED,300706003
+434613,Generalized anxiety disorder,1,anxiety,Condition,SNOMED,21897009
+4268775,Generalized social phobia,1,anxiety,Condition,SNOMED,62351001
+433031,Hallucinations,1,psychosis,Condition,SNOMED,7011001
+4252399,Hallucinosis,1,psychosis,Condition,SNOMED,73917004
+4333678,Hypomania,1,bipolar,Condition,SNOMED,231496004
+37117155,Illness anxiety disorder,1,anxiety,Condition,SNOMED,1.62657E+16
+4288013,Korsakoff's psychosis,1,psychosis,Condition,SNOMED,69482004
+4057218,Late onset dysthymia,1,depression,Condition,SNOMED,19694002
+433742,Latent schizophrenia,1,schizo,Condition,SNOMED,191559008
+432300,Latent schizophrenia in remission,1,schizo,Condition,SNOMED,191565008
+40480879,Lethal catatonia,1,schizo,Condition,SNOMED,441833000
+4269493,Major depression in full remission,1,depression,Condition,SNOMED,63412003
+4148630,Major depression in partial remission,1,depression,Condition,SNOMED,30605009
+4176002,Major depression in remission,1,depression,Condition,SNOMED,42810003
+4323418,"Major depression single episode, in partial remission",1,depression,Condition,SNOMED,70747007
+37111697,Major depression with psychotic features,1,depression,Condition,SNOMED,726772006
+4154391,"Major depression, melancholic type",1,depression,Condition,SNOMED,320751009
+4282096,"Major depression, single episode",1,depression,Condition,SNOMED,36923009
+4152280,Major depressive disorder,1,depression,Condition,SNOMED,370143000
+4333677,Mania,1,bipolar,Condition,SNOMED,231494001
+35610112,Mania with psychotic features,1,bipolar,Condition,SNOMED,1.08968E+15
+4287544,Manic bipolar I disorder,1,bipolar,Condition,SNOMED,68569003
+436086,Manic bipolar I disorder in full remission,1,bipolar,Condition,SNOMED,30935000
+442600,Manic bipolar I disorder in partial remission,1,bipolar,Condition,SNOMED,63249007
+4166701,Manic bipolar I disorder in remission,1,bipolar,Condition,SNOMED,45479006
+443237,"Manic disorder, single episode",1,bipolar,Condition,SNOMED,268619003
+4223090,Menopausal depression,1,depression,Condition,SNOMED,84788008
+4322025,Mild anxiety,1,anxiety,Condition,SNOMED,70997004
+4028027,Mild bipolar disorder,1,bipolar,Condition,SNOMED,13313007
+432290,"Mild bipolar I disorder, single manic episode",1,bipolar,Condition,SNOMED,41552001
+4324945,"Mild bipolar II disorder, most recent episode major depressive",1,bipolar,Condition,SNOMED,71294008
+437250,Mild depressed bipolar I disorder,1,bipolar,Condition,SNOMED,74686005
+4149320,Mild depression,1,depression,Condition,SNOMED,310495003
+4336957,Mild major depression,1,depression,Condition,SNOMED,87512008
+4195572,"Mild major depression, single episode",1,depression,Condition,SNOMED,79298009
+4215917,Mild manic bipolar I disorder,1,bipolar,Condition,SNOMED,71984005
+440079,Mild mixed bipolar I disorder,1,bipolar,Condition,SNOMED,43769008
+4228802,Mild recurrent major depression,1,depression,Condition,SNOMED,40379007
+36713698,Minimal depression,1,depression,Condition,SNOMED,718636001
+36715000,Minimal major depression,1,depression,Condition,SNOMED,720455008
+4174987,Minor depressive disorder,1,depression,Condition,SNOMED,48589009
+4338031,Mixed anxiety and depressive disorder,1,anxiety,Condition,SNOMED,231504006
+4338031,Mixed anxiety and depressive disorder,1,depression,Condition,SNOMED,231504006
+439250,Mixed bipolar affective disorder,1,bipolar,Condition,SNOMED,191636007
+439245,"Mixed bipolar affective disorder, in full remission",1,bipolar,Condition,SNOMED,191643001
+439249,"Mixed bipolar affective disorder, mild",1,bipolar,Condition,SNOMED,191638008
+439248,"Mixed bipolar affective disorder, moderate",1,bipolar,Condition,SNOMED,191639000
+439246,"Mixed bipolar affective disorder, severe, with psychosis",1,bipolar,Condition,SNOMED,191641004
+443906,Mixed bipolar I disorder,1,bipolar,Condition,SNOMED,16506000
+4009648,Mixed bipolar I disorder in full remission,1,bipolar,Condition,SNOMED,111485001
+437529,Mixed bipolar I disorder in partial remission,1,bipolar,Condition,SNOMED,36583000
+433743,Mixed bipolar I disorder in remission,1,bipolar,Condition,SNOMED,35481005
+4263429,Moderate anxiety,1,anxiety,Condition,SNOMED,61387006
+4194222,Moderate bipolar disorder,1,bipolar,Condition,SNOMED,79584002
+440067,"Moderate bipolar I disorder, single manic episode",1,bipolar,Condition,SNOMED,28884001
+4262111,"Moderate bipolar II disorder, most recent episode major depressive",1,bipolar,Condition,SNOMED,35846004
+4280361,Moderate depressed bipolar I disorder,1,depression,Condition,SNOMED,66631006
+4151170,Moderate depression,1,depression,Condition,SNOMED,310496002
+4307111,Moderate major depression,1,depression,Condition,SNOMED,832007
+4049623,"Moderate major depression, single episode",1,depression,Condition,SNOMED,15639000
+4307804,Moderate manic bipolar I disorder,1,bipolar,Condition,SNOMED,82998009
+439785,Moderate mixed bipolar I disorder,1,bipolar,Condition,SNOMED,40926005
+4077577,Moderate recurrent major depression,1,depression,Condition,SNOMED,18818009
+36717092,Moderately severe depression,1,depression,Condition,SNOMED,719593009
+36714389,Moderately severe major depression,1,depression,Condition,SNOMED,719592004
+36714998,Moderately severe recurrent major depression,1,depression,Condition,SNOMED,720452006
+43021849,Mood disorder of manic type,1,bipolar,Condition,SNOMED,2.1071E+13
+4328217,Mood disorder with depressive features due to general medical condition,1,depression,Condition,SNOMED,75837004
+4298317,Mood disorder with major depressive-like episode due to general medical condition,1,depression,Condition,SNOMED,77486005
+4102936,Mood disorder with manic features due to general medical condition,1,bipolar,Condition,SNOMED,28676002
+4329560,Mood disorder with mixed features due to general medical condition,1,bipolar,Condition,SNOMED,22419002
+4096921,Mood-congruent hallucination,1,psychosis,Condition,SNOMED,26433004
+4178928,Nightmares associated with chronic post-traumatic stress disorder,1,PTSD,Condition,SNOMED,428687006
+440374,Obsessive-compulsive disorder,1,anxiety,Condition,SNOMED,191736004
+381537,Organic anxiety disorder,1,anxiety,Condition,SNOMED,17496003
+4335159,Organic catatonic disorder,1,psychosis,Condition,SNOMED,231442003
+375229,Organic delusional disorder,1,psychosis,Condition,SNOMED,5510009
+373175,Organic hallucinosis,1,psychosis,Condition,SNOMED,45912004
+4175329,Organic mood disorder of depressed type,1,depression,Condition,SNOMED,42594001
+4237734,Organic mood disorder of manic type,1,bipolar,Condition,SNOMED,58329000
+4307518,Organic mood disorder of mixed type,1,bipolar,Condition,SNOMED,83501007
+4100247,Organic psychotic condition,1,psychosis,Condition,SNOMED,191447007
+4196358,Panic,1,anxiety,Condition,SNOMED,79823003
+4021498,Panic attack,1,anxiety,Condition,SNOMED,225624000
+436074,Panic disorder,1,anxiety,Condition,SNOMED,371631005
+4147466,Panic disorder with agoraphobia,1,anxiety,Condition,SNOMED,35607004
+4217601,Panic disorder with agoraphobia AND moderate panic attacks,1,anxiety,Condition,SNOMED,8185002
+4245974,Panic disorder with agoraphobia AND panic attacks in full remission,1,anxiety,Condition,SNOMED,59923000
+4273699,Panic disorder with agoraphobia AND panic attacks in partial remission,1,anxiety,Condition,SNOMED,63909006
+4204708,Panic disorder with agoraphobia AND severe panic attacks,1,anxiety,Condition,SNOMED,5509004
+4220989,"Panic disorder with agoraphobia, moderate agoraphobic avoidance AND moderate panic attacks",1,anxiety,Condition,SNOMED,82738004
+4243153,"Panic disorder with agoraphobia, severe agoraphobic avoidance AND panic attacks in full remission",1,anxiety,Condition,SNOMED,38328002
+4246992,"Panic disorder with agoraphobia, severe agoraphobic avoidance AND severe panic attacks",1,anxiety,Condition,SNOMED,61212007
+4211231,Panic disorder without agoraphobia,1,anxiety,Condition,SNOMED,56576003
+4218624,Panic disorder without agoraphobia with mild panic attacks,1,anxiety,Condition,SNOMED,72861004
+4277739,Panic disorder without agoraphobia with moderate panic attacks,1,anxiety,Condition,SNOMED,65064003
+4221253,Panic disorder without agoraphobia with panic attacks in full remission,1,anxiety,Condition,SNOMED,82494000
+4102670,Paranoid disorder,1,psychosis,Condition,SNOMED,191667009
+433450,Paranoid schizophrenia,1,schizo,Condition,SNOMED,64905009
+435217,Paranoid schizophrenia in remission,1,schizo,Condition,SNOMED,63181006
+4232639,Persecutory delusion disorder,1,schizo,Condition,SNOMED,89618007
+4335168,Persistent delusional disorder,1,psychosis,Condition,SNOMED,231487004
+607543,Persistent depressive disorder,1,depression,Condition,SNOMED,1153575004
+4193022,Post-trauma response,1,PTSD,Condition,SNOMED,39093002
+4045847,Post-traumatic coma,1,PTSD,Condition,SNOMED,230799003
+436676,Posttraumatic stress disorder,1,PTSD,Condition,SNOMED,47505003
+4307951,Primary dysthymia,1,depression,Condition,SNOMED,83176005
+433751,Prolonged depressive adjustment reaction,1,depression,Condition,SNOMED,192049004
+440983,Psychogenic paranoid psychosis,1,psychosis,Condition,SNOMED,191680007
+35622934,Psychosis and severe depression co-occurrent and due to bipolar affective disorder,1,bipolar,Condition,SNOMED,765176007
+436073,Psychotic disorder,1,psychosis,Condition,SNOMED,69322001
+4088165,Psychotic symptom finding,1,psychosis,Condition,SNOMED,279315008
+4090920,Psychotic symptom present,1,psychosis,Condition,SNOMED,280427006
+37312578,Rapid cycling bipolar II disorder,1,bipolar,Condition,SNOMED,789061003
+4314692,Reactive depression (situational),1,depression,Condition,SNOMED,87414006
+435520,Reactive depressive psychosis,1,psychosis,Condition,SNOMED,191676002
+435237,Reactive psychoses,1,psychosis,Condition,SNOMED,231437006
+4226155,Recurrent brief depressive disorder,1,depression,Condition,SNOMED,40568001
+4098302,Recurrent depression,1,depression,Condition,SNOMED,191616006
+4282316,Recurrent major depression,1,depression,Condition,SNOMED,66344007
+4263748,Recurrent major depression in full remission,1,depression,Condition,SNOMED,46244001
+4141454,Recurrent major depression in partial remission,1,depression,Condition,SNOMED,33135002
+433991,Recurrent major depression in remission,1,depression,Condition,SNOMED,68019004
+35615154,Recurrent major depressive disorder co-occurrent with anxiety in full remission,1,depression,Condition,SNOMED,1.62651E+16
+35615155,Recurrent major depressive disorder in partial remission co-occurrent with anxiety,1,depression,Condition,SNOMED,1.62653E+16
+4304140,Recurrent major depressive disorder with atypical features,1,depression,Condition,SNOMED,38694004
+4205471,Recurrent major depressive disorder with melancholic features,1,depression,Condition,SNOMED,319768000
+432285,Recurrent major depressive episodes,1,depression,Condition,SNOMED,268621008
+438998,"Recurrent major depressive episodes, mild",1,depression,Condition,SNOMED,191610000
+432883,"Recurrent major depressive episodes, moderate",1,depression,Condition,SNOMED,191611001
+434911,"Recurrent major depressive episodes, severe, with psychosis",1,depression,Condition,SNOMED,191613003
+437249,Recurrent manic episodes,1,bipolar,Condition,SNOMED,191590005
+437831,"Recurrent manic episodes, in full remission",1,bipolar,Condition,SNOMED,191597008
+438119,"Recurrent manic episodes, mild",1,bipolar,Condition,SNOMED,191592002
+438405,"Recurrent manic episodes, moderate",1,bipolar,Condition,SNOMED,191593007
+437532,"Recurrent manic episodes, severe, with psychosis",1,bipolar,Condition,SNOMED,191595000
+35615153,Recurrent moderate major depressive disorder co-occurrent with anxiety,1,depression,Condition,SNOMED,1.62649E+16
+35615152,Recurrent severe major depressive disorder co-occurrent with anxiety,1,depression,Condition,SNOMED,1.62648E+16
+439004,Residual schizophrenia,1,schizo,Condition,SNOMED,26025008
+440686,Residual schizophrenia in remission,1,schizo,Condition,SNOMED,51133006
+4286201,Schizoaffective disorder,1,schizo,Condition,SNOMED,68890003
+4244078,"Schizoaffective disorder, bipolar type",1,schizo,Condition,SNOMED,38368003
+4224940,"Schizoaffective disorder, depressive type",1,schizo,Condition,SNOMED,84760002
+4152971,"Schizoaffective disorder, mixed type",1,schizo,Condition,SNOMED,270901009
+432597,Schizoaffective schizophrenia,1,schizo,Condition,SNOMED,191567000
+434321,Schizoaffective schizophrenia in remission,1,schizo,Condition,SNOMED,191574005
+435783,Schizophrenia,1,schizo,Condition,SNOMED,58214004
+435219,Schizophrenia in remission,1,schizo,Condition,SNOMED,4926007
+4100365,Schizophrenic disorders,1,schizo,Condition,SNOMED,191526005
+4085662,Schizophrenic prodrome,1,schizo,Condition,SNOMED,247804008
+4012112,Schizophrenic reaction,1,schizo,Condition,SNOMED,102940002
+444434,Schizophreniform disorder,1,schizo,Condition,SNOMED,88975006
+4224639,Secondary dysthymia,1,depression,Condition,SNOMED,85080004
+4152048,Senile and presenile organic psychotic conditions,1,psychosis,Condition,SNOMED,268612007
+4214746,Severe anxiety (panic),1,anxiety,Condition,SNOMED,80583007
+4155798,Severe bipolar disorder,1,bipolar,Condition,SNOMED,371600003
+4195158,Severe bipolar disorder with psychotic features,1,bipolar,Condition,SNOMED,4441000
+4131027,"Severe bipolar disorder with psychotic features, mood-incongruent",1,bipolar,Condition,SNOMED,26530004
+4200385,Severe bipolar disorder without psychotic features,1,bipolar,Condition,SNOMED,53049002
+4154283,Severe bipolar I disorder,1,bipolar,Condition,SNOMED,371599001
+4220617,"Severe bipolar I disorder, single manic episode with psychotic features",1,bipolar,Condition,SNOMED,41832009
+4030856,"Severe bipolar I disorder, single manic episode without psychotic features",1,bipolar,Condition,SNOMED,14495005
+4161200,Severe bipolar II disorder,1,bipolar,Condition,SNOMED,371604007
+4217940,"Severe bipolar II disorder, most recent episode major depressive without psychotic features",1,bipolar,Condition,SNOMED,81319007
+4045263,"Severe bipolar II disorder, most recent episode major depressive, in full remission",1,bipolar,Condition,SNOMED,12969000
+4262272,"Severe bipolar II disorder, most recent episode major depressive, in remission",1,bipolar,Condition,SNOMED,35722002
+42872413,Severe depressed bipolar I disorder,1,bipolar,Condition,SNOMED,2.61E+11
+436386,Severe depressed bipolar I disorder with psychotic features,1,bipolar,Condition,SNOMED,59617007
+442570,Severe depressed bipolar I disorder without psychotic features,1,bipolar,Condition,SNOMED,61403008
+4149321,Severe depression,1,depression,Condition,SNOMED,310497006
+42872722,Severe major depression,1,depression,Condition,SNOMED,450714000
+4250023,Severe major depression with psychotic features,1,depression,Condition,SNOMED,73867007
+4144233,"Severe major depression with psychotic features, mood-congruent",1,depression,Condition,SNOMED,33736005
+4327337,Severe major depression without psychotic features,1,depression,Condition,SNOMED,75084000
+42872411,"Severe major depression, single episode",1,depression,Condition,SNOMED,2.51E+11
+438406,"Severe major depression, single episode, with psychotic features",1,depression,Condition,SNOMED,430852001
+441534,"Severe major depression, single episode, without psychotic features",1,depression,Condition,SNOMED,76441001
+43020451,Severe manic bipolar I disorder,1,bipolar,Condition,SNOMED,2.3741E+13
+4102603,Severe manic bipolar I disorder with psychotic features,1,bipolar,Condition,SNOMED,28663008
+4141603,"Severe manic bipolar I disorder with psychotic features, mood-incongruent",1,bipolar,Condition,SNOMED,33380008
+443797,Severe manic bipolar I disorder without psychotic features,1,bipolar,Condition,SNOMED,162004
+42872412,Severe mixed bipolar I disorder,1,bipolar,Condition,SNOMED,2.71E+11
+439001,Severe mixed bipolar I disorder with psychotic features,1,bipolar,Condition,SNOMED,10981006
+372599,Severe mixed bipolar I disorder without psychotic features,1,bipolar,Condition,SNOMED,46229002
+43531624,Severe recurrent major depression,1,depression,Condition,SNOMED,2.81E+11
+4154309,Severe recurrent major depression with psychotic features,1,depression,Condition,SNOMED,28475009
+4141292,"Severe recurrent major depression with psychotic features, mood-congruent",1,depression,Condition,SNOMED,33078009
+435220,Severe recurrent major depression without psychotic features,1,depression,Condition,SNOMED,36474008
+436067,Simple schizophrenia,1,schizo,Condition,SNOMED,191527001
+4025677,Single episode of major depression in full remission,1,depression,Condition,SNOMED,19527009
+439259,"Single major depressive episode, severe, with psychosis",1,depression,Condition,SNOMED,191604000
+439261,Single manic episode in full remission,1,bipolar,Condition,SNOMED,191588009
+44805552,Single manic episode in partial remission,1,bipolar,Condition,SNOMED,7.64731E+14
+44805553,Single manic episode in remission,1,bipolar,Condition,SNOMED,7.64741E+14
+439273,"Single manic episode, mild",1,bipolar,Condition,SNOMED,191583000
+439272,"Single manic episode, moderate",1,bipolar,Condition,SNOMED,191584006
+439262,"Single manic episode, severe, with psychosis",1,bipolar,Condition,SNOMED,191586008
+433990,Subchronic catatonic schizophrenia,1,schizo,Condition,SNOMED,42868002
+438724,Subchronic disorganized schizophrenia,1,schizo,Condition,SNOMED,27387000
+436384,Subchronic disorganized schizophrenia with acute exacerbations,1,schizo,Condition,SNOMED,14291003
+440077,Subchronic latent schizophrenia,1,schizo,Condition,SNOMED,191561004
+432299,Subchronic paranoid schizophrenia,1,schizo,Condition,SNOMED,79866005
+433442,Subchronic residual schizophrenia,1,schizo,Condition,SNOMED,76566000
+444396,Subchronic residual schizophrenia with acute exacerbations,1,schizo,Condition,SNOMED,70814008
+433443,Subchronic schizoaffective schizophrenia,1,schizo,Condition,SNOMED,191569002
+440373,Subchronic schizophrenia,1,schizo,Condition,SNOMED,16990005
+432598,Subchronic schizophrenia with acute exacerbations,1,schizo,Condition,SNOMED,111482003
+4310121,Subchronic undifferentiated schizophrenia,1,schizo,Condition,SNOMED,85861002
+4280834,Tactile hallucinations,1,psychosis,Condition,SNOMED,66609003
+607540,Treatment resistant depression,1,depression,Condition,SNOMED,1153570009
+4008566,Undifferentiated schizophrenia,1,schizo,Condition,SNOMED,111484002
+4275889,Visual hallucinations,1,psychosis,Condition,SNOMED,64269007
+,,,,,,
+,,328,,,,
