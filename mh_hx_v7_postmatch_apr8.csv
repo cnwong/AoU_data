@@ -1,0 +1,1020 @@
+﻿concept_id,concept_name,Keep,hx
+4202590,Able to sleep,0,na
+4219553,Abnormal affect,0,na
+4089921,Abuse of antacids,0,na
+440992,Abuse of antidepressant drug,0,na
+4091715,Abuse of herbal medicine,0,na
+43020473,Abuse of herbal medicine or folk remedy,0,na
+4091714,Abuse of laxatives,0,na
+4148093,Abuse of non-dependence-producing substances,0,na
+4338023,Abuse of steroids,0,na
+4092159,Abuse of vitamins,0,na
+440088,Academic underachievement disorder,0,na
+4239656,Acrophobia,0,na
+439703,Active infantile autism,0,na
+4038794,Acute confusion,0,na
+37016718,Acute depression,1,depression
+436071,Acute exacerbation of chronic catatonic schizophrenia,1,schizo
+433734,Acute exacerbation of chronic latent schizophrenia,1,schizo
+437243,Acute exacerbation of chronic paranoid schizophrenia,1,schizo
+435236,Acute exacerbation of chronic schizoaffective schizophrenia,1,schizo
+4100366,Acute exacerbation of chronic schizophrenia,1,schizo
+439275,Acute exacerbation of subchronic catatonic schizophrenia,1,schizo
+439274,Acute exacerbation of subchronic latent schizophrenia,1,schizo
+434901,Acute exacerbation of subchronic paranoid schizophrenia,1,schizo
+432865,Acute exacerbation of subchronic schizoaffective schizophrenia,1,schizo
+4102965,Acute fugue state due to acute stress reaction,1,psychosis
+438737,Acute paranoid reaction,1,psychosis
+4100536,Acute post-trauma stress state,1,PTSD
+4133495,Acute schizophrenia-like psychotic disorder,1,schizo
+4103567,Acute situational disturbance,0,na
+440083,Acute stress disorder,1,anxiety
+4335169,Acute transient psychotic disorder,1,psychosis
+4139144,Addiction,0,na
+436677,Adjustment disorder,0,na
+44784535,Adjustment disorder in remission,0,na
+4050327,Adjustment disorder with academic inhibition,0,na
+436075,Adjustment disorder with anxious mood,0,na
+44784526,Adjustment disorder with anxious mood in remission,0,na
+442306,Adjustment disorder with depressed mood,0,na
+435799,Adjustment disorder with disturbance of conduct,0,na
+36684319,Adjustment disorder with mixed anxiety and depressed mood,0,na
+436076,Adjustment disorder with mixed disturbance of emotions AND conduct,0,na
+433454,Adjustment disorder with mixed emotional features,0,na
+437258,Adjustment disorder with withdrawal,0,na
+4304013,Adjustment reaction of adult life,0,na
+441543,Adjustment reaction with physical symptoms,0,na
+43021834,Adjustment to life threatening illness,0,na
+439691,Adolescent emancipation disorder,0,na
+40480225,Adult attention deficit hyperactivity disorder,0,na
+438728,Affective personality trait,0,na
+40480415,Affective psychosis,1,psychosis
+4333671,Age-associated memory impairment,0,na
+433451,Aggressive unsocial conduct disorder,0,na
+37312035,Agitation due to dementia,0,na
+4224339,Agnosia for smell,0,na
+4321835,Agoraphobia,1,anxiety
+439786,Agoraphobia with panic attacks,1,anxiety
+4189538,Agoraphobia without history of panic disorder,1,anxiety
+4219627,Agoraphobia without history of panic disorder without limited symptom attacks,1,anxiety
+433753,Alcohol abuse,0,na
+374623,Alcohol amnestic disorder,0,na
+435243,Alcohol dependence,0,na
+45757093,Alcohol dependence in pregnancy,0,na
+372607,Alcohol hallucinosis,0,na
+36713086,Alcohol induced disorder co-occurrent and due to alcohol dependence,0,na
+4214950,Alcohol induced hallucinations,0,na
+4088373,Alcohol intoxication delirium,0,na
+377830,Alcohol withdrawal delirium,0,na
+439277,Alcohol withdrawal hallucinosis,0,na
+375519,Alcohol withdrawal syndrome,0,na
+4146660,Alcohol-induced anxiety disorder,0,na
+4205002,Alcohol-induced mood disorder,0,na
+376383,Alcohol-induced organic mental disorder,0,na
+374317,Alcohol-induced psychosis,0,na
+442582,Alcohol-induced psychotic disorder with delusions,0,na
+375794,Alcohol-induced sleep disorder,0,na
+4218106,Alcoholism,0,na
+436222,Altered mental status,0,na
+4301359,Altered thought processes,0,na
+378419,Alzheimer's disease,0,na
+764080,Ambivalent attitude about trying to conceive,0,na
+372608,Amnestic disorder,0,na
+36712678,Amnestic disorder associated with general medical condition,0,na
+37312034,Amnestic disorder caused by psychoactive substance,0,na
+4136662,Amphetamine delusional disorder,0,na
+4308292,Amphetamine-induced organic mental disorder,0,na
+4197434,Amphetamine-induced psychotic disorder with hallucinations,0,na
+4296631,Angelman syndrome,0,na
+4102935,Anhedonia,1,depression
+436675,Anorexia nervosa,0,na
+44784528,Anorexia nervosa in remission,0,na
+4269485,"Anorexia nervosa, binge-eating purging type",0,na
+4300305,"Anorexia nervosa, restricting type",0,na
+4050254,Anosognosia,0,na
+4261239,Anticipatory anxiety,1,anxiety
+440988,Antisocial personality disorder,0,na
+441542,Anxiety,1,anxiety
+4085058,Anxiety about behavior or performance,1,anxiety
+4084699,Anxiety about body function or health,1,anxiety
+4328276,Anxiety about loss of memory,1,anxiety
+4021501,Anxiety about treatment,1,anxiety
+4115221,Anxiety attack,1,anxiety
+442077,Anxiety disorder,1,anxiety
+37109206,Anxiety disorder caused by drug,0,na
+42538592,Anxiety disorder caused by stimulant,1,anxiety
+4199892,Anxiety disorder due to a general medical condition,1,anxiety
+4242095,Anxiety disorder of adolescence,0,na
+4203449,Anxiety disorder of childhood,0,na
+433178,Anxiety disorder of childhood OR adolescence,0,na
+4288011,Anxiety hyperventilation,1,anxiety
+42538968,Anxiety in pregnancy,0,na
+4113821,Anxiety state,1,anxiety
+4012102,Arachnophobia,0,na
+4086839,Asleep,0,na
+4053178,Asperger's disorder,0,na
+438409,Attention deficit hyperactivity disorder,0,na
+4149904,"Attention deficit hyperactivity disorder, combined type",0,na
+4253962,"Attention deficit hyperactivity disorder, predominantly hyperactive impulsive type",0,na
+4149353,"Attention deficit hyperactivity disorder, predominantly inattentive type",0,na
+4274424,Attitude - finding,0,na
+4333683,Atypical anorexia nervosa,0,na
+438727,Atypical depressive disorder,1,depression
+440980,Atypical manic disorder,1,bipolar
+4183606,Auditory agnosia,0,na
+4164151,Auditory hallucinations,1,psychosis
+439776,Autism spectrum disorder,0,na
+439780,Autistic disorder,0,na
+437524,Avoidant personality disorder,0,na
+45763720,Avoidant restrictive food intake disorder,0,na
+4232939,Axis I diagnosis,0,na
+4208979,Axis II diagnosis,0,na
+4145928,Axis IV diagnosis,0,na
+4335175,Behavioral and emotional disorder with onset in childhood,0,na
+37117145,Behavioral disturbance co-occurrent and due to late onset Alzheimer dementia,0,na
+4333000,Behavioral syndrome associated with physiological disturbance and physical factors,0,na
+45766642,Benzodiazepine withdrawal delirium,0,na
+438999,Bestiality,0,na
+36685095,Bilateral hyperacusis of ears,0,na
+439254,"Bipolar affective disorder, current episode depression",1,bipolar
+440078,"Bipolar affective disorder, current episode manic",1,bipolar
+435226,"Bipolar affective disorder, current episode mixed",1,bipolar
+439251,"Bipolar affective disorder, currently depressed, in full remission",1,bipolar
+439253,"Bipolar affective disorder, currently depressed, mild",1,bipolar
+437528,"Bipolar affective disorder, currently depressed, moderate",1,bipolar
+439255,"Bipolar affective disorder, currently manic, in full remission",1,bipolar
+441834,"Bipolar affective disorder, currently manic, mild",1,bipolar
+433992,"Bipolar affective disorder, currently manic, moderate",1,bipolar
+439256,"Bipolar affective disorder, currently manic, severe, with psychosis",1,bipolar
+35624745,"Bipolar affective disorder, most recent episode mixed",1,bipolar
+436665,Bipolar disorder,1,bipolar
+4220618,Bipolar disorder in full remission,1,bipolar
+436072,Bipolar disorder in partial remission,1,bipolar
+4310821,Bipolar disorder in remission,1,bipolar
+35624743,"Bipolar disorder, most recent episode depression",1,bipolar
+35624744,"Bipolar disorder, most recent episode manic",1,bipolar
+432876,Bipolar I disorder,1,bipolar
+4071442,"Bipolar I disorder, most recent episode depressed with catatonic features",1,bipolar
+35624748,"Bipolar I disorder, most recent episode depression",1,bipolar
+4150985,"Bipolar I disorder, most recent episode hypomanic",1,bipolar
+35624747,"Bipolar I disorder, most recent episode manic",1,bipolar
+432866,"Bipolar I disorder, single manic episode",1,bipolar
+4148842,"Bipolar I disorder, single manic episode, in full remission",1,bipolar
+4327669,"Bipolar I disorder, single manic episode, in remission",1,bipolar
+4307956,Bipolar II disorder,1,bipolar
+4172156,"Bipolar II disorder, most recent episode hypomanic",1,bipolar
+4037669,"Bipolar II disorder, most recent episode major depressive",1,bipolar
+4185096,"Bipolar II disorder, most recent episode major depressive with atypical features",1,bipolar
+4144519,"Bipolar II disorder, most recent episode major depressive with melancholic features",1,bipolar
+4148934,"Bipolar II disorder, most recent episode major depressive with postpartum onset",0,na
+37109940,Bipolar type I disorder currently in full remission,1,bipolar
+37117177,Bipolar type II disorder currently in full remission,1,bipolar
+4306640,Body dysmorphic disorder,0,na
+4080561,Body image finding,0,na
+4299505,Borderline intellectual disability,0,na
+434626,Borderline personality disorder,0,na
+4168389,Borderline schizophrenia,1,schizo
+4107230,Brain fag,0,na
+440698,Brief depressive adjustment reaction,0,na
+381135,Brief loss of consciousness,0,na
+4182683,Brief reactive psychosis,1,psychosis
+438407,Bulimia nervosa,0,na
+4139256,"Bulimia nervosa, purging type",0,na
+4155087,C/O - feeling depressed,1,depression
+4150393,C/O tearfulness,0,na
+4116267,Callous character,0,na
+4272313,Cannabis delusional disorder,0,na
+4220197,Cannabis intoxication delirium,0,na
+4221077,Cannabis-induced anxiety disorder,0,na
+4300092,Cannabis-induced organic mental disorder,0,na
+4097389,Cannabis-induced psychotic disorder with hallucinations,0,na
+37312020,Cardiac syncope,0,na
+4117108,Caregiver stress syndrome,0,na
+433996,Catatonic schizophrenia,1,schizo
+434332,Catatonic schizophrenia in remission,1,schizo
+4100666,Change in personality,0,na
+4284848,Character trait finding,0,na
+4120421,Character trait finding of affective stability,0,na
+4113486,Character trait finding of empathic sensitivity,0,na
+4116271,Character trait finding of impulse control,0,na
+4103748,Charles Bonnet syndrome,1,psychosis
+440086,Child attention deficit disorder,0,na
+4151722,Childhood disinhibited attachment disorder,0,na
+441535,Childhood disintegrative disorder,0,na
+433758,Childhood emotional disorder,0,na
+4100101,Childhood or adolescent disorder of social functioning,0,na
+439005,Chronic alcoholism in remission,0,na
+4098314,Chronic anxiety,1,anxiety
+4001733,"Chronic bipolar II disorder, most recent episode major depressive",1,bipolar
+441538,Chronic catatonic schizophrenia,1,schizo
+4103574,Chronic depression,1,depression
+40481798,Chronic depressive personality disorder,0,na
+440368,Chronic disorganized schizophrenia,1,schizo
+436385,Chronic disorganized schizophrenia with acute exacerbation,1,schizo
+40482661,Chronic hypomanic personality disorder,0,na
+435235,Chronic latent schizophrenia,1,schizo
+4031328,"Chronic major depressive disorder, single episode",1,depression
+4134596,Chronic mental disorder,0,na
+762060,Chronic mood disorder,0,na
+375221,Chronic motor tic disorder,0,na
+4144146,Chronic organic mental disorder,0,na
+436944,Chronic paranoid schizophrenia,1,schizo
+443414,Chronic post-traumatic stress disorder,1,PTSD
+4094358,Chronic recurrent major depressive disorder,1,depression
+436673,Chronic residual schizophrenia,1,schizo
+435218,Chronic residual schizophrenia with acute exacerbations,1,schizo
+441835,Chronic schizoaffective schizophrenia,1,schizo
+435782,Chronic schizophrenia,1,schizo
+4138454,Chronic stress disorder,1,anxiety
+4105330,Chronic undifferentiated schizophrenia,1,schizo
+4250625,Chronic vocal tic disorder,0,na
+36676440,CK syndrome,0,na
+4058397,Claustrophobia,0,na
+4164633,Clouded consciousness,0,na
+4043918,Cluster A personality disorder,0,na
+4181019,Cluster B personality disorder,0,na
+4222618,Cluster C personality disorder,0,na
+4290062,Cocaine delirium,0,na
+4148140,Cocaine delusional disorder,0,na
+4101256,Cocaine intoxication,0,na
+4216493,Cocaine withdrawal,0,na
+4198826,Cocaine-induced anxiety disorder,0,na
+4012869,Cocaine-induced mood disorder,0,na
+4264766,Cocaine-induced organic mental disorder,0,na
+4272033,Cocaine-induced psychotic disorder with hallucinations,0,na
+40484109,Complex posttraumatic stress disorder,1,PTSD
+4053320,Compulsive behavior,0,na
+436959,Compulsive gambling,0,na
+4084868,Compulsive hoarding,0,na
+37116580,Concern about breast appearance,0,na
+4037136,Concerned about appearance,0,na
+443617,Conduct disorder,0,na
+4338038,Conduct disorder - in family context,0,na
+4335176,Conduct disorder - unsocialized,0,na
+439800,"Conduct disorder, adolescent-onset type",0,na
+437843,"Conduct disorder, childhood-onset type",0,na
+45767049,Conflicting attitude towards dietary regime,0,na
+45767047,Conflicting attitude towards medication management,0,na
+381273,Confusional state,0,na
+440213,Consciousness and/or awareness finding,0,na
+4024715,Consciousness related finding,0,na
+436953,Continuous chronic alcoholism,0,na
+4009651,"Conversion disorder, single episode",0,na
+4233646,Conversion dysphonia,0,na
+4229670,Convulsive syncope,0,na
+4033047,Cutaneous monosymptomatic delusional psychosis,1,psychosis
+440696,Cyclothymia,1,depression
+44782932,Cyclothymia in remission,1,depression
+42872394,Daytime somnolence,0,na
+40481424,Decreased level of consciousness,0,na
+4321737,Deferred diagnosis on Axis I,0,na
+4174053,Deferred diagnosis on Axis II,0,na
+373995,Delirium,0,na
+37309681,Delirium due to drug withdrawal,0,na
+37209507,Delirium due to opioid withdrawal,0,na
+4333669,Delirium of mixed origin,0,na
+432590,Delusional disorder,1,psychosis
+4246498,"Delusional disorder, mixed type",1,psychosis
+4081257,Delusions of parasitosis,1,psychosis
+4182210,Dementia,0,na
+4228133,Dementia associated with AIDS,0,na
+378726,Dementia associated with alcoholism,0,na
+374888,Dementia associated with another disease,0,na
+37110513,Dementia due to disorder of central nervous system,0,na
+40483103,Dementia due to Huntington chorea,0,na
+441002,Dementia of frontal lobe type,0,na
+43530664,Dementia of the Alzheimer type with behavioral disturbance,0,na
+43530666,Dementia with behavioral disturbance,0,na
+4165067,Demoralization,0,na
+437523,Dependent personality disorder,0,na
+4194953,Depersonalization,0,na
+437244,Depersonalization disorder,0,na
+4338035,Depersonalization-derealization syndrome,0,na
+441836,Depressed bipolar I disorder,1,bipolar
+435225,Depressed bipolar I disorder in full remission,1,bipolar
+4177651,Depressed bipolar I disorder in partial remission,1,bipolar
+4201739,Depressed bipolar I disorder in remission,1,bipolar
+40546087,Depressed mood,1,depression
+440383,Depressive disorder,1,depression
+37018656,Depressive disorder in mother complicating pregnancy,0,na
+44782943,Depressive disorder in remission,1,depression
+3656234,Depressive episode,1,depression
+133285,Dermatitis factitia,0,na
+4085156,Developmental academic disorder,0,na
+434340,Developmental arithmetic disorder,0,na
+440388,Developmental coordination disorder,0,na
+4163988,Developmental expressive writing disorder,0,na
+4043545,Developmental mental disorder,0,na
+433759,Developmental reading disorder,0,na
+4110298,Difficulty controlling anger,0,na
+4113953,Difficulty controlling emotions,0,na
+4311857,Difficulty managing stress,0,na
+4115402,Difficulty sleeping,0,na
+42537692,Disorder caused by cannabis,0,na
+37311994,Disorder caused by dissociative drug,0,na
+37311993,Disorder caused by stimulant,0,na
+4212760,Disorder of form of thought,0,na
+4102986,Disorder of psychological development,0,na
+4081256,Disorders of cutaneous image and perception,0,na
+4108537,Disorders of excessive somnolence,0,na
+441828,Disorganized schizophrenia,1,schizo
+42539616,Disorganized thinking,0,na
+4268911,Disorientated,0,na
+437259,Disruptive behavior disorder,0,na
+37396201,Disruptive mood dysregulation disorder,0,na
+4117368,Dissociation - mental defense mechanism,0,na
+4098316,Dissociative convulsions,0,na
+434889,Dissociative disorder,0,na
+4085534,Dissociative hallucinations,0,na
+4150799,Dissociative motor disorder,0,na
+42539544,Dissociative neurological symptom disorder,0,na
+4077963,Dissociative stupor,0,na
+4085651,Dissociative tactile hallucinations,0,na
+4268637,Distorted body image,0,na
+4305072,Disturbance in affect,0,na
+4167815,Disturbance in mood,0,na
+4188040,Disturbance in structure of associations,0,na
+4328349,Disturbance of attention,0,na
+376961,Disturbance of consciousness,0,na
+4269569,Disturbance of perception associated with conversion and dissociative phenomenon,0,na
+4035681,Disturbed sensory perception,0,na
+4009184,Dream anxiety disorder,0,na
+4268544,Drive - finding,0,na
+4152347,Drowsy,0,na
+373172,Drug-induced amnestic syndrome,0,na
+373449,Drug-induced delirium,0,na
+443559,Drug-induced delusional disorder,0,na
+376095,Drug-induced dementia,0,na
+4103126,Drug-induced depressive state,0,na
+440987,Drug-induced hallucinosis,0,na
+436079,Drug-induced mood disorder,0,na
+4101142,Drug-induced paranoia or hallucinatory states,0,na
+4100362,Drug-induced personality disorder,0,na
+434900,Drug-induced psychosis,0,na
+4044061,Drug-induced tic,0,na
+4148767,Dysphoric mood,1,depression
+433440,Dysthymia,1,depression
+44782432,Early onset Alzheimer's disease with behavioral disturbance,0,na
+439002,Eating disorder,0,na
+4144892,Eating disorder in remission,0,na
+4152074,Effort syncope,0,na
+4217365,Elective mutism,0,na
+4274115,Emotional adjustment - finding,0,na
+4305081,Emotional problems,0,na
+4025215,Emotional state finding,0,na
+40483106,Emotional stress,0,na
+439791,Emotional upset,0,na
+4103399,Emotionally unstable personality disorder,0,na
+4114950,Endogenous depression,1,depression
+435532,Episodic chronic alcoholism,0,na
+44784632,Episodic mood disorder,0,na
+4091702,Examination phobia,0,na
+4187714,Excessive somnolence,0,na
+437840,Exhibitionism,0,na
+432611,Explosive personality disorder,0,na
+4268240,Expression of emotions - finding,0,na
+4047760,Facial tic disorder,0,na
+440984,Factitious disorder,0,na
+433993,Factitious disorder with combined physical AND psychological symptoms,0,na
+4334472,Factitious disorder with predominantly physical signs and symptoms,0,na
+443604,Factitious disorder with predominantly psychological signs and symptoms,0,na
+4029621,Fear,0,na
+37018227,Fear about medication side effects,0,na
+4120383,Fear associated with healthcare,0,na
+4085063,Fear associated with illness and body function,0,na
+4092242,Fear of activities in public,0,na
+4084712,Fear of animals,0,na
+4009714,Fear of blood,0,na
+43020470,Fear of bridges,0,na
+4084701,Fear of choking,0,na
+4084717,Fear of contracting disease,0,na
+36716892,Fear of ear disease,0,na
+4270017,Fear of falling,0,na
+4085062,Fear of flying,0,na
+4077954,Fear of heights,0,na
+36716893,Fear of hematological disease,0,na
+43020471,Fear of injury,0,na
+4023785,Fear of insects,0,na
+44783317,Fear of medical treatment,0,na
+4085678,Fear of natural phenomena,0,na
+4092616,Fear of needles,0,na
+36716889,Fear of nutritional disease,0,na
+4092243,Fear of public speaking,0,na
+4025952,Fear of thunderstorm,0,na
+4272256,Fearful mood,0,na
+4086746,Feeling agitated,0,na
+4327815,Feeling angry,0,na
+4087467,Feeling faint,0,na
+4184149,Feeling irritable,0,na
+4147192,Feeling lonely,0,na
+436817,Feeling nervous,0,na
+4074628,Feeling stressed,0,na
+4021339,Feeling suicidal,0,na
+4169106,Feeling unhappy,0,na
+4076636,Feeling upset,0,na
+437531,Fetishism,0,na
+43021197,Fetishistic transvestism,0,na
+4084730,Fidgeting,0,na
+4268247,Finding related to ability to control anger,0,na
+4272714,Finding related to ability to control emotions,0,na
+4271387,Finding related to ability to sleep,0,na
+4254485,Finding related to attentiveness,0,na
+4275360,Finding related to awareness of self,0,na
+4150852,Finding related to orientation,0,na
+4276724,Finding related to self-esteem,0,na
+4022133,Finding relating to grief and dying,0,na
+4041273,Finding relating to self-concept,0,na
+4148937,Flashbacks,0,na
+4085680,Flying phobia,0,na
+436803,Fragile X syndrome,0,na
+377842,Frontal lobe syndrome,0,na
+4269780,Frotteurism,0,na
+435795,Fugue,0,na
+4093833,Funny turn,0,na
+4246663,Gender dysphoria,0,na
+37108765,Gender dysphoria in adolescence and adulthood,0,na
+37117130,Gender dysphoria in childhood,0,na
+4338512,Gender identity disorder,0,na
+443625,Gender identity disorder of adulthood,0,na
+436381,Gender identity disorder of childhood,0,na
+4268834,General mental state finding,0,na
+377788,General paresis - neurosyphilis,0,na
+434613,Generalized anxiety disorder,1,anxiety
+4268775,Generalized social phobia,1,anxiety
+379782,Gilles de la Tourette's syndrome,0,na
+4333681,Globus abdominalis,0,na
+4075831,Grief finding,0,na
+4266301,Grieving process stage - finding,0,na
+4012108,Gynephobia,0,na
+4299571,Habit tic,0,na
+4291439,Habit tic affecting skin,0,na
+433031,Hallucinations,1,psychosis
+4176286,Hallucinogen delusional disorder,0,na
+4137955,Hallucinogen hallucinosis,0,na
+4173746,Hallucinogen intoxication,0,na
+4236877,Hallucinogen intoxication delirium,0,na
+4029464,Hallucinogen mood disorder,0,na
+4035299,Hallucinogen-induced anxiety disorder,0,na
+4203152,Hallucinogen-induced organic mental disorder,0,na
+140586,Heat syncope,0,na
+4085029,Heightened auditory perception,0,na
+4084552,Heightened perception,0,na
+4138543,Hemi-neglect,0,na
+45765723,High-functioning autism,0,na
+440369,Histrionic personality disorder,0,na
+378163,Hyperacusis,0,na
+36685164,Hyperacusis of left ear,0,na
+36685235,Hyperacusis of right ear,0,na
+4128822,Hyperesthesia of special senses,0,na
+437261,Hyperkinesis with developmental delay,0,na
+438132,Hyperkinetic conduct disorder,0,na
+4252239,Hypersexuality state,0,na
+436669,Hypersomnia disorder related to another mental disorder,0,na
+4264363,Hypnagogic hallucinations,0,na
+4288173,Hypnapompic hallucinations,0,na
+434920,Hypochondriasis,0,na
+4333678,Hypomania,1,bipolar
+441843,Hypomanic personality disorder,0,na
+4240219,Hypotensive syncope,0,na
+4281692,Identity disorder,0,na
+43020452,Identity disorder of childhood,0,na
+37117155,Illness anxiety disorder,1,anxiety
+4201304,Illusions,0,na
+45767114,Impairment of mental alertness,0,na
+433752,Impulse control disorder,0,na
+4117518,Impulsive character,0,na
+4318665,Inattention,0,na
+4048933,Increased stress,0,na
+4071366,Indifference,0,na
+436952,Induced psychotic disorder,0,na
+4254211,Infantile autism,0,na
+4232492,Inhalant-induced mood disorder,0,na
+4264889,Inhalant-induced organic mental disorder,0,na
+4139421,Inhalant-induced persisting dementia,0,na
+442749,Inhibited female orgasm,0,na
+444268,Inhibited male orgasm,0,na
+37016173,Insomnia caused by alcohol,0,na
+439013,Insomnia disorder related to another mental disorder,0,na
+763092,Insomnia due to anxiety and fear,0,na
+40277917,Intellectual disability,0,na
+4085732,Intermittent confusion,0,na
+4199932,Intermittent drowsiness,0,na
+440989,Intermittent explosive disorder,0,na
+440091,Introverted personality disorder,0,na
+4168681,Irritability and anger,0,na
+438746,Isolated explosive disorder,0,na
+4031884,Kinesthetic alteration,0,na
+434632,Kleptomania,0,na
+4288013,Korsakoff's psychosis,1,psychosis
+4229115,Labile affect,0,na
+4247372,Lack of awareness,0,na
+4021796,Lack of emotional response,0,na
+443262,Lack or loss of sexual desire,0,na
+4057218,Late onset dysthymia,1,depression
+433742,Latent schizophrenia,1,schizo
+432300,Latent schizophrenia in remission,1,schizo
+40480879,Lethal catatonia,1,schizo
+4117364,Level of anxiety,0,na
+4276722,Level of consciousness - finding,0,na
+4268551,Level of interest - finding,0,na
+4297376,Lightheadedness,0,na
+4208544,Loosening of associations,0,na
+4079163,Loss of body image,0,na
+372448,Loss of consciousness,0,na
+4096912,Low motivation,0,na
+4120401,Low self-esteem,0,na
+4194065,Lowe syndrome,0,na
+4269493,Major depression in full remission,1,depression
+4148630,Major depression in partial remission,1,depression
+4176002,Major depression in remission,1,depression
+4323418,"Major depression single episode, in partial remission",1,depression
+37111697,Major depression with psychotic features,1,depression
+4154391,"Major depression, melancholic type",1,depression
+4282096,"Major depression, single episode",1,depression
+4152280,Major depressive disorder,1,depression
+4333677,Mania,1,bipolar
+35610112,Mania with psychotic features,1,bipolar
+4287544,Manic bipolar I disorder,1,bipolar
+436086,Manic bipolar I disorder in full remission,1,bipolar
+442600,Manic bipolar I disorder in partial remission,1,bipolar
+4166701,Manic bipolar I disorder in remission,1,bipolar
+443237,"Manic disorder, single episode",1,bipolar
+4333685,Manipulative personality disorder,0,na
+4133073,Maternity blues,0,na
+4223090,Menopausal depression,1,depression
+4275359,Mental alertness - finding,0,na
+4269985,Mental defense mechanism finding,0,na
+432586,Mental disorder,0,na
+4021767,Mental disorder AND/OR culture bound syndrome,0,na
+37309774,Mental disorder caused by methamphetamine,0,na
+40483111,Mental disorder due to drug,0,na
+442920,Mental disorder during pregnancy - baby delivered,0,na
+442918,Mental disorder during pregnancy - baby not yet delivered,0,na
+4130710,Mental disorder in adolescence,0,na
+4310330,Mental disorder in childhood,0,na
+4085427,Mental disorder in infancy,0,na
+45765704,Mental disorder in mother complicating pregnancy,0,na
+442919,Mental disorder in the puerperium - baby delivered,0,na
+4060424,"Mental disorders during pregnancy, childbirth and the puerperium",0,na
+4154767,Mental distress,0,na
+4131548,Mental health problem,0,na
+4269314,Mental state finding,0,na
+380707,Metamorphopsia,0,na
+4121813,Micturition syncope,0,na
+4322025,Mild anxiety,1,anxiety
+4028027,Mild bipolar disorder,1,bipolar
+432290,"Mild bipolar I disorder, single manic episode",1,bipolar
+4324945,"Mild bipolar II disorder, most recent episode major depressive",1,bipolar
+762497,Mild dementia,0,na
+437250,Mild depressed bipolar I disorder,1,bipolar
+4149320,Mild depression,1,depression
+432612,Mild intellectual disability,0,na
+4336957,Mild major depression,1,depression
+4195572,"Mild major depression, single episode",1,depression
+4215917,Mild manic bipolar I disorder,1,bipolar
+440079,Mild mixed bipolar I disorder,1,bipolar
+4269143,Mild mood disorder,0,na
+4228802,Mild recurrent major depression,1,depression
+36713698,Minimal depression,1,depression
+36715000,Minimal major depression,1,depression
+4174987,Minor depressive disorder,1,depression
+4338031,Mixed anxiety and depressive disorder,1,anxiety
+4338031,Mixed anxiety and depressive disorder,1,depression
+436668,Mixed behavior and emotional disorder,0,na
+439250,Mixed bipolar affective disorder,1,bipolar
+439245,"Mixed bipolar affective disorder, in full remission",1,bipolar
+439249,"Mixed bipolar affective disorder, mild",1,bipolar
+439248,"Mixed bipolar affective disorder, moderate",1,bipolar
+439246,"Mixed bipolar affective disorder, severe, with psychosis",1,bipolar
+443906,Mixed bipolar I disorder,1,bipolar
+4009648,Mixed bipolar I disorder in full remission,1,bipolar
+437529,Mixed bipolar I disorder in partial remission,1,bipolar
+433743,Mixed bipolar I disorder in remission,1,bipolar
+4046090,Mixed cortical and subcortical vascular dementia,0,na
+43021816,Mixed dementia,0,na
+37018356,Moderate alcohol dependence,0,na
+4263429,Moderate anxiety,1,anxiety
+4194222,Moderate bipolar disorder,1,bipolar
+440067,"Moderate bipolar I disorder, single manic episode",1,bipolar
+4262111,"Moderate bipolar II disorder, most recent episode major depressive",1,bipolar
+4280361,Moderate depressed bipolar I disorder,1,depression
+4151170,Moderate depression,1,depression
+436682,Moderate intellectual disability,0,na
+381966,Moderate loss of consciousness,0,na
+4307111,Moderate major depression,1,depression
+4049623,"Moderate major depression, single episode",1,depression
+4307804,Moderate manic bipolar I disorder,1,bipolar
+439785,Moderate mixed bipolar I disorder,1,bipolar
+4241158,Moderate mood disorder,0,na
+4077577,Moderate recurrent major depression,1,depression
+36717092,Moderately severe depression,1,depression
+36714389,Moderately severe major depression,1,depression
+36714998,Moderately severe recurrent major depression,1,depression
+444100,Mood disorder,0,na
+42538589,Mood disorder caused by stimulant,0,na
+4295956,Mood disorder due to a general medical condition,0,na
+4244690,Mood disorder in full remission,0,na
+4253782,Mood disorder in partial remission,0,na
+43021849,Mood disorder of manic type,1,bipolar
+4328217,Mood disorder with depressive features due to general medical condition,1,depression
+37110429,Mood disorder with depressive symptoms caused by anxiolytic,0,na
+4298317,Mood disorder with major depressive-like episode due to general medical condition,1,depression
+4102936,Mood disorder with manic features due to general medical condition,1,bipolar
+4329560,Mood disorder with mixed features due to general medical condition,1,bipolar
+4021782,Mood finding,0,na
+4078201,Mood swings,0,na
+4096921,Mood-congruent hallucination,1,psychosis
+4120400,Moody,0,na
+4025214,Motivation finding,0,na
+4171496,Motor skill disorder,0,na
+4044062,Motor tic disorder,0,na
+4081310,Movement of visual image - finding,0,na
+379778,Multi-infarct dementia,0,na
+444091,Multi-infarct dementia with delirium,0,na
+443790,Multi-infarct dementia with delusions,0,na
+443864,Multi-infarct dementia with depression,0,na
+377254,"Multi-infarct dementia, uncomplicated",0,na
+435230,Multiple personality disorder,0,na
+4297383,Multiple somatic complaints,0,na
+4065322,Munchausen's syndrome,0,na
+4219510,Narcissistic character,0,na
+440080,Narcissistic personality disorder,0,na
+4332995,Needle phobia,0,na
+4113235,Neglect of left side of body,0,na
+375077,Neglect of one side of body,0,na
+4081165,Neglect of part of body,0,na
+433177,Neurocirculatory asthenia,0,na
+444243,Neurosis,0,na
+4233811,Nicotine withdrawal,0,na
+4146763,Nicotine-induced organic mental disorder,0,na
+4178928,Nightmares associated with chronic post-traumatic stress disorder,1,PTSD
+4101149,Non-organic psychosis,0,na
+440697,Nonaggressive unsocial conduct disorder,0,na
+4152165,Nondependent alcohol abuse,0,na
+441276,Nondependent alcohol abuse in remission,0,na
+435534,"Nondependent alcohol abuse, continuous",0,na
+440685,"Nondependent alcohol abuse, episodic",0,na
+439313,Nondependent antidepressant type drug abuse in remission,0,na
+434627,"Nondependent antidepressant type drug abuse, continuous",0,na
+434917,"Nondependent antidepressant type drug abuse, episodic",0,na
+36712926,Nonspecific paroxysmal spell,0,na
+4088147,Normal grief reaction,0,na
+4012101,Nosophobia,0,na
+4038252,O/E - depressed,1,depression
+43021805,Obsessional personality disorder,0,na
+443876,Obsessive compulsive personality disorder,0,na
+440374,Obsessive-compulsive disorder,1,anxiety
+4011050,Obsessive-compulsive personality trait,0,na
+4218541,Olfactory hallucinations,0,na
+4199769,Opioid intoxication delirium,0,na
+4336384,Opioid withdrawal,0,na
+4105930,Opioid-induced mood disorder,0,na
+37016268,Opioid-induced mood disorder due to opioid abuse,0,na
+37018689,Opioid-induced mood disorder due to opioid dependence,0,na
+4032799,Opioid-induced organic mental disorder,0,na
+4067987,Opioid-induced psychotic disorder with delusions,0,na
+4024296,Opioid-induced psychotic disorder with hallucinations,0,na
+4323580,Opioid-induced sexual dysfunction,0,na
+441547,Oppositional defiant disorder,0,na
+381537,Organic anxiety disorder,1,anxiety
+4335159,Organic catatonic disorder,1,psychosis
+375229,Organic delusional disorder,1,psychosis
+4090012,Organic disorder of body schema,0,na
+373175,Organic hallucinosis,1,psychosis
+4103572,Organic memory impairment,0,na
+374009,Organic mental disorder,0,na
+4023986,Organic mental disorder of unknown etiology,0,na
+373176,Organic mood disorder,0,na
+4175329,Organic mood disorder of depressed type,1,depression
+4237734,Organic mood disorder of manic type,1,bipolar
+4307518,Organic mood disorder of mixed type,1,bipolar
+380375,Organic personality disorder,0,na
+4100247,Organic psychotic condition,1,psychosis
+4221288,Orgasm disorder,0,na
+4092101,Orientated,0,na
+4196358,Panic,1,anxiety
+4021498,Panic attack,1,anxiety
+436074,Panic disorder,1,anxiety
+4147466,Panic disorder with agoraphobia,1,anxiety
+4217601,Panic disorder with agoraphobia AND moderate panic attacks,1,anxiety
+4204708,Panic disorder with agoraphobia AND severe panic attacks,1,anxiety
+4246992,"Panic disorder with agoraphobia, severe agoraphobic avoidance AND severe panic attacks",1,anxiety
+4211231,Panic disorder without agoraphobia,1,anxiety
+4218624,Panic disorder without agoraphobia with mild panic attacks,1,anxiety
+4277739,Panic disorder without agoraphobia with moderate panic attacks,1,anxiety
+4221253,Panic disorder without agoraphobia with panic attacks in full remission,1,anxiety
+4182119,Panic disorder without agoraphobia with severe panic attacks,1,anxiety
+4102670,Paranoid disorder,1,psychosis
+440691,Paranoid personality disorder,0,na
+433450,Paranoid schizophrenia,1,schizo
+435217,Paranoid schizophrenia in remission,1,schizo
+4173740,Paraphilia,0,na
+37110485,Paraphilia involving non-consenting individual,0,na
+434318,Paraphrenia,0,na
+4112929,Parasitophobia,0,na
+437255,Passive aggressive personality disorder,0,na
+441550,Pedophilia,0,na
+4024707,Perception AND/OR perception disturbance,0,na
+37016267,Perceptual disturbance due to alcohol withdrawal,0,na
+4087190,Performance anxiety,0,na
+4232639,Persecutory delusion disorder,1,schizo
+4195445,Perseveration,0,na
+37311515,Persistent adjustment disorder,0,na
+4109691,Persistent alcohol abuse,0,na
+4335168,Persistent delusional disorder,1,psychosis
+4025218,Personality AND/OR personality trait,0,na
+444092,Personality change,0,na
+44782790,Personality change due to organic disorder,0,na
+441838,Personality disorder,0,na
+43020503,Pervasive developmental disorder of residual state,0,na
+440985,Phobia,0,na
+4304010,Phobic disorder,0,na
+4238682,Physical AND emotional exhaustion state,0,na
+4207981,Physical stress,0,na
+437839,Pica,0,na
+4100683,Pica of infancy and childhood,0,na
+4096147,Poor concentration,0,na
+4012352,Poor self-esteem,0,na
+4229086,Post-encephalitic syndrome,0,na
+372610,Postconcussion syndrome,0,na
+4064308,Postencephalitic parkinsonism,0,na
+4239471,Postpartum depression,0,na
+4057246,Postpartum psychosis,0,na
+436676,Posttraumatic stress disorder,1,PTSD
+4202389,"Posttraumatic stress disorder, delayed onset",1,PTSD
+4147345,Pregnancy with mental disorders,0,na
+4242733,Premenstrual dysphoric disorder,0,na
+4333667,Presbyophrenic psychosis,0,na
+378125,Presenile dementia,0,na
+381832,Presenile dementia with delirium,0,na
+44782771,Presenile dementia with delusions,0,na
+377527,Presenile dementia with depression,0,na
+4218017,"Primary degenerative dementia of the Alzheimer type, presenile onset",0,na
+4277444,"Primary degenerative dementia of the Alzheimer type, presenile onset, uncomplicated",0,na
+4220313,"Primary degenerative dementia of the Alzheimer type, senile onset",0,na
+4278830,"Primary degenerative dementia of the Alzheimer type, senile onset, uncomplicated",0,na
+4307951,Primary dysthymia,1,depression
+438733,Profound intellectual disability,0,na
+433751,Prolonged depressive adjustment reaction,1,depression
+380844,Prolonged loss of consciousness,0,na
+439790,Psychalgia,0,na
+4080762,Psychoactive substance dependence,0,na
+4004672,Psychoactive substance use disorder,0,na
+37110468,Psychoactive substance withdrawal without complication,0,na
+4307098,Psychoactive substance-induced organic amnestic disorder,0,na
+4178114,Psychoactive substance-induced organic anxiety disorder,0,na
+4191592,Psychoactive substance-induced organic delirium,0,na
+443930,Psychoactive substance-induced organic delusional disorder,0,na
+4009647,Psychoactive substance-induced organic dementia,0,na
+4155336,Psychoactive substance-induced organic hallucinosis,0,na
+375504,Psychoactive substance-induced organic mental disorder,0,na
+444038,Psychoactive substance-induced organic mood disorder,0,na
+4192127,Psychoactive substance-induced withdrawal syndrome,0,na
+4075218,Psychodynamic finding,0,na
+444259,Psychogenic amnesia,0,na
+436958,Psychogenic dysmenorrhea,0,na
+438410,Psychogenic dysuria,0,na
+434017,Psychogenic endocrine malfunction,0,na
+444079,Psychogenic fugue,0,na
+438408,Psychogenic genitourinary tract symptoms,0,na
+4283532,Psychogenic headache,0,na
+4103431,Psychogenic hyperventilation,0,na
+4173812,Psychogenic overeating,0,na
+440983,Psychogenic paranoid psychosis,1,psychosis
+4049477,Psychogenic polydipsia,0,na
+440993,Psychogenic skin disease,0,na
+437534,Psychogenic symptom of special sense organ,0,na
+4302523,Psychogenic syncope,0,na
+4272467,Psychogenic voice disorder,0,na
+441546,Psychogenic vomiting,0,na
+4049367,Psychologic conversion disorder,0,na
+442324,Psychologic dyspareunia,0,na
+198131,Psychologic vaginismus,0,na
+43020441,Psychological disorder during pregnancy,0,na
+4085024,Psychological finding of perception,0,na
+435521,Psychophysiologic disorder,0,na
+4138617,Psychophysiologic insomnia,0,na
+436666,Psychosexual disorder,0,na
+439701,Psychosexual identity disorder,0,na
+35622934,Psychosis and severe depression co-occurrent and due to bipolar affective disorder,1,bipolar
+4094235,Psychosomatic factor in physical condition,0,na
+440981,Psychosomatic musculoskeletal symptoms,0,na
+436073,Psychotic disorder,1,psychosis
+37110437,Psychotic disorder caused by cocaine,0,na
+37108954,Psychotic disorder caused by methamphetamine,0,na
+37110472,Psychotic disorder caused by psychoactive substance,0,na
+42539146,Psychotic disorder caused by stimulant,0,na
+44784619,Psychotic disorder due to amphetamine use,0,na
+4088165,Psychotic symptom finding,1,psychosis
+4090920,Psychotic symptom present,1,psychosis
+434629,Pyromania,0,na
+37312578,Rapid cycling bipolar II disorder,1,bipolar
+4216421,Reactive attachment disorder,0,na
+4185575,Reactive attachment disorder of early childhood,0,na
+4009182,"Reactive attachment disorder of infancy OR early childhood, disinhibited type",0,na
+441540,Reactive confusion,0,na
+4314692,Reactive depression (situational),1,depression
+435520,Reactive depressive psychosis,1,psychosis
+435237,Reactive psychoses,1,psychosis
+4262415,Recurrent conversion disorder,0,na
+4098302,Recurrent depression,1,depression
+4282316,Recurrent major depression,1,depression
+4263748,Recurrent major depression in full remission,1,depression
+4141454,Recurrent major depression in partial remission,1,depression
+433991,Recurrent major depression in remission,1,depression
+35615155,Recurrent major depressive disorder in partial remission co-occurrent with anxiety,1,depression
+4304140,Recurrent major depressive disorder with atypical features,1,depression
+4205471,Recurrent major depressive disorder with melancholic features,1,depression
+4324959,Recurrent major depressive disorder with postpartum onset,0,na
+432285,Recurrent major depressive episodes,1,depression
+438998,"Recurrent major depressive episodes, mild",1,depression
+432883,"Recurrent major depressive episodes, moderate",1,depression
+434911,"Recurrent major depressive episodes, severe, with psychosis",1,depression
+437249,Recurrent manic episodes,1,bipolar
+437831,"Recurrent manic episodes, in full remission",1,bipolar
+438119,"Recurrent manic episodes, mild",1,bipolar
+438405,"Recurrent manic episodes, moderate",1,bipolar
+35615153,Recurrent moderate major depressive disorder co-occurrent with anxiety,1,depression
+35615152,Recurrent severe major depressive disorder co-occurrent with anxiety,1,depression
+4084562,Reduced concentration,0,na
+4085043,Reduced concentration span,0,na
+439702,Residual infantile autism,0,na
+439004,Residual schizophrenia,1,schizo
+440686,Residual schizophrenia in remission,1,schizo
+4168212,Restlessness and agitation,0,na
+4288480,Rett's disorder,0,na
+4242221,Rumination disorder,0,na
+4262968,Rumination disorder of infancy,0,na
+4318861,Sadomasochism,0,na
+4286201,Schizoaffective disorder,1,schizo
+4244078,"Schizoaffective disorder, bipolar type",1,schizo
+4224940,"Schizoaffective disorder, depressive type",1,schizo
+432597,Schizoaffective schizophrenia,1,schizo
+434321,Schizoaffective schizophrenia in remission,1,schizo
+440085,Schizoid personality disorder,0,na
+435783,Schizophrenia,1,schizo
+435219,Schizophrenia in remission,1,schizo
+4100365,Schizophrenic disorders,1,schizo
+4085662,Schizophrenic prodrome,1,schizo
+4012112,Schizophrenic reaction,1,schizo
+444434,Schizophreniform disorder,1,schizo
+434010,Schizotypal personality disorder,0,na
+4155074,School phobia,0,na
+4092239,Seasonal affective disorder,0,na
+4088132,Seasonal variation of mood,0,na
+4224639,Secondary dysthymia,1,depression
+37109941,Secondary mood disorder,0,na
+4077017,Sedated,0,na
+4262566,Sedative withdrawal delirium,0,na
+4184438,"Sedative, hypnotic AND/OR anxiolytic intoxication delirium",0,na
+4056690,"Sedative, hypnotic AND/OR anxiolytic-induced anxiety disorder",0,na
+4103853,"Sedative, hypnotic AND/OR anxiolytic-induced mood disorder",0,na
+4199244,"Sedative, hypnotic AND/OR anxiolytic-induced persisting amnestic disorder",0,na
+4171175,"Sedative, hypnotic AND/OR anxiolytic-induced psychotic disorder with hallucinations",0,na
+4239812,"Sedative, hypnotic AND/OR anxiolytic-induced sleep disorder",0,na
+4193868,"Sedative, hypnotic AND/OR anxiolytic-related disorder",0,na
+4274636,Self-esteem disturbance,0,na
+4152048,Senile and presenile organic psychotic conditions,1,psychosis
+4048875,Senile dementia,0,na
+4196433,Senile dementia of the Lewy body type,0,na
+376946,Senile dementia with delirium,0,na
+380986,Senile dementia with delusion,0,na
+379784,Senile dementia with depression,0,na
+4101137,Senile dementia with depressive or paranoid features,0,na
+444223,Sense of smell altered,0,na
+4148702,Sensitivity,0,na
+4158322,Sensory agnosia,0,na
+4021646,Sensory distortion,0,na
+434628,Separation anxiety,0,na
+4039212,Separation anxiety disorder of childhood,0,na
+37017563,Severe alcohol dependence,0,na
+4214746,Severe anxiety (panic),1,anxiety
+4155798,Severe bipolar disorder,1,bipolar
+4195158,Severe bipolar disorder with psychotic features,1,bipolar
+4200385,Severe bipolar disorder without psychotic features,1,bipolar
+4154283,Severe bipolar I disorder,1,bipolar
+4220617,"Severe bipolar I disorder, single manic episode with psychotic features",1,bipolar
+4030856,"Severe bipolar I disorder, single manic episode without psychotic features",1,bipolar
+4161200,Severe bipolar II disorder,1,bipolar
+42872413,Severe depressed bipolar I disorder,1,bipolar
+436386,Severe depressed bipolar I disorder with psychotic features,1,bipolar
+442570,Severe depressed bipolar I disorder without psychotic features,1,bipolar
+4149321,Severe depression,1,depression
+432898,Severe intellectual disability,0,na
+42872722,Severe major depression,1,depression
+4250023,Severe major depression with psychotic features,1,depression
+4144233,"Severe major depression with psychotic features, mood-congruent",1,depression
+4327337,Severe major depression without psychotic features,1,depression
+42872411,"Severe major depression, single episode",1,depression
+438406,"Severe major depression, single episode, with psychotic features",1,depression
+441534,"Severe major depression, single episode, without psychotic features",1,depression
+43020451,Severe manic bipolar I disorder,1,bipolar
+4102603,Severe manic bipolar I disorder with psychotic features,1,bipolar
+443797,Severe manic bipolar I disorder without psychotic features,1,bipolar
+42872412,Severe mixed bipolar I disorder,1,bipolar
+439001,Severe mixed bipolar I disorder with psychotic features,1,bipolar
+372599,Severe mixed bipolar I disorder without psychotic features,1,bipolar
+4129184,Severe postnatal depression,0,na
+43531624,Severe recurrent major depression,1,depression
+4154309,Severe recurrent major depression with psychotic features,1,depression
+4141292,"Severe recurrent major depression with psychotic features, mood-congruent",1,depression
+435220,Severe recurrent major depression without psychotic features,1,depression
+4208120,Sexual aversion disorder,0,na
+4186941,Sexual desire disorder,0,na
+436674,Sexual masochism,0,na
+442352,Sexual sadism,0,na
+4100089,Sibling jealousy,0,na
+440684,Simple paranoid state,0,na
+4182847,Simple phobia,0,na
+436067,Simple schizophrenia,1,schizo
+4025677,Single episode of major depression in full remission,1,depression
+439259,"Single major depressive episode, severe, with psychosis",1,depression
+439261,Single manic episode in full remission,1,bipolar
+44805552,Single manic episode in partial remission,1,bipolar
+44805553,Single manic episode in remission,1,bipolar
+439273,"Single manic episode, mild",1,bipolar
+439272,"Single manic episode, moderate",1,bipolar
+439262,"Single manic episode, severe, with psychosis",1,bipolar
+4121812,Situational syncope,0,na
+4305303,Sleep deprivation,0,na
+40482080,Sleep related hallucinations,0,na
+4175644,Sleep state misperception,0,na
+4084709,Social fear,0,na
+440690,Social phobia,0,na
+4103276,"Social phobia, fear of public speaking",0,na
+432877,Socialized behavior disorder,0,na
+4140988,Somatic delusion disorder,0,na
+441545,Somatization disorder,0,na
+4333680,Somatoform autonomic dysfunction,0,na
+437536,Somatoform autonomic dysfunction - gastrointestinal tract,0,na
+437841,Somatoform autonomic dysfunction - respiratory tract,0,na
+435784,Somatoform disorder,0,na
+4107375,Somatoform pain disorder,0,na
+4147972,Specific academic or work inhibition,0,na
+4085677,Specific fear,0,na
+441544,Specific nonpsychotic mental disorders following organic brain damage,0,na
+4102979,Specific reading disorder,0,na
+4207660,Stereotypy habit disorder,0,na
+4251306,Stress,0,na
+4152371,Stress and adjustment reaction,0,na
+37018883,Stress due to family tension,0,na
+432600,Stress reaction causing mixed disturbance of emotion and conduct,0,na
+439437,Stress-related problem,0,na
+4229897,Stupor,0,na
+379779,Subacute delirium,0,na
+433990,Subchronic catatonic schizophrenia,1,schizo
+438724,Subchronic disorganized schizophrenia,1,schizo
+436384,Subchronic disorganized schizophrenia with acute exacerbations,1,schizo
+440077,Subchronic latent schizophrenia,1,schizo
+432299,Subchronic paranoid schizophrenia,1,schizo
+433442,Subchronic residual schizophrenia,1,schizo
+444396,Subchronic residual schizophrenia with acute exacerbations,1,schizo
+433443,Subchronic schizoaffective schizophrenia,1,schizo
+440373,Subchronic schizophrenia,1,schizo
+432598,Subchronic schizophrenia with acute exacerbations,1,schizo
+4310121,Subchronic undifferentiated schizophrenia,1,schizo
+42538857,Subcortical dementia,0,na
+4047747,Subcortical vascular dementia,0,na
+37117049,Substance induced psychotic disorder,0,na
+432436,Symbolic dysfunction,0,na
+135360,Syncope,0,na
+4206148,Syncope and collapse,0,na
+4162208,Syncope due to orthostatic hypotension,0,na
+4225265,Synesthesia,0,na
+4280834,Tactile hallucinations,1,psychosis
+4252589,Tangential thinking,0,na
+4274248,Thought process - finding,0,na
+4177975,Thyrotoxicosis factitia,0,na
+4229431,Thyrotoxicosis factitia with thyrotoxic crisis,0,na
+381839,Tic disorder,0,na
+4162499,Transient altered mental status,0,na
+443586,Transient organic mental disorder,0,na
+4098166,Transient organic psychoses,1,psychosis
+4210636,Transient tic disorder,0,na
+4047745,Traumatic encephalopathy,0,na
+4062972,Trichotillomania,0,na
+4234105,Tussive syncope,0,na
+4243064,Unable to concentrate,0,na
+4135232,Unaggressive type unsocialized behavior disorder,0,na
+4310679,Uncomplicated alcohol withdrawal,0,na
+376085,Uncomplicated presenile dementia,0,na
+375791,Uncomplicated senile dementia,0,na
+4049391,Undifferentiated attention deficit disorder,0,na
+4008566,Undifferentiated schizophrenia,1,schizo
+434625,Undifferentiated somatoform disorder,0,na
+4309389,Unresponsive,0,na
+4082439,Unusual smell in nose,0,na
+443605,Vascular dementia,0,na
+37018688,Vascular dementia with behavioral disturbance,0,na
+37109056,Vascular dementia without behavioral disturbance,0,na
+4162976,Vasovagal syncope,0,na
+4085036,Verbal auditory hallucinations,0,na
+4037738,Visual alteration,0,na
+4275889,Visual hallucinations,1,psychosis
+4116731,Visuospatial agnosia,0,na
+4021798,Volatile Mood,0,na
+434624,Voyeurism,0,na
+443436,Wakefulness finding,0,na
+4074314,Working through the pain of grief,0,na
+4193634,Worried,0,na
+4184002,Zoophobia,0,na
